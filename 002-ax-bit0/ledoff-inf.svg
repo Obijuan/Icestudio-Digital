@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="156.48219mm"
+   height="84.13517mm"
+   viewBox="0 0 156.48219 84.135172"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   sodipodi:docname="ledoff-inf.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3558782"
+     inkscape:cx="272.88586"
+     inkscape:cy="141.23687"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Back"
+     transform="translate(-17.937841,-1.7586204)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect29"
+       width="156.48219"
+       height="84.13517"
+       x="17.937841"
+       y="1.7586204" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21"
+       width="149.85899"
+       height="78.730141"
+       x="21.249441"
+       y="4.1280127" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.937841,-1.7586204)">
+    <rect
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+       id="rect6"
+       width="39.222736"
+       height="23.806833"
+       x="38.149471"
+       y="44.686596" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 77.372207,56.59001 H 104.06266"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="57.151775"
+       y="53.276196"
+       id="text11"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="57.151775"
+         y="53.276196"
+         id="tspan5">Circuito</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="57.151775"
+       y="60.691433"
+       id="text6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="57.151775"
+         y="60.691433"
+         id="tspan6">LEDOFF-INF</tspan></text>
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       d="m 109.03958,53.10815 6.58191,-10.95662"
+       id="path28"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="M 106.86518,50.17104 V 47.22338"
+       id="path11" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="M 106.86518,65.72741 V 62.77975"
+       id="path16" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 113.05502,56.58991 h 2.94766"
+       id="path17" />
+    <g
+       id="g30"
+       transform="translate(-31.58866,-64.961803)">
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="121.53887"
+         cx="138.53174"
+         id="path878-3-6"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#510002;fill-opacity:1;stroke:#510002;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path878-7"
+         cx="138.5378"
+         cy="121.53896"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#740300;fill-opacity:1;stroke:#740300;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 137.80948,118.57274 c -0.94225,0.24011 -2.10775,1.14969 -2.19053,2.64897 -0.0828,1.49928 0.74458,2.53391 1.72051,3.13396 0.97593,0.60005 3.02938,0.10527 3.69253,-0.98682 0.77251,-1.27223 0.69708,-2.68972 -0.20784,-3.74337 -0.90493,-1.05365 -2.0724,-1.29284 -3.01466,-1.05274 z"
+         id="path895-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path897-3"
+         cx="138.59003"
+         cy="122.27235"
+         rx="0.29875386"
+         ry="0.20100668"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 111.24206,52.21304 2.08432,-2.08432"
+       id="path18" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 111.24205,60.96679 2.08432,2.08432"
+       id="path19" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 100.30687,50.12872 2.08432,2.08432"
+       id="path26" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="M 100.40398,63.05112 102.4883,60.9668"
+       id="path27" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="122.01118"
+       y="41.418438"
+       id="text57"><tspan
+         sodipodi:role="line"
+         id="tspan57"
+         style="fill:#000000;stroke-width:0.396875"
+         x="122.01118"
+         y="41.418438">LED apagado</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="circle27"
+       cx="108.80671"
+       cy="53.537029"
+       r="0.91979891" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="circle57"
+       cx="108.80671"
+       cy="53.537029"
+       r="0.69557589" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       d="m 108.78457,53.53266 6.58191,-10.95662 h 35.40388"
+       id="path57"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="circle28"
+       cx="80.542191"
+       cy="56.590012"
+       r="0.69557589" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       d="M 80.581223,56.597545 95.025506,32.356012 H 141.3986"
+       id="path29"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="103.37485"
+       y="31.207666"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan29"
+         style="fill:#000000;stroke-width:0.396875"
+         x="103.37485"
+         y="31.207666">Salida del circuito</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="38.393902"
+       y="15.206353"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke-width:0.396875"
+         x="38.393902"
+         y="15.206353">Apagar el LED indefinidamente</tspan></text>
+  </g>
+</svg>
