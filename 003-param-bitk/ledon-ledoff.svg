@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="140.75206mm"
+   height="101.30608mm"
+   viewBox="0 0 140.75206 101.30609"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   sodipodi:docname="ledon-ledoff.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1050334"
+     inkscape:cx="226.68997"
+     inkscape:cy="271.93747"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="1112"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Back"
+     transform="translate(-27.298996,-25.626665)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect29"
+       width="140.75206"
+       height="101.30608"
+       x="27.298996"
+       y="25.626665" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21-1"
+       width="134.12889"
+       height="96.567253"
+       x="30.61058"
+       y="27.99608" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.298996,-25.626665)">
+    <rect
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+       id="rect6-8"
+       width="39.222736"
+       height="23.806833"
+       x="53.565903"
+       y="84.98362" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 92.788644,96.887029 H 119.47909"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="72.568192"
+       y="93.573219"
+       id="text11"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="72.568192"
+         y="93.573219"
+         id="tspan5-4">Circuito</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="72.568192"
+       y="100.98847"
+       id="text6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="72.568192"
+         y="100.98847"
+         id="tspan6-5">LEDOFF-INF</tspan></text>
+    <g
+       id="g30"
+       transform="translate(-16.172226,-24.664793)">
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="121.53887"
+         cx="138.53174"
+         id="path878-3-6"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#510002;fill-opacity:1;stroke:#510002;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path878-7"
+         cx="138.5378"
+         cy="121.53896"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#740300;fill-opacity:1;stroke:#740300;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 137.80948,118.57274 c -0.94225,0.24011 -2.10775,1.14969 -2.19053,2.64897 -0.0828,1.49928 0.74458,2.53391 1.72051,3.13396 0.97593,0.60005 3.02938,0.10527 3.69253,-0.98682 0.77251,-1.27223 0.69708,-2.68972 -0.20784,-3.74337 -0.90493,-1.05365 -2.0724,-1.29284 -3.01466,-1.05274 z"
+         id="path895-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path897-3"
+         cx="138.59003"
+         cy="122.27235"
+         rx="0.29875386"
+         ry="0.20100668"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <rect
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+       id="rect6-6"
+       width="39.222736"
+       height="23.806833"
+       x="53.565903"
+       y="39.186813" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 92.788634,51.090234 H 119.47908"
+       id="path2-8"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="72.568192"
+       y="47.776413"
+       id="text11-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="72.568192"
+         y="47.776413"
+         id="tspan5-2">Circuito</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="72.568192"
+       y="55.191635"
+       id="text6-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="72.568192"
+         y="55.191635"
+         id="tspan6-6">LEDON-INF</tspan></text>
+    <g
+       id="g6"
+       transform="translate(-55.221566,-106.03572)">
+      <ellipse
+         cy="157.12585"
+         cx="177.50317"
+         id="path878-3"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path878"
+         cx="177.5092"
+         cy="157.12595"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+         id="path895"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path897"
+         cx="177.51335"
+         cy="157.82269"
+         rx="0.34726125"
+         ry="0.27584738"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 122.2816,44.671264 v -2.94766"
+       id="path11-9" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 122.2816,60.227634 v -2.94766"
+       id="path16-50" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 128.47144,51.090134 h 2.94766"
+       id="path17-4" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 126.65848,46.713264 2.08432,-2.08432"
+       id="path18-8" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 126.65847,55.467014 2.08432,2.08432"
+       id="path19-7" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 115.72329,44.628944 2.08432,2.08432"
+       id="path26-1" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 115.8204,57.551344 2.08432,-2.08432"
+       id="path27-72" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="54.408119"
+       y="71.491333"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="fill:#000000;stroke-width:0.396875"
+         x="54.408119"
+         y="71.491333"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+   id="tspan16">Implementación</tspan>: param-bitk(Test=1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="54.069389"
+       y="115.67414"
+       id="text18"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         style="fill:#000000;stroke-width:0.396875"
+         x="54.069389"
+         y="115.67414"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+   id="tspan17">Implementación</tspan>: param-bitk(Test=0)</tspan></text>
+  </g>
+</svg>
