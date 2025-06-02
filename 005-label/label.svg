@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.47937534"
-     inkscape:cx="241.98157"
-     inkscape:cy="653.97606"
+     inkscape:cx="592.43764"
+     inkscape:cy="497.52246"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -2171,7 +2171,7 @@
        id="path18"
        style="display:inline" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:40.6251;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:44.6254;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="10.85919"
        y="39.621727"
        id="text45"
@@ -2184,7 +2184,7 @@
          y="44.066737"
          id="tspan10"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan9">basic.output</tspan>
+   id="tspan9">basic.output label</tspan>
 </tspan><tspan
          x="10.85919"
          y="48.511748"
@@ -2214,7 +2214,7 @@
          y="44.066737"
          id="tspan14"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan13">basic.input</tspan>
+   id="tspan13">basic.input label</tspan>
 </tspan><tspan
          x="10.85919"
          y="48.511748"
