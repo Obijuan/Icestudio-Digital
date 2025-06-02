@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="230.37253mm"
+   height="195.86305mm"
+   viewBox="0 0 230.37253 195.86305"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (2cf3a72590, 2025-05-31)"
+   sodipodi:docname="descripcion-01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.67793911"
+     inkscape:cx="342.95115"
+     inkscape:cy="390.15303"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Back"
+     transform="translate(13.337312,-20.637499)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.79375;stroke-linecap:round"
+       id="rect1"
+       width="230.37253"
+       height="195.86305"
+       x="-13.337312"
+       y="20.637499" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21"
+       width="223.81039"
+       height="188.28894"
+       x="-10.735734"
+       y="23.972191" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(13.337312,-20.637499)">
+    <g
+       id="g1"
+       transform="translate(36.757978,-1.23081)"
+       style="display:inline">
+      <rect
+         ry="1.8800817"
+         y="70.481705"
+         x="126.25012"
+         height="26.499166"
+         width="39.537857"
+         id="rect17"
+         style="fill:#4cb0fb;fill-opacity:1;stroke:none;stroke-width:0.497624;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         rx="1.8800817" />
+      <rect
+         ry="1.365972"
+         y="82.932983"
+         x="128.7735"
+         height="10.534799"
+         width="33.788055"
+         id="rect18"
+         style="fill:#76c2fc;fill-opacity:1;stroke:none;stroke-width:0.29005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         rx="1.365972" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.19921px;line-height:0.9;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.278528;stroke-linecap:square;stroke-linejoin:round"
+         x="124.56107"
+         y="93.496811"
+         id="text18"
+         transform="scale(1.0527054,0.94993339)"><tspan
+           id="tspan18"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#1a1a1a;stroke:none;stroke-width:0.278528"
+           x="124.56107"
+           y="93.496811">D0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.74334px;line-height:0.9;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.307678;stroke-linecap:square;stroke-linejoin:round"
+         x="133.6443"
+         y="82.438263"
+         id="text19"
+         transform="scale(1.0527054,0.94993339)"><tspan
+           id="tspan19"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#1a1a1a;stroke:none;stroke-width:0.307678"
+           x="133.6443"
+           y="82.438263">LED</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 151.60375,88.224051 2.17608,-2.02106"
+         id="path19" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 153.77983,88.224051 -2.17608,-2.02106"
+         id="path20" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.375725;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         d="m 156.59082,87.939551 h 2.57995 l -1.28996,1.58389 z"
+         id="path21" />
+    </g>
+    <g
+       id="g17"
+       transform="translate(-23.543031,28.496031)"
+       style="display:inline">
+      <path
+         id="circle16"
+         style="opacity:1;fill:#ba0ea5;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-opacity:1"
+         d="m 84.73867,62.444162 c -4.661127,0 -8.439718,-3.778591 -8.439718,-8.439718 0,-4.661127 3.778591,-8.439718 8.439718,-8.439718 h 23.31899 c 4.66113,-10e-7 8.43972,3.77859 8.43972,8.439718 0,4.661128 -3.77859,8.439719 -8.43972,8.439718 z"
+         sodipodi:nodetypes="csccscc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.44141px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-opacity:1"
+         x="96.586037"
+         y="56.039394"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="96.586037"
+           y="56.039394">on</tspan></text>
+    </g>
+    <g
+       id="g22"
+       transform="translate(33.181537,28.496031)"
+       style="display:inline">
+      <path
+         id="path22"
+         style="opacity:1;fill:#ba0ea5;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-opacity:1"
+         d="m 84.73867,62.444162 c -4.661127,0 -8.439718,-3.778591 -8.439718,-8.439718 0,-4.661127 3.778591,-8.439718 8.439718,-8.439718 h 23.31899 c 4.66113,-10e-7 8.43972,3.77859 8.43972,8.439718 0,4.661128 -3.77859,8.439719 -8.43972,8.439718 z"
+         sodipodi:nodetypes="csccscc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.44141px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-opacity:1"
+         x="96.586037"
+         y="56.039394"
+         id="text22"><tspan
+           sodipodi:role="line"
+           id="tspan22"
+           style="fill:#ffffff;stroke:none;stroke-width:0.264583"
+           x="96.586037"
+           y="56.039394">on</tspan></text>
+    </g>
+    <rect
+       x="0.24571"
+       y="69.545464"
+       width="39.226002"
+       height="26.048"
+       rx="2.0137999"
+       ry="2.0137999"
+       fill="#e3e3e3"
+       stroke="#777777"
+       stroke-linejoin="round"
+       stroke-width="0.49142"
+       id="rect35"
+       style="display:inline" />
+    <g
+       transform="matrix(0.1039,0,0,0.1039,15.785733,73.555465)"
+       id="g37"
+       style="display:inline">
+      <path
+         d="M 7.702,32.42 49.971,-0.001 84.179,7.7244 56.846,124.4644 30.239,118.4552 51.26,25.2762 20.023,44.2022 Z"
+         fill="#008000"
+         fill-rule="evenodd"
+         id="path36" />
+      <path
+         d="m 46.13,117.28 21.355,28.257 -17.909,21.368 6.1972,5.5127 m -14.032,-54.45 -12.4,28.26 -28.242,5.5127 2.0667,8.9585"
+         fill="none"
+         stroke="#008000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2.196"
+         id="path37" />
+    </g>
+    <path
+       d="m 39.495733,82.643702 h 13.32918"
+       fill="none"
+       stroke="#777777"
+       stroke-width="0.768221"
+       id="path35"
+       style="display:inline" />
+    <path
+       d="M 149.67892,82.643703 H 163.0081"
+       fill="none"
+       stroke="#777777"
+       stroke-width="0.768221"
+       id="path18"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:27.1028;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text25"
+       transform="translate(73.559074,16.333077)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan2">Cable &quot;on&quot;
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:52.4917;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text4"
+       transform="translate(71.651303,-1.167717)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan3">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan6"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan5">META-CIRCUITO</tspan></tspan></text>
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Triangle);marker-end:url(#Triangle)"
+       d="M 54.502793,62.920419 H 147.83612"
+       id="path6" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:0.529167, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 52.824911,48.394217 V 103.42313"
+       id="path7" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:0.529167, 1.05833;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 149.81121,48.394217 V 103.42313"
+       id="path8" />
+    <path
+       style="fill:#008000;stroke:#008000;stroke-width:3.96876;stroke-linecap:round;stroke-dasharray:none;marker-end:url(#Triangle-1)"
+       d="m 101.16946,101.15089 v 34.23878"
+       id="path12" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:52.4917;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text9"
+       transform="translate(71.651303,118.08762)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan7">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan13"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan8">CIRCUITO REAL</tspan></tspan></text>
+    <g
+       id="g15"
+       transform="translate(-4.8412167,99.460386)"
+       style="display:inline">
+      <rect
+         ry="1.8800817"
+         y="70.481705"
+         x="126.25012"
+         height="26.499166"
+         width="39.537857"
+         id="rect10"
+         style="fill:#4cb0fb;fill-opacity:1;stroke:none;stroke-width:0.497624;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         rx="1.8800817" />
+      <rect
+         ry="1.365972"
+         y="82.932983"
+         x="128.7735"
+         height="10.534799"
+         width="33.788055"
+         id="rect11"
+         style="fill:#76c2fc;fill-opacity:1;stroke:none;stroke-width:0.29005;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         rx="1.365972" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.19921px;line-height:0.9;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.278528;stroke-linecap:square;stroke-linejoin:round"
+         x="124.56107"
+         y="93.496811"
+         id="text11"
+         transform="scale(1.0527054,0.94993339)"><tspan
+           id="tspan11"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#1a1a1a;stroke:none;stroke-width:0.278528"
+           x="124.56107"
+           y="93.496811">D0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:5.74334px;line-height:0.9;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.307678;stroke-linecap:square;stroke-linejoin:round"
+         x="133.6443"
+         y="82.438263"
+         id="text12"
+         transform="scale(1.0527054,0.94993339)"><tspan
+           id="tspan12"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#1a1a1a;stroke:none;stroke-width:0.307678"
+           x="133.6443"
+           y="82.438263">LED</tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 151.60375,88.224051 2.17608,-2.02106"
+         id="path13" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 153.77983,88.224051 -2.17608,-2.02106"
+         id="path14" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.375725;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         d="m 156.59082,87.939551 h 2.57995 l -1.28996,1.58389 z"
+         id="path15" />
+    </g>
+    <rect
+       x="43.038967"
+       y="170.23666"
+       width="39.226002"
+       height="26.048"
+       rx="2.0137999"
+       ry="2.0137999"
+       fill="#e3e3e3"
+       stroke="#777777"
+       stroke-linejoin="round"
+       stroke-width="0.49142"
+       id="rect15"
+       style="display:inline" />
+    <g
+       transform="matrix(0.1039,0,0,0.1039,58.57899,174.24666)"
+       id="g18"
+       style="display:inline">
+      <path
+         d="M 7.702,32.42 49.971,-0.001 84.179,7.7244 56.846,124.4644 30.239,118.4552 51.26,25.2762 20.023,44.2022 Z"
+         fill="#008000"
+         fill-rule="evenodd"
+         id="path16" />
+      <path
+         d="m 46.13,117.28 21.355,28.257 -17.909,21.368 6.1972,5.5127 m -14.032,-54.45 -12.4,28.26 -28.242,5.5127 2.0667,8.9585"
+         fill="none"
+         stroke="#008000"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-width="2.196"
+         id="path17" />
+    </g>
+    <path
+       d="M 82.510675,183.07122 H 121.4089"
+       fill="none"
+       stroke="#777777"
+       stroke-width="0.76822"
+       id="path23"
+       style="display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:27.1028;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text23"
+       transform="translate(79.363144,140.06151)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan14">Cable &quot;on&quot;
+</tspan></text>
+  </g>
+</svg>
