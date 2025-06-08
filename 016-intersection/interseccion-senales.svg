@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="199.69727mm"
+   height="232.40187mm"
+   viewBox="0 0 199.69726 232.40186"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (aebcc52d83, 2025-06-02)"
+   sodipodi:docname="interseccion-senales.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.45427579"
+     inkscape:cx="687.90812"
+     inkscape:cy="639.47939"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Back"
+     transform="translate(13.337312,-20.637501)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.79375;stroke-linecap:round"
+       id="rect1"
+       width="199.69727"
+       height="232.40187"
+       x="-13.337312"
+       y="20.637501" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21"
+       width="192.16437"
+       height="223.98521"
+       x="-10.735734"
+       y="23.972185" />
+    <text
+       x="120.63905"
+       y="129.81662"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="font-size:6.35px;line-height:0.9;display:inline"
+       xml:space="preserve"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         x="120.63905"
+         y="129.81662"
+         style="font-size:6.35px">Intersección</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.32292;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="m 119.10867,128.33653 -10.39894,10.81079"
+       id="path24"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(13.337312,-20.637501)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:109.208;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.251512;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text10"
+       transform="matrix(1.5779541,0,0,1.5779541,-5.1394597,1.3213542)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan1">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan3"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan2">Señal 1</tspan></tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.030877,70.311849 21.59354,2.29e-4 V 41.008122 h 44.025903 v 29.303956 h 44.0259"
+       id="path248"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000080;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:1.32292, 5.29167;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 48.687607,109.84399 43.94976,2.3e-4 V 80.540266 h 44.025903 v 29.303954 h 22.01295"
+       id="path2"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.030887,176.79597 21.59353,2.3e-4 v -29.30396 h 44.025903 v 29.30396 h 44.0259"
+       id="path6"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#000080;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:1.32292, 5.29167;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 48.687607,176.79597 43.94976,2.3e-4 v -29.30396 h 44.025903 v 29.30396 h 22.01295"
+       id="path7"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 48.687607,228.58119 43.94976,2.3e-4 v -29.30396 h 22.012953 v 29.30396 h 44.0259"
+       id="path10"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:109.208;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.251512;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text19"
+       transform="matrix(1.5779541,0,0,1.5779541,-5.1394597,40.596701)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan4">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan6"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan5">Señal 2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:109.208;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.251512;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text21"
+       transform="matrix(1.5779541,0,0,1.5779541,-5.1394597,88.368516)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan7">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan9"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan8">Señales
+</tspan></tspan><tspan
+         x="10.85919"
+         y="48.511748"
+         id="tspan11"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan10">superpuestas</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:109.208;display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.251512;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text23"
+       transform="matrix(1.5779541,0,0,1.5779541,-5.1394597,147.84661)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan12">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan14"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan13">Señal
+</tspan></tspan><tspan
+         x="10.85919"
+         y="48.511748"
+         id="tspan16"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan15">intersección</tspan></tspan></text>
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path25"
+       cx="103.10507"
+       cy="148.13293"
+       rx="12.962226"
+       ry="5.22053" />
+  </g>
+</svg>
