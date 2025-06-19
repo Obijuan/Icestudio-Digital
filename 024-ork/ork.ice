@@ -79,7 +79,7 @@
           "id": "fadf3b5b-3292-4a2c-aac4-83ce3ddbe7b2",
           "type": "basic.info",
           "data": {
-            "info": "* Modo\n* 0: Deshabilitado\n* 1: Enable",
+            "info": "* Modo\n* 0: Transparente\n* 1: Habilitado",
             "readonly": true
           },
           "position": {
@@ -92,8 +92,8 @@
           }
         },
         {
-          "id": "09b24b12-3938-4c2e-9597-37fe54e190bc",
-          "type": "ba518ee261a2be13a9739cd3a01cdcebe0ef63c0",
+          "id": "06535d15-29b2-422a-8be0-b6bc39073e78",
+          "type": "873425949b2a80f1a7f66f320796bcd068a59889",
           "position": {
             "x": 568,
             "y": 248
@@ -107,7 +107,7 @@
       "wires": [
         {
           "source": {
-            "block": "09b24b12-3938-4c2e-9597-37fe54e190bc",
+            "block": "06535d15-29b2-422a-8be0-b6bc39073e78",
             "port": "664caf9e-5f40-4df4-800a-b626af702e62"
           },
           "target": {
@@ -121,7 +121,7 @@
             "port": "5d443143-4aca-4d4f-ba40-2b88451b86d3"
           },
           "target": {
-            "block": "09b24b12-3938-4c2e-9597-37fe54e190bc",
+            "block": "06535d15-29b2-422a-8be0-b6bc39073e78",
             "port": "97b51945-d716-4b6c-9db9-970d08541249"
           }
         },
@@ -131,7 +131,7 @@
             "port": "out"
           },
           "target": {
-            "block": "09b24b12-3938-4c2e-9597-37fe54e190bc",
+            "block": "06535d15-29b2-422a-8be0-b6bc39073e78",
             "port": "18c2ebc7-5152-439c-9b3f-851c59bac834"
           }
         },
@@ -238,13 +238,13 @@
         }
       }
     },
-    "ba518ee261a2be13a9739cd3a01cdcebe0ef63c0": {
+    "873425949b2a80f1a7f66f320796bcd068a59889": {
       "package": {
-        "name": "AND2",
+        "name": "OR2",
         "version": "1.0.2",
-        "description": "Two bits input And gate",
+        "description": "OR2: Two bits input OR gate",
         "author": "Jesús Arroyo, Juan González",
-        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%22336.09%22%20height=%22194.045%22%20version=%221%22%3E%3Cpath%20d=%22M174.656%20190.045H78.304V4h96.352s87.463%208.625%2087.463%2091.94c0%2083.311-87.463%2094.105-87.463%2094.105z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2045.668h74.018M4.057%20144.812h74.018m184.632-50.034h69.326%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20x=%2292.894%22%20y=%22114.587%22%20font-weight=%22400%22%20font-size=%2258.054%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20x=%2292.894%22%20y=%22114.587%22%20style=%22-inkscape-font-specification:'sans-serif%20Bold'%22%20font-weight=%22700%22%3EAND%3C/tspan%3E%3C/text%3E%3C/svg%3E"
+        "image": "%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20height=%22192.718%22%20width=%22383.697%22%20version=%221%22%3E%3Cpath%20d=%22M175.56%20188.718H84.527s30.345-42.538%2031.086-94.03c.743-51.49-31.821-90.294-31.821-90.294L176.109%204c46.445%201.948%20103.899%2053.44%20123.047%2093.678-32.601%2067.503-92.158%2089.79-123.596%2091.04z%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22/%3E%3Cpath%20d=%22M4.057%2047.292h99.605M4.883%20145.168h100.981M298.57%2098.89h81.07%22%20fill=%22none%22%20stroke=%22#000%22%20stroke-width=%228%22%20stroke-linecap=%22round%22/%3E%3Ctext%20style=%22line-height:125%25%22%20font-weight=%22400%22%20font-size=%2266.317%22%20y=%22121.28%22%20x=%22131.572%22%20font-family=%22sans-serif%22%20letter-spacing=%220%22%20word-spacing=%220%22%20fill=%22#00f%22%3E%3Ctspan%20font-weight=%22700%22%20y=%22121.28%22%20x=%22131.572%22%3EOR%3C/tspan%3E%3C/text%3E%3C/svg%3E"
       },
       "design": {
         "graph": {
@@ -256,8 +256,8 @@
                 "name": ""
               },
               "position": {
-                "x": 96,
-                "y": 56
+                "x": 112,
+                "y": 40
               }
             },
             {
@@ -267,8 +267,8 @@
                 "name": ""
               },
               "position": {
-                "x": 600,
-                "y": 96
+                "x": 608,
+                "y": 72
               }
             },
             {
@@ -278,15 +278,15 @@
                 "name": ""
               },
               "position": {
-                "x": 96,
-                "y": 128
+                "x": 112,
+                "y": 96
               }
             },
             {
               "id": "00925b04-5004-4307-a737-fa4e97c8b6ab",
               "type": "basic.code",
               "data": {
-                "code": "//-- AND gate\n//-- Verilog implementation\n\nassign c = a & b;\n",
+                "code": "//-- OR Gate\n//-- Verilog implementation\n\nassign c = a | b;\n\n",
                 "params": [],
                 "ports": {
                   "in": [
@@ -309,8 +309,8 @@
                 "y": 48
               },
               "size": {
-                "width": 304,
-                "height": 152
+                "width": 312,
+                "height": 104
               }
             }
           ],
