@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.49323377"
-     inkscape:cx="485.57097"
-     inkscape:cy="544.36662"
+     inkscape:cx="76.028858"
+     inkscape:cy="629.51895"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -2055,7 +2055,7 @@
        id="path18"
        style="display:inline" /><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396877;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       d="m 92.54564,65.607492 24.43205,-40.894295 39.481,-0.125453"
+       d="M 92.548036,65.607978 118.00628,22.992684 159.14555,22.861951"
        id="path52-5"
        sodipodi:nodetypes="ccc" /><text
        xml:space="preserve"
@@ -2063,7 +2063,7 @@
        x="10.85919"
        y="39.621727"
        id="text9-2"
-       transform="translate(106.78419,-20.647658)"><tspan
+       transform="translate(107.49745,-22.256936)"><tspan
          x="10.85919"
          y="39.621727"
          id="tspan12">
@@ -2292,7 +2292,7 @@
          stroke-width="0.39688"
          id="tspan24">q</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       d="M 118.52718,56.332355 132.39635,33.11379 185.56154,33.04256"
+       d="M 118.51896,56.330707 130.46512,36.35213 181.24938,36.29084"
        id="path24"
        sodipodi:nodetypes="ccc" /><ellipse
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396877;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -2307,33 +2307,39 @@
        x="10.85919"
        y="39.621727"
        id="text27"
-       transform="translate(123.70545,-12.508187)"><tspan
+       transform="translate(120.29166,-13.54917)"><tspan
          x="10.85919"
          y="39.621727"
          id="tspan14">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan15">Parámetro: Valor inicial</tspan></text><text
+         id="tspan15">Parámetro: Valor inicial
+</tspan><tspan
+         x="10.85919"
+         y="48.511748"
+         id="tspan17">valor <tspan
+   style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+   id="tspan16">0</tspan> por defecto</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:55.0389;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="10.85919"
        y="39.621727"
        id="text29"
-       transform="translate(127.49855,-2.4564631)"><tspan
+       transform="translate(127.49855,-0.18060103)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan16">
+         id="tspan18">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan17">Biestable D del sistema:
+         id="tspan19">Biestable D del sistema:
 </tspan><tspan
          x="10.85919"
          y="48.511748"
-         id="tspan18">iceFF.sys-dff</tspan></text><path
+         id="tspan20">iceFF.sys-dff</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       d="m 129.17037,63.36928 9.43895,-15.755247 52.14133,-0.04833"
+       d="m 129.1616,63.367549 7.98853,-13.30875 44.12915,-0.04082"
        id="path30"
        sodipodi:nodetypes="ccc" /><ellipse
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396877;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -2348,23 +2354,23 @@
        x="10.85919"
        y="39.621727"
        id="text34"
-       transform="translate(135.47788,11.490608)"><tspan
+       transform="translate(139.46064,14.619918)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan19">
+         id="tspan23">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan20">No conectado
+         id="tspan25">No conectado
 </tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       d="m 144.06999,60.341483 2.3781,-3.845312 30.4365,-0.0118"
+       d="m 148.05275,63.470793 2.3781,-3.845312 30.4365,-0.0118"
        id="path34"
        sodipodi:nodetypes="ccc" /><ellipse
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396877;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        id="ellipse34"
-       cx="-144.68147"
-       cy="59.5592"
+       cx="-148.66423"
+       cy="62.688511"
        transform="scale(-1,1)"
        rx="1.1659448"
        ry="1.1660783" /><text
@@ -2376,15 +2382,15 @@
        transform="translate(79.890463,52.768657)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan23">
+         id="tspan26">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan25">Dato de entrada
+         id="tspan27">Dato de entrada
 </tspan><tspan
          x="10.85919"
          y="48.511748"
-         id="tspan26">(ciclo siguiente)</tspan></text><path
+         id="tspan28">(ciclo siguiente)</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 75.968275,79.749135 13.72683,23.019965 36.593855,0"
        id="path52"
@@ -2413,15 +2419,15 @@
        transform="translate(143.27579,53.856249)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan27">
+         id="tspan29">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan28">Dato de Salida
+         id="tspan33">Dato de Salida
 </tspan><tspan
          x="10.85919"
          y="48.511748"
-         id="tspan29">(ciclo actual)</tspan></text><text
+         id="tspan34">(ciclo actual)</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.45944px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="153.19142"
@@ -2500,7 +2506,7 @@
        transform="translate(-10.686668,-31.59277)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan33">Primer circuito que genera una </tspan><tspan
+         id="tspan36">Primer circuito que genera una </tspan><tspan
          x="26.247385"
          y="204.23125"
-         id="tspan34">señal de salida NO constante</tspan></text></g></svg>
+         id="tspan38">señal de salida NO constante</tspan></text></g></svg>
