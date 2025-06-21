@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="143.64021mm"
+   height="83.844627mm"
+   viewBox="0 0 143.64021 83.84463"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (7335b4f457, 2025-06-11)"
+   sodipodi:docname="reloj-sistema-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.219182"
+     inkscape:cx="258.78006"
+     inkscape:cy="191.52185"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showguides="true"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Back"
+     transform="translate(33.854668,-26.202307)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21"
+       width="143.64021"
+       height="83.844627"
+       x="-33.854668"
+       y="26.202307" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(33.854668,-26.202307)">
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1"
+       width="14.495864"
+       height="7.6601825"
+       x="-21.355854"
+       y="44.943108" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="-19.748138"
+       y="50.227711"
+       id="text7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="-19.748138"
+         y="50.227711"
+         id="tspan7">Reloj</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="-21.690418"
+       y="39.00301"
+       id="text20"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="-21.690418"
+         y="39.00301"
+         id="tspan20">Reloj del sistema</tspan></text>
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       d="M -6.8599907,48.845965 H 0.82700727"
+       id="path3" />
+    <g
+       id="g17"
+       transform="translate(-43.154004,-4.2998246)">
+      <path
+         id="path22-0"
+         style="display:inline;fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-opacity:1"
+         d="m 46.750372,55.91515 c -1.529476,0 -2.769361,-1.239885 -2.769361,-2.76936 0,-1.529475 1.239885,-2.76936 2.769361,-2.76936 h 7.651758 c 1.529476,-10e-7 2.769361,1.239884 2.769361,2.76936 0,1.529476 -1.239885,2.76936 -2.769361,2.76936 z"
+         sodipodi:nodetypes="csccscc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.26651px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+         x="47.4813"
+         y="54.513149"
+         id="text12"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+           x="47.4813"
+           y="54.513149"
+           id="tspan12">clk</tspan></text>
+    </g>
+    <g
+       id="g23"
+       transform="translate(-41.283963,-3.4179838)">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 32.214526,69.935035 h 7.883713"
+         id="path17"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g22"
+         transform="translate(-24.956965,16.789245)">
+        <path
+           id="path19"
+           style="display:inline;fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-opacity:1"
+           d="m 46.750372,55.91515 c -1.529476,0 -2.769361,-1.239885 -2.769361,-2.76936 0,-1.529475 1.239885,-2.76936 2.769361,-2.76936 h 7.651758 c 1.529476,-10e-7 2.769361,1.239884 2.769361,2.76936 0,1.529476 -1.239885,2.76936 -2.769361,2.76936 z"
+           sodipodi:nodetypes="csccscc" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.26651px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+           x="47.4813"
+           y="54.513149"
+           id="text22"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+             x="47.4813"
+             y="54.513149"
+             id="tspan22">clk</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect17"
+       width="30.798761"
+       height="15.366347"
+       x="-0.95137918"
+       y="64.012276" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="4.229445"
+       y="71.69545"
+       id="text24"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="4.229445"
+         y="71.69545"
+         id="tspan24">Circuito 1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       d="m -0.92114049,65.40326 1.95732729,1.130065 -1.98756596,1.147521"
+       id="path25" />
+    <g
+       id="g28"
+       transform="translate(-41.283963,19.054503)">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 32.214526,69.935035 h 7.883713"
+         id="path26"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g27"
+         transform="translate(-24.956965,16.789245)">
+        <path
+           id="path27"
+           style="display:inline;fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-opacity:1"
+           d="m 46.750372,55.91515 c -1.529476,0 -2.769361,-1.239885 -2.769361,-2.76936 0,-1.529475 1.239885,-2.76936 2.769361,-2.76936 h 7.651758 c 1.529476,-10e-7 2.769361,1.239884 2.769361,2.76936 0,1.529476 -1.239885,2.76936 -2.769361,2.76936 z"
+           sodipodi:nodetypes="csccscc" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.26651px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+           x="47.4813"
+           y="54.513149"
+           id="text27"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+             x="47.4813"
+             y="54.513149"
+             id="tspan27">clk</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect28"
+       width="30.798761"
+       height="15.366347"
+       x="-0.95137918"
+       y="86.484764" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="4.229445"
+       y="94.167938"
+       id="text28"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="4.229445"
+         y="94.167938"
+         id="tspan28">Circuito 2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       d="m -0.92114049,87.875747 1.95732729,1.130065 -1.98756596,1.147521"
+       id="path28" />
+    <g
+       id="g31"
+       transform="translate(18.941395,-3.3439044)">
+      <path
+         style="fill:none;stroke:#008000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 32.214526,69.935035 h 7.883713"
+         id="path29"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g30"
+         transform="translate(-24.956965,16.789245)">
+        <path
+           id="path30"
+           style="display:inline;fill:#ccff00;fill-opacity:1;stroke:none;stroke-width:0.264584;stroke-linecap:round;stroke-opacity:1"
+           d="m 46.750372,55.91515 c -1.529476,0 -2.769361,-1.239885 -2.769361,-2.76936 0,-1.529475 1.239885,-2.76936 2.769361,-2.76936 h 7.651758 c 1.529476,-10e-7 2.769361,1.239884 2.769361,2.76936 0,1.529476 -1.239885,2.76936 -2.769361,2.76936 z"
+           sodipodi:nodetypes="csccscc" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.26651px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+           x="47.4813"
+           y="54.513149"
+           id="text30"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+             x="47.4813"
+             y="54.513149"
+             id="tspan30">clk</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect31"
+       width="30.798761"
+       height="15.366347"
+       x="59.273979"
+       y="64.086357" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="64.454803"
+       y="71.769531"
+       id="text31"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="64.454803"
+         y="71.769531"
+         id="tspan31">Circuito 3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       d="m 59.304218,65.47734 1.957327,1.130065 -1.987566,1.147521"
+       id="path31" />
+  </g>
+</svg>
