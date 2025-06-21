@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="207.89897mm"
+   height="101.55882mm"
+   viewBox="0 0 207.89897 101.55883"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (7335b4f457, 2025-06-11)"
+   sodipodi:docname="description-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.86209186"
+     inkscape:cx="408.88914"
+     inkscape:cy="304.49191"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showguides="true"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path8" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Back"
+     transform="translate(52.042614,-7.5685329)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.393805;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21"
+       width="207.89897"
+       height="101.55882"
+       x="-52.042614"
+       y="7.5685329" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(52.042614,-7.5685329)">
+    <rect
+       style="fill:#fff6d5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       id="rect11"
+       width="57.199162"
+       height="48.028576"
+       x="36.1199"
+       y="40.059704" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect1"
+       width="21.708212"
+       height="11.795524"
+       x="-36.486656"
+       y="46.287838" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000080;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="39.020657"
+       y="45.86908"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="39.020657"
+         y="45.86908">FPGA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="-31.272764"
+       y="53.640114"
+       id="text7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="-31.272764"
+         y="53.640114"
+         id="tspan7">Reloj</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="-32.371349"
+       y="28.05649"
+       id="text8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="-32.371349"
+         y="28.05649"
+         id="tspan9">Señal de reloj</tspan></text>
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 52.171456,72.89616 63.890794,62.995015"
+       id="path9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -11.060739,47.115859 h 3.694196 v 2.46574 h 3.702065 v -2.46574 H 0 v 2.46574 h 3.689532 l 0.03159,-2.46574 h 3.6579462 v 2.46574 h 3.7145968 v -2.46574 h 3.629349 v 2.46574 h 3.850376 l -0.0704,-2.46574 h 3.681918 v 2.46574"
+       id="path70"
+       sodipodi:nodetypes="ccccccccccccccccccc" />
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:0.454754;stroke-dasharray:none"
+       d="M -14.513859,53.14579 H 36.198093"
+       id="path3" />
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#marker8)"
+       d="M -16.143418,30.49674 -7.2457167,43.9518"
+       id="path7" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="2.3849385"
+       y="27.754194"
+       id="text9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="2.3849385"
+         y="27.754194"
+         id="tspan8">Pin de entrada</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="2.3849385"
+         y="32.199203"
+         id="tspan10">clk</tspan></text>
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#marker8)"
+       d="M 21.267675,33.507769 32.772522,48.588431"
+       id="path11"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#008000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 36.198093,53.14579 h 7.80552 23.017534 l 0.145643,10.928202 h 26.152271"
+       id="path5"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.309615;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect17"
+       width="5.1004672"
+       height="4.0070076"
+       x="31.024511"
+       y="51.142284" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.88975px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.309615;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="31.742647"
+       y="54.266029"
+       id="text24"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.309615;stroke-dasharray:none"
+         x="31.742647"
+         y="54.266029"
+         id="tspan24">clk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="98.051552"
+       y="47.508526"
+       id="text2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="98.051552"
+         y="47.508526"
+         id="tspan2">Pin de salida</tspan></text>
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:0.851892;stroke-dasharray:none"
+       d="M 93.319057,64.173209 H 130.29365"
+       id="path4" />
+    <path
+       style="fill:#ffb380;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#marker8)"
+       d="M 105.29505,47.978705 97.702381,58.502008"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="42.808022"
+       y="79.448601"
+       id="text6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="42.808022"
+         y="79.448601"
+         id="tspan6">Cable con la señal</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="42.808022"
+         y="83.893608"
+         id="tspan11">del reloj</tspan></text>
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.309615;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect13"
+       width="5.1004672"
+       height="4.0070076"
+       x="93.319061"
+       y="62.070488" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.88975px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.309615;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="94.037193"
+       y="65.194237"
+       id="text17"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke:none;stroke-width:0.309615;stroke-dasharray:none"
+         x="94.037193"
+         y="65.194237"
+         id="tspan17">d0</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 102.18993,61.25875 h 3.70206 v -2.46574 h 3.66449 v 2.46574 h 3.68953 l 0.0316,-2.46574 h 3.65794 v 2.46574 h 3.7146 v -2.46574 h 3.62935"
+       id="path17"
+       sodipodi:nodetypes="cccccccccccc" />
+    <g
+       id="g6"
+       transform="translate(-42.214675,-93.321969)">
+      <ellipse
+         cy="157.12585"
+         cx="177.50317"
+         id="path878-3"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path878"
+         cx="177.5092"
+         cy="157.12595"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+         id="path895"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path897"
+         cx="177.51335"
+         cy="157.82269"
+         rx="0.34726125"
+         ry="0.27584738"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       d="m 123.28608,58.677196 6.58191,-10.95662"
+       id="path28"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 135.2885,57.385011 v -2.94766"
+       id="path11-9" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 135.2885,72.941381 v -2.94766"
+       id="path16" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="M 141.47834,63.803881 H 144.426"
+       id="path17-2" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 139.66538,59.427011 2.08432,-2.08432"
+       id="path18" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 139.66537,68.180761 2.08432,2.08432"
+       id="path19-2" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 128.73019,57.342691 2.08432,2.08432"
+       id="path26" />
+    <path
+       style="fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+       d="m 128.8273,70.265091 2.08432,-2.08432"
+       id="path27" />
+  </g>
+</svg>
