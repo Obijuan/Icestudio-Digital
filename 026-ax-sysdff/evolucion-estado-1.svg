@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="111.97723mm"
+   width="137.68842mm"
    height="68.388252mm"
-   viewBox="0 0 111.97723 68.388257"
+   viewBox="0 0 137.68842 68.388257"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ae4ad5c273, 2025-06-21)"
-   sodipodi:docname="estado-sys-dff-2.svg"
+   sodipodi:docname="evolucion-estado-1.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.3906883"
-     inkscape:cx="472.24347"
-     inkscape:cy="303.31085"
+     inkscape:zoom="1.5627532"
+     inkscape:cx="295.95203"
+     inkscape:cy="160.29402"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showguides="true"
      showgrid="false" />
   <defs
@@ -40,19 +40,19 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Back"
-     transform="translate(-0.15030177,-25.626667)"
+     transform="translate(0.08913293,-25.626667)"
      style="display:inline">
     <rect
        style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect29"
-       width="111.97723"
+       width="137.68842"
        height="68.388252"
-       x="0.15030177"
+       x="-0.089132935"
        y="25.626667" />
     <rect
        style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect21-1"
-       width="105.35402"
+       width="132.02295"
        height="63.649426"
        x="3.461905"
        y="27.99608" />
@@ -61,12 +61,12 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.15030177,-25.626667)">
+     transform="translate(0.08913293,-25.626667)">
     <rect
        style="fill:#ffeeaa;stroke:none;stroke-width:0.264583;stroke-dasharray:none"
        id="rect47"
        width="43.917507"
-       height="36.280735"
+       height="33.207504"
        x="42.51815"
        y="41.559227" />
     <text
@@ -79,12 +79,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="64.764503"
          y="47.650219"
-         id="tspan15">Estado siguiente </tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
-         x="64.764503"
-         y="52.09523"
-         id="tspan16">(Qs)</tspan></text>
+         id="tspan16">Estado actual</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
@@ -95,16 +90,11 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="25.146921"
          y="47.650219"
-         id="tspan17">Entrada</tspan><tspan
+         id="tspan22">Ciclo</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="25.146921"
          y="52.09523"
-         id="tspan22">(d)</tspan><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
-         x="25.146921"
-         y="56.540237"
          id="tspan18" /></text>
     <text
        xml:space="preserve"
@@ -116,7 +106,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="50.255547"
          y="37.877464"
-         id="tspan19">Tabla de estados simplificada</tspan><tspan
+         id="tspan19">Tabla de estados</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="50.255547"
@@ -125,85 +115,122 @@
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none"
        id="rect20"
-       width="75.510429"
-       height="36.280739"
+       width="109.90602"
+       height="33.2075"
        x="10.925225"
        y="41.559227" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
-       d="M 10.925229,54.74728 H 86.435651"
+       style="fill:none;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none"
+       d="M 10.925229,51.155761 H 121.09583"
        id="path22" />
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
        x="25.181498"
-       y="61.532124"
+       y="58.088898"
        id="text25"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="25.181498"
-         y="61.532124"
+         y="58.088898"
          id="tspan24">0</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="25.181498"
-         y="65.977135"
+         y="62.533909"
          id="tspan25" /></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
        x="65.497932"
-       y="61.532124"
+       y="58.088898"
        id="text29"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="65.497932"
-         y="61.532124"
+         y="58.088898"
          id="tspan28">0</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="65.497932"
-         y="65.977135"
+         y="62.533909"
          id="tspan29" /></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264584;stroke-dasharray:none"
-       d="M 10.925229,65.437961 H 86.435651"
+       style="fill:none;stroke:#000000;stroke-width:0.264585;stroke-dasharray:none"
+       d="M 10.925229,61.994739 H 121.09583"
        id="path29" />
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
        x="25.181498"
-       y="74.066414"
+       y="70.623192"
        id="text31"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="25.181498"
-         y="74.066414"
-         id="tspan30">1</tspan><tspan
+         y="70.623192"
+         id="tspan30">⩾1</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="25.181498"
-         y="78.511421"
+         y="75.421997"
          id="tspan31" /></text>
     <text
        xml:space="preserve"
        style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
        x="65.497932"
-       y="74.066414"
+       y="70.623192"
        id="text35"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="65.497932"
-         y="74.066414"
+         y="70.623192"
          id="tspan34">1</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
          x="65.497932"
-         y="78.511421"
+         y="75.068199"
          id="tspan35" /></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
-       d="M 42.518152,41.294643 V 77.839962"
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       d="M 42.518152,41.294643 V 75.031311"
        id="path47" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="103.39032"
+       y="47.650219"
+       id="text47"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="103.39032"
+         y="47.650219"
+         id="tspan47">Descripción</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="103.39032"
+       y="57.878986"
+       id="text48"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="103.39032"
+         y="57.878986"
+         id="tspan48">Estado inicial</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
+       x="103.39032"
+       y="70.563927"
+       id="text49"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+         x="103.39032"
+         y="70.563927"
+         id="tspan49">Estado final</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       d="M 86.303366,41.294643 V 75.031311"
+       id="path49" />
   </g>
 </svg>
