@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="199.69727mm"
+   height="121.15796mm"
+   viewBox="0 0 199.69726 121.15795"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ae4ad5c273, 2025-06-21)"
+   sodipodi:docname="senal-complementaria.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.90855158"
+     inkscape:cx="294.975"
+     inkscape:cy="309.83381"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Back"
+     transform="translate(13.337312,-20.637501)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.793751;stroke-linecap:round"
+       id="rect1"
+       width="199.69727"
+       height="121.15796"
+       x="-13.337312"
+       y="20.637501" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21"
+       width="192.16437"
+       height="114.48859"
+       x="-10.735734"
+       y="23.972185" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(13.337312,-20.637501)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:109.208;display:inline;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.251512;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text10"
+       transform="matrix(1.5779541,0,0,1.5779541,-5.1394597,1.3213542)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan4">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan6"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan5">Señal 1</tspan></tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#00ff00;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.030877,70.311849 21.59354,2.29e-4 V 41.008122 H 90.763635 V 70.312078 H 119.55147 V 41.008119 l 39.12475,-0.190487"
+       id="path248"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:109.208;display:inline;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.251512;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text23"
+       transform="matrix(1.5779541,0,0,1.5779541,-19.991396,34.272981)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan7">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan9"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan8">Señal
+</tspan></tspan><tspan
+         x="10.85919"
+         y="48.511748"
+         id="tspan11"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan10">complementada</tspan></tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff00ff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 49.030877,89.782161 21.59354,-2.2e-4 V 119.08589 H 90.763635 V 89.781941 h 28.787835 v 29.303949 l 39.12475,0.19049"
+       id="path1"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>
