@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.49323376"
-     inkscape:cx="159.15374"
-     inkscape:cy="704.53409"
+     inkscape:cx="-120.63246"
+     inkscape:cy="789.68642"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -2034,14 +2034,14 @@
          rx="1.4103887" /><text
          xml:space="preserve"
          style="font-weight:bold;font-size:5.41604px;line-height:0.9;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.290144;stroke-linecap:square;stroke-linejoin:round"
-         x="306.73071"
+         x="310.13507"
          y="114.42475"
          id="text15"
          transform="scale(0.99271437,1.0073391)"><tspan
            id="tspan15"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#1a1a1a;stroke:none;stroke-width:0.290144"
-           x="306.73071"
-           y="114.42475">Modo</tspan></text><text
+           x="310.13507"
+           y="114.42475">k_n</tspan></text><text
          xml:space="preserve"
          style="font-weight:bold;font-size:5.41604px;line-height:0.9;font-family:ubuntu;-inkscape-font-specification:'ubuntu Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.290144;stroke-linecap:square;stroke-linejoin:round"
          x="312.63419"
@@ -2083,7 +2083,7 @@
          style="fill:#000000;stroke-width:0.396875"
          x="33.593269"
          y="102.92258"
-         id="tspan69">(Modo=0)</tspan><tspan
+         id="tspan69">(k_n=0)</tspan><tspan
          style="fill:#000000;stroke-width:0.396875"
          x="33.593269"
          y="107.36758"
@@ -2112,15 +2112,15 @@
    id="tspan27">ax-bit1</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="125.019"
+       x="131.79137"
        y="38.984287"
        id="text89"><tspan
          style="fill:#000000;stroke-width:0.396875"
-         x="125.019"
+         x="131.79137"
          y="38.984287"
-         id="tspan87">(Modo=1)</tspan><tspan
+         id="tspan87">(k_n=1)</tspan><tspan
          style="fill:#000000;stroke-width:0.396875"
-         x="125.019"
+         x="131.79137"
          y="43.429287"
          id="tspan89" /></text><rect
        x="174.52429"
@@ -2284,22 +2284,22 @@
          style="fill:#000000;stroke-width:0.396875"
          x="62.744179"
          y="102.92258"
-         id="tspan9-1">(Modo=1)</tspan><tspan
+         id="tspan9-1">(k_n=1)</tspan><tspan
          style="fill:#000000;stroke-width:0.396875"
          x="62.744179"
          y="107.36758"
          id="tspan10-0" /></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="125.019"
+       x="131.79137"
        y="24.897577"
        id="text17"><tspan
          style="fill:#000000;stroke-width:0.396875"
-         x="125.019"
+         x="131.79137"
          y="24.897577"
-         id="tspan14">(Modo=0)</tspan><tspan
+         id="tspan14">(k_n=0)</tspan><tspan
          style="fill:#000000;stroke-width:0.396875"
-         x="125.019"
+         x="131.79137"
          y="29.342579"
          id="tspan17" /></text><rect
        x="150.27573"
@@ -2350,15 +2350,15 @@
          id="tspan38">x</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="13.456723"
+       x="18.677137"
        y="156.91411"
        id="text12"><tspan
          style="fill:#000000;stroke-width:0.396875"
-         x="13.456723"
+         x="18.677137"
          y="156.91411"
-         id="tspan11">(Modo=0)</tspan><tspan
+         id="tspan11">(k_n=0)</tspan><tspan
          style="fill:#000000;stroke-width:0.396875"
-         x="13.456723"
+         x="18.677137"
          y="161.35912"
          id="tspan12" /></text><text
        x="52.250595"
@@ -2403,15 +2403,15 @@
          id="tspan21">D0</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="13.456723"
+       x="18.677137"
        y="165.26953"
        id="text24"><tspan
          style="fill:#000000;stroke-width:0.396875"
-         x="13.456723"
+         x="18.677137"
          y="165.26953"
-         id="tspan22">(Modo=1)</tspan><tspan
+         id="tspan22">(k_n=1)</tspan><tspan
          style="fill:#000000;stroke-width:0.396875"
-         x="13.456723"
+         x="18.677137"
          y="169.71454"
          id="tspan24" /></text><path
        d="M 46.816138,164.82939 H 175.56614"
@@ -2485,7 +2485,7 @@
          style="fill:#000000;stroke-width:0.396875"
          x="21.100792"
          y="204.05135"
-         id="tspan48">(Modo=0)</tspan><tspan
+         id="tspan48">(k_n=0)</tspan><tspan
          style="fill:#000000;stroke-width:0.396875"
          x="21.100792"
          y="208.49635"
@@ -2498,7 +2498,7 @@
          style="fill:#000000;stroke-width:0.396875"
          x="92.216888"
          y="204.05135"
-         id="tspan52">(Modo=1)</tspan><tspan
+         id="tspan52">(k_n=1)</tspan><tspan
          style="fill:#000000;stroke-width:0.396875"
          x="92.216888"
          y="208.49635"
