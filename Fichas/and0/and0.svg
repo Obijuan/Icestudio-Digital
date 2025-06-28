@@ -9,7 +9,7 @@
    xml:space="preserve"
    id="svg30"
    sodipodi:docname="and0.svg"
-   inkscape:version="1.4.2 (04357f2171, 2025-06-09)"
+   inkscape:version="1.4.2 (ae4ad5c273, 2025-06-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,13 +24,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.49323376"
-     inkscape:cx="242.27863"
-     inkscape:cy="621.4092"
+     inkscape:zoom="3.9458701"
+     inkscape:cx="75.522"
+     inkscape:cy="945.16543"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
-     inkscape:window-y="1112"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      showguides="true"
@@ -1352,7 +1352,7 @@
          y="263.08191"
          fill="#000000"
          stroke-width="0.52917"
-         id="tspan35">017</tspan></text><rect
+         id="tspan35">019</tspan></text><rect
        x="22.688587"
        y="253.98723"
        width="21.597902"
@@ -1528,9 +1528,9 @@
        transform="translate(5.665986,6.10451)"><tspan
          x="149.42525"
          y="188.34544"
-         id="tspan7">Circuito: <tspan
+         id="tspan5">Circuito: <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan6">LEDOFF-INF</tspan></tspan></text><rect
+   id="tspan3">LEDOFF-INF</tspan></tspan></text><rect
        x="129.08586"
        y="253.99313"
        width="41.697025"

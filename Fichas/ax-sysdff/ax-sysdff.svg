@@ -9,7 +9,7 @@
    xml:space="preserve"
    id="svg30"
    sodipodi:docname="ax-sysdff.svg"
-   inkscape:version="1.4.2 (7335b4f457, 2025-06-11)"
+   inkscape:version="1.4.2 (ae4ad5c273, 2025-06-21)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.49323377"
-     inkscape:cx="76.028858"
-     inkscape:cy="629.51895"
+     inkscape:zoom="1.9729351"
+     inkscape:cx="153.57829"
+     inkscape:cy="935.91524"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1352,7 +1352,7 @@
          y="263.08191"
          fill="#000000"
          stroke-width="0.52917"
-         id="tspan35">026</tspan></text><rect
+         id="tspan35">029</tspan></text><rect
        x="22.688587"
        y="253.98723"
        width="39.298393"
@@ -1528,15 +1528,15 @@
        transform="translate(18.740083,11.146642)"><tspan
          x="149.42525"
          y="188.34544"
-         id="tspan7">Circuito: <tspan
+         id="tspan5">Circuito: <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan6">STEP1
+   id="tspan3">STEP1
 </tspan></tspan><tspan
          x="149.42525"
          y="192.93155"
-         id="tspan9"><tspan
+         id="tspan41"><tspan
            style="-inkscape-font-specification:Ubuntu"
-           id="tspan8">Escalón en ciclo 1</tspan></tspan></text><rect
+           id="tspan40">Escalón en ciclo 1</tspan></tspan></text><rect
        x="4.4162765"
        y="109.87589"
        width="132.17668"
@@ -1962,10 +1962,10 @@
        transform="translate(47.405753,25.52703)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan10">LED encendido indefinidamente a </tspan><tspan
+         id="tspan42">LED encendido indefinidamente a </tspan><tspan
          x="26.247385"
          y="204.23125"
-         id="tspan11">partir del ciclo 1</tspan></text><image
+         id="tspan46">partir del ciclo 1</tspan></text><image
        width="69.805283"
        height="44.849895"
        preserveAspectRatio="none"
@@ -2066,11 +2066,11 @@
        transform="translate(107.49745,-22.256936)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan12">
+         id="tspan48">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan13">Entrada de reloj</tspan></text><ellipse
+         id="tspan49">Entrada de reloj</tspan></text><ellipse
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396877;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        id="circle34"
        cx="-92.515121"
@@ -2310,17 +2310,17 @@
        transform="translate(120.29166,-13.54917)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan14">
+         id="tspan51">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan15">Parámetro: Valor inicial
+         id="tspan52">Parámetro: Valor inicial
 </tspan><tspan
          x="10.85919"
          y="48.511748"
-         id="tspan17">valor <tspan
+         id="tspan55">valor <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan16">0</tspan> por defecto</tspan></text><text
+   id="tspan54">0</tspan> por defecto</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:55.0389;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="10.85919"
@@ -2329,15 +2329,15 @@
        transform="translate(127.49855,-0.18060103)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan18">
+         id="tspan56">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan19">Biestable D del sistema:
+         id="tspan57">Biestable D del sistema:
 </tspan><tspan
          x="10.85919"
          y="48.511748"
-         id="tspan20">iceFF.sys-dff</tspan></text><path
+         id="tspan58">iceFF.sys-dff</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 129.1616,63.367549 7.98853,-13.30875 44.12915,-0.04082"
        id="path30"
@@ -2357,11 +2357,11 @@
        transform="translate(139.46064,14.619918)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan23">
+         id="tspan59">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan25">No conectado
+         id="tspan61">No conectado
 </tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 148.05275,63.470793 2.3781,-3.845312 30.4365,-0.0118"
@@ -2382,15 +2382,15 @@
        transform="translate(79.890463,52.768657)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan26">
+         id="tspan65">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan27">Dato de entrada
+         id="tspan66">Dato de entrada
 </tspan><tspan
          x="10.85919"
          y="48.511748"
-         id="tspan28">(ciclo siguiente)</tspan></text><path
+         id="tspan68">(ciclo siguiente)</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 75.968275,79.749135 13.72683,23.019965 36.593855,0"
        id="path52"
@@ -2419,15 +2419,15 @@
        transform="translate(143.27579,53.856249)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan29">
+         id="tspan69">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan33">Dato de Salida
+         id="tspan74">Dato de Salida
 </tspan><tspan
          x="10.85919"
          y="48.511748"
-         id="tspan34">(ciclo actual)</tspan></text><text
+         id="tspan76">(ciclo actual)</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.45944px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="153.19142"
@@ -2506,7 +2506,7 @@
        transform="translate(-10.686668,-31.59277)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan36">Primer circuito que genera una </tspan><tspan
+         id="tspan79">Primer circuito que genera una </tspan><tspan
          x="26.247385"
          y="204.23125"
-         id="tspan38">señal de salida NO constante</tspan></text></g></svg>
+         id="tspan80">señal de salida NO constante</tspan></text></g></svg>
