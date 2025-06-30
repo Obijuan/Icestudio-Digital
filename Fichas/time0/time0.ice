@@ -15,7 +15,7 @@
           "id": "432b9c86-d574-47a4-ae93-68bdce2560e0",
           "type": "basic.output",
           "data": {
-            "name": "start",
+            "name": "time0",
             "virtual": false,
             "pins": [
               {
