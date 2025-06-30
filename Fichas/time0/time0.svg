@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.69753788"
-     inkscape:cx="638.67499"
-     inkscape:cy="807.84143"
+     inkscape:zoom="2.7901515"
+     inkscape:cx="136.37252"
+     inkscape:cy="278.3003"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -1887,16 +1887,24 @@
        x="10.85919"
        y="39.621727"
        id="text69"
-       transform="translate(2.6977347,22.197739)"><tspan
+       transform="translate(94.964976,23.714981)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan9">
+         id="tspan11">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan21"><tspan
-   style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan19">Señal time0</tspan>: Origen del tiempo (t=0)</tspan></text><path
+         id="tspan20"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan18">Señal time0
+</tspan></tspan><tspan
+         x="10.85919"
+         y="48.511748"
+         id="tspan25">Origen del tiempo 
+</tspan><tspan
+         x="10.85919"
+         y="52.956759"
+         id="tspan26">(t=0)</tspan></text><path
        style="fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 42.954609,149.70335 h 30.275968 v 5.01093 h 6.95623 v -5.01093 h 6.885602 l 1e-6,5.01093 h 6.93268 l 0.05935,-5.01093 h 6.87333 v 5.01093 h 6.97978 v -5.01093 h 6.81959 v 5.01093 h 7.23491 l -0.13229,-5.01093 h 6.91838 v 5.01093 h 6.97668 v -5.01093 h 6.86516 v 5.01093 h 6.99201 v -5.01093 h 6.8733 v 5.01093 h 6.92739 v -5.01093 h 6.87198 v 5.01093 h 7.36367"
        id="path70"
@@ -1924,9 +1932,9 @@
          transform="translate(-172.47452,-12.980209)"><tspan
            x="149.98729"
            y="188.93086"
-           id="tspan28">Circuito: <tspan
+           id="tspan38">Circuito: <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan24">MEASURE2</tspan></tspan></text></g><text
+   id="tspan27">MEASURE2</tspan></tspan></text></g><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="178.31155"
@@ -2028,13 +2036,13 @@
        transform="translate(62.325244,123.2873)"><tspan
          x="10.85919"
          y="39.621727"
-         id="tspan29">
+         id="tspan41">
 </tspan><tspan
          x="10.85919"
          y="44.066737"
-         id="tspan34"><tspan
+         id="tspan43"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan33">Bit-Bang</tspan>: Arranque del tiempo (t=0)</tspan></text><rect
+   id="tspan42">Bit-Bang</tspan>: Arranque del tiempo (t=0)</tspan></text><rect
        x="4.4162765"
        y="95.132072"
        width="53.746887"
@@ -2161,8 +2169,8 @@
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.375725;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 187.77244,47.56219 h 2.57995 l -1.28996,1.58389 z"
        id="path42" /><path
-       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       d="m 161.35062,54.165804 -8.24869,13.804882 -139.901098,0"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396877;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       d="m 161.29026,54.153823 -14.88337,25.091919 -40.62396,0"
        id="path69"
        sodipodi:nodetypes="ccc" /><circle
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -2445,4 +2453,27 @@
          style="fill:#000000;stroke-width:0.396875"
          x="93.785057"
          y="205.47595"
-         id="tspan65" /></text></g></svg>
+         id="tspan65" /></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:84.3803;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="10.85919"
+       y="39.621727"
+       id="text18"
+       transform="translate(12.948528,17.657181)"><tspan
+         x="10.85919"
+         y="39.621727"
+         id="tspan44">
+</tspan><tspan
+         x="10.85919"
+         y="44.066737"
+         id="tspan45">Etiqueta reducida</tspan></text><path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396877;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       d="m 73.414031,46.289993 -9.968405,16.805763 -41.337937,0"
+       id="path33"
+       sodipodi:nodetypes="ccc" /><circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396876;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="circle33"
+       cx="73.474976"
+       cy="-46.301655"
+       r="0.38240612"
+       transform="scale(1,-1)" /></g></svg>
