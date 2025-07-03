@@ -31,6 +31,45 @@
           }
         },
         {
+          "id": "2dc1386b-eabf-49ed-9341-c6b85d278fe8",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "clk",
+            "blockColor": "yellow",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 816,
+            "y": -256
+          }
+        },
+        {
+          "id": "901fa448-7895-41d1-8cc9-03682b3bed23",
+          "type": "basic.output",
+          "data": {
+            "name": "clk",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "D9",
+                "value": "19"
+              }
+            ]
+          },
+          "position": {
+            "x": 976,
+            "y": -256
+          }
+        },
+        {
           "id": "c2073333-a92d-466b-a33a-a63fc98062f2",
           "type": "basic.input",
           "data": {
@@ -99,8 +138,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D9",
-                "value": "19"
+                "name": "D10",
+                "value": "22"
               }
             ]
           },
@@ -156,6 +195,22 @@
           "size": {
             "width": 96,
             "height": 64
+          }
+        },
+        {
+          "id": "e2aa5b57-bf0e-40fe-9f82-d5e21d38887a",
+          "type": "basic.info",
+          "data": {
+            "info": "# Mediciones",
+            "readonly": true
+          },
+          "position": {
+            "x": 800,
+            "y": -448
+          },
+          "size": {
+            "width": 312,
+            "height": 40
           }
         }
       ],
@@ -218,6 +273,16 @@
           "target": {
             "block": "9b079fee-de30-43af-a2ce-9d657fc9f337",
             "port": "3943e194-090b-4553-9df3-88bc4b17abc2"
+          }
+        },
+        {
+          "source": {
+            "block": "2dc1386b-eabf-49ed-9341-c6b85d278fe8",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "901fa448-7895-41d1-8cc9-03682b3bed23",
+            "port": "in"
           }
         }
       ]
