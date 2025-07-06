@@ -26,7 +26,7 @@
      showguides="true"
      inkscape:zoom="0.69753788"
      inkscape:cx="381.3413"
-     inkscape:cy="230.09503"
+     inkscape:cy="115.40592"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -754,5 +754,25 @@
          style="fill:#000000;stroke-width:0.699709"
          x="125.68742"
          y="118.08394">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="168.77785"
+       y="70.546753"
+       id="text74"><tspan
+         id="tspan74"
+         style="fill:#008000;stroke-width:0.699709"
+         x="168.77785"
+         y="70.546753">tic0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="168.77785"
+       y="90.552177"
+       id="text75"><tspan
+         id="tspan75"
+         style="fill:#008000;stroke-width:0.699709"
+         x="168.77785"
+         y="90.552177">tic1</tspan></text>
   </g>
 </svg>
