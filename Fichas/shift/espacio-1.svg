@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200.00252mm"
+   height="139.71321mm"
+   viewBox="0 0 200.00252 139.71321"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ae4ad5c273, 2025-06-21)"
+   sodipodi:docname="espacio-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.69753789"
+     inkscape:cx="327.58077"
+     inkscape:cy="407.86315"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(29.139191,-17.092531)">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.469914;stroke-linecap:round"
+       id="rect1"
+       width="200.00252"
+       height="139.71321"
+       x="-29.139191"
+       y="17.092531" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.610808;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21"
+       width="194.10898"
+       height="134.50217"
+       x="-26.761375"
+       y="20.203461" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(29.139191,-17.092531)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="28.665649"
+       y="37.04583"
+       id="text60"><tspan
+         id="tspan60"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000000;stroke-width:0.699709"
+         x="28.665649"
+         y="37.04583">Conexión en serie</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793748;stroke-dasharray:none"
+       d="M 26.199927,87.478312 H 114.17014"
+       id="path16"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="31.874102"
+       y="64.472786"
+       id="text61"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="16.663897"
+         y="64.472786"><tspan
+           id="tspan61"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.699709"
+           x="16.663897"
+           y="64.472786">Biestable</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="16.663897"
+         y="71.22123">origen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="68.162567"
+       y="121.88493"
+       id="text92"><tspan
+         sodipodi:role="line"
+         id="tspan93"
+         x="68.162567"
+         y="121.88493">Conexión<tspan
+   id="tspan92"
+   style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.699709"
+   x="52.768661"
+   y="121.88493" /></tspan><tspan
+         sodipodi:role="line"
+         id="tspan94"
+         x="68.162567"
+         y="128.63338">serie</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2"
+       width="18.83209"
+       height="17.448277"
+       x="7.3678384"
+       y="78.224998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="138.67641"
+       y="64.472786"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="123.4662"
+         y="64.472786"><tspan
+           id="tspan9"
+           style="text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.699709"
+           x="123.4662"
+           y="64.472786">Biestable</tspan></tspan><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="123.4662"
+         y="71.22123">destino</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect11"
+       width="18.83209"
+       height="17.448277"
+       x="114.17016"
+       y="78.224998" />
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 68.098835,111.69224 3e-6,-17.908884"
+       id="path11" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect15"
+       width="18.83209"
+       height="17.448277"
+       x="7.3678384"
+       y="78.224998" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text19"
+       transform="matrix(1.7972261,0,0,1.7972261,192.76657,66.206226)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan5">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan6">X
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text4"
+       transform="matrix(1.7972261,0,0,1.7972261,299.56888,66.206226)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan14">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan15">Y
+</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none"
+       d="m 2.6088621,87.478303 h 4.494393"
+       id="path4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-dasharray:none"
+       d="m 132.7682,87.478303 h 4.4944"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="99.986519"
+       y="111.60226"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="99.986519"
+         y="111.60226">Entrada</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.79375;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 102.3219,104.18179 7.57832,-11.885936"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="39.334988"
+       y="111.60226"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         x="39.334988"
+         y="111.60226">Salida</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:0.79375;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 38.099641,103.34479 31.594175,92.531705"
+       id="path14"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
