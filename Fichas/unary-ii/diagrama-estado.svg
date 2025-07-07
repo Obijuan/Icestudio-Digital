@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="238.12178mm"
+   height="102.1522mm"
+   viewBox="0 0 238.12178 102.1522"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ae4ad5c273, 2025-06-21)"
+   sodipodi:docname="diagrama-estado.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.98646753"
+     inkscape:cx="424.24103"
+     inkscape:cy="273.19703"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="1112"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 54.548753 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="166.51723 : 54.548753 : 1"
+       inkscape:persp3d-origin="83.258618 : 38.680937 : 1"
+       id="perspective21" />
+    <marker
+       style="overflow:visible"
+       id="marker17"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path17" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="back"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.33196652,-3.982758)">
+    <rect
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.264583;stroke-dasharray:none"
+       id="rect12"
+       width="238.12178"
+       height="102.1522"
+       x="-0.33196652"
+       y="3.982758" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none"
+       id="rect11"
+       width="233.37718"
+       height="97.310844"
+       x="2.1335521"
+       y="6.2586203" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(0.33196652,-3.982758)">
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle4"
+       cx="117.1888"
+       cy="56.381496"
+       r="17.258619" />
+    <circle
+       style="fill:#ececec;stroke:#000000;stroke-width:0.768215"
+       id="path3"
+       cx="43.810352"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="44.640709"
+       y="56.571156"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="44.640709"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="44.640709"
+         y="62.921154"
+         id="tspan2">00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="118.01915"
+       y="56.571156"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="118.01915"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="118.01915"
+         y="62.921154"
+         id="tspan4">10</tspan></text>
+    <path
+       id="path5"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 57.817368,42.747111 c 0,0 7.819571,-7.51174 22.645439,-7.51174 14.82587,0 22.426233,6.424664 22.426233,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="36.057896"
+       y="20.362411"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="36.057896"
+         y="20.362411">Circuito</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="36.057896"
+         y="26.712412"
+         id="tspan13">unary-ii</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#marker17)"
+       id="path16"
+       sodipodi:type="arc"
+       sodipodi:cx="-219.66339"
+       sodipodi:cy="0.70571089"
+       sodipodi:rx="11.264942"
+       sodipodi:ry="11.264942"
+       sodipodi:start="0.42285395"
+       sodipodi:end="5.1172807"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m -209.39065,5.3284455 a 11.264942,11.264942 0 0 1 -14.83389,5.6775025 11.264942,11.264942 0 0 1 -5.76621,-14.799629 11.264942,11.264942 0 0 1 14.76484,-5.854724"
+       transform="rotate(-165)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="41.646652"
+       y="82.251648"
+       id="text22"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="41.646652"
+         y="82.251648"
+         id="tspan22">Estado inicial</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.768215"
+       id="circle22"
+       cx="43.810352"
+       cy="56.381496"
+       r="19.270216" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="79.876488"
+       y="32.545803"
+       id="text23"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="79.876488"
+         y="32.545803"
+         id="tspan23">ciclo 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="213.45767"
+       y="35.314388"
+       id="text24"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="213.45767"
+         y="35.314388"
+         id="tspan24">Resto</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="213.45767"
+         y="41.664387"
+         id="tspan25">de ciclos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="189.21123"
+       y="82.251648"
+       id="text5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="189.21123"
+         y="82.251648"
+         id="tspan5">Estado final</tspan></text>
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle1"
+       cx="187.99701"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="188.82736"
+       y="56.571156"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="188.82736"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="188.82736"
+         y="62.921154"
+         id="tspan7">11</tspan></text>
+    <path
+       id="path7"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 128.62558,42.747111 c 0,0 7.81957,-7.51174 22.64544,-7.51174 14.82587,0 22.42623,6.424664 22.42623,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="150.68469"
+       y="32.545803"
+       id="text8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="150.68469"
+         y="32.545803"
+         id="tspan8">ciclo 2</tspan></text>
+  </g>
+</svg>
