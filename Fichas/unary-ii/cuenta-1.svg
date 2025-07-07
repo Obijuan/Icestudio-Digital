@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="0.98646754"
-     inkscape:cx="461.74859"
-     inkscape:cy="257.99126"
+     inkscape:cx="415.11756"
+     inkscape:cy="206.29163"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -154,11 +154,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan1">
+         id="tspan7">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan2">1</tspan></text>
+         id="tspan8">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -193,21 +193,6 @@
        d="M 46.724533,74.587102 H 60.217041"
        id="path44"
        sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="-100.22816"
-       y="8.1674051"
-       id="text44"
-       transform="matrix(1.7972261,0,0,1.7972261,215.94247,51.25979)"><tspan
-         x="-100.22816"
-         y="8.1674051"
-         id="tspan3">
-</tspan><tspan
-         x="-100.22816"
-         y="14.915848"
-         id="tspan4">0
-</tspan></text>
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect45"
@@ -232,21 +217,6 @@
        d="M 46.724533,104.27824 H 60.217041"
        id="path47"
        sodipodi:nodetypes="cc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="-100.22816"
-       y="8.1674051"
-       id="text47"
-       transform="matrix(1.7972261,0,0,1.7972261,215.94247,80.950924)"><tspan
-         x="-100.22816"
-         y="8.1674051"
-         id="tspan5">
-</tspan><tspan
-         x="-100.22816"
-         y="14.915848"
-         id="tspan6">0
-</tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="circle11"
@@ -274,5 +244,33 @@
        transform="rotate(9.0974746)"
        inkscape:transform-center-x="3.0589274e-05"
        inkscape:transform-center-y="2.340116e-05" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text4"
+       transform="matrix(1.7972261,0,0,1.7972261,215.94247,52.439153)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan9">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan10">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text6"
+       transform="matrix(1.7972261,0,0,1.7972261,215.94247,81.0924)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan11">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan12">1</tspan></text>
   </g>
 </svg>
