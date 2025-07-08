@@ -3,8 +3,8 @@
 
 <svg
    width="268.27838mm"
-   height="133.47215mm"
-   viewBox="0 0 268.27838 133.47215"
+   height="104.26524mm"
+   viewBox="0 0 268.27838 104.26524"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (ae4ad5c273, 2025-06-21)"
@@ -32,7 +32,7 @@
      inkscape:window-x="54"
      inkscape:window-y="1112"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false" />
   <defs
      id="defs1" />
@@ -45,14 +45,14 @@
        style="display:inline;fill:#ffffff;stroke-width:0.469913;stroke-linecap:round"
        id="rect1"
        width="268.27838"
-       height="133.47215"
+       height="104.26524"
        x="-29.139191"
        y="17.092531" />
     <rect
        style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.610808;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect21"
        width="263.52277"
-       height="128.85959"
+       height="96.790833"
        x="-26.761375"
        y="20.203463" />
   </g>
@@ -535,16 +535,6 @@
          style="fill:#008000;stroke-width:0.699709"
          x="121.38272"
          y="91.509872">pulse0-2</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="159.6216"
-       y="184.36621"
-       id="text1"><tspan
-         id="tspan1"
-         style="fill:#000000;stroke-width:0.699709"
-         x="159.6216"
-         y="184.36621">(señal de arranque)</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.796628;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 213.05974,67.424278 H 65.926577 v 8.834504 H 16.452515"
