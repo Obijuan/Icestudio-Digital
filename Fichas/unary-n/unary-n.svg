@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.49323376"
-     inkscape:cx="129.75592"
-     inkscape:cy="637.6287"
+     inkscape:zoom="1.9729351"
+     inkscape:cx="289.92338"
+     inkscape:cy="608.4843"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -1172,7 +1172,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="back"
-     style="display:inline"><rect
+     style="display:inline"
+     sodipodi:insensitive="true"><rect
        width="210"
        height="297"
        fill="#ffffff"
@@ -1535,15 +1536,15 @@
        transform="translate(14.587653,-14.596924)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan29"><tspan
+         id="tspan10"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan7">Señal MAX:</tspan><tspan
+           id="tspan5">Señal MAX:</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan8">
+           id="tspan9">
 </tspan></tspan><tspan
          x="83.95945"
          y="85.400824"
-         id="tspan34">máxima cuenta alcanzada</tspan></text><path
+         id="tspan16">máxima cuenta alcanzada</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396874;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 174.82688,52.224482 -7.515,20.287965 -68.721439,-8e-6"
        id="path15-0"
@@ -1560,17 +1561,17 @@
        transform="translate(14.587653,-2.7955554)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan79"><tspan
+         id="tspan19"><tspan
            style="-inkscape-font-specification:Ubuntu"
-           id="tspan60">Ha transcurrido un
+           id="tspan18">Ha transcurrido un
 </tspan></tspan><tspan
          x="83.95945"
          y="85.400824"
-         id="tspan116"><tspan
+         id="tspan34"><tspan
            style="-inkscape-font-specification:Ubuntu"
-           id="tspan90">tiempo igual a </tspan><tspan
+           id="tspan20">tiempo igual a </tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan115">D</tspan></tspan></text><text
+           id="tspan29">D</tspan></tspan></text><text
        x="83.95945"
        y="80.955818"
        fill="#000000"
@@ -1583,9 +1584,9 @@
        transform="translate(12.238138,13.967751)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan129"><tspan
+         id="tspan39"><tspan
            style="-inkscape-font-specification:Ubuntu"
-           id="tspan128">Caso práctico</tspan></tspan></text><text
+           id="tspan36">Caso práctico</tspan></tspan></text><text
        x="83.95945"
        y="80.955818"
        fill="#000000"
@@ -1598,9 +1599,9 @@
        transform="translate(29.403765,25.098587)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan132"><tspan
+         id="tspan52"><tspan
            style="-inkscape-font-specification:Ubuntu"
-           id="tspan130">Placa Alhambra-II</tspan></tspan></text></g><g
+           id="tspan40">Placa Alhambra-II</tspan></tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="info"
@@ -2024,9 +2025,9 @@
        transform="translate(17.603876,11.542539)"><tspan
          x="149.42525"
          y="188.34544"
-         id="tspan142">Circuito: <tspan
+         id="tspan55">Circuito: <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan141">STEPN</tspan></tspan></text><g
+   id="tspan54">STEPN</tspan></tspan></text><g
        id="g120"
        transform="translate(-3.6163273,-16.773651)"><rect
          x="120.92829"
@@ -2045,11 +2046,11 @@
          transform="translate(96.454279,16.380407)"><tspan
            x="26.247385"
            y="199.78624"
-           id="tspan143">Caso de estudio
+           id="tspan56">Caso de estudio
 </tspan><tspan
            x="26.247385"
            y="204.23125"
-           id="tspan144">12 Biestables </tspan></text></g><rect
+           id="tspan57">12 Biestables </tspan></text></g><rect
        x="4.416276"
        y="171.38194"
        width="61.775448"
@@ -2230,11 +2231,11 @@
        transform="translate(-77.951619,79.258154)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan145">Ha pasado un
+         id="tspan58">Ha pasado un
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan146">tiempo D</tspan></text><text
+         id="tspan59">tiempo D</tspan></text><text
        x="192.4799"
        y="128.19838"
        fill="#000000"
@@ -2258,13 +2259,13 @@
        transform="translate(-0.86370193,1.2400051)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan148"><tspan
+         id="tspan61"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan147">B0
+           id="tspan60">B0
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan149">(D0)
+         id="tspan62">(D0)
 </tspan></text><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 61.001265,146.78116 H 19.173047"
@@ -3076,7 +3077,7 @@
        transform="translate(-125.46413,65.807899)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan150">D</tspan></text><text
+         id="tspan65">D</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="-157.99174"
@@ -3369,10 +3370,10 @@
        transform="translate(-83.887026,134.51002)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan151">LED0 se enciende al
+         id="tspan66">LED0 se enciende al
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan153">cabo de <tspan
+         id="tspan79">cabo de <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan152">1µs</tspan></tspan></text></g></svg>
+   id="tspan68">1µs</tspan></tspan></text></g></svg>
