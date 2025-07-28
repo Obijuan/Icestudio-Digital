@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="161.79076mm"
+   height="144.54732mm"
+   viewBox="0 0 161.79075 144.54731"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (78cd6ee764, 2025-07-25)"
+   sodipodi:docname="control-microordenes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.49323377"
+     inkscape:cx="302.08799"
+     inkscape:cy="467.32404"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker36"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path36" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(52.741898,-17.092531)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.469914;stroke-linecap:round"
+       id="rect1"
+       width="161.79076"
+       height="144.54732"
+       x="-52.741898"
+       y="17.092531" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.610808;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect21"
+       width="157.38354"
+       height="136.77257"
+       x="-50.364113"
+       y="20.203461" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(52.741898,-17.092531)">
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#000080;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect18"
+       width="57.636112"
+       height="55.292473"
+       x="-38.513554"
+       y="68.25779" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-9.6954994"
+       y="94.408409"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         x="-9.6954994"
+         y="94.408409"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080">Circuito de</tspan><tspan
+         sodipodi:role="line"
+         x="-9.6954994"
+         y="101.15685"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080"
+         id="tspan24">Control</tspan></text>
+    <path
+       style="fill:none;stroke:#000080;stroke-width:0.793753;stroke-dasharray:none;marker-end:url(#marker36)"
+       d="M 19.027442,77.9425 H 53.946665"
+       id="path6"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.793748;stroke-linecap:square"
+       id="path2"
+       cx="31.636032"
+       cy="99.80439"
+       r="1.4574354" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="31.354843"
+       y="75.409599"
+       id="text2"><tspan
+         sodipodi:role="line"
+         x="31.354843"
+         y="75.409599"
+         id="tspan2">Reset</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="56.645359"
+       y="135.20284"
+       id="text7"><tspan
+         sodipodi:role="line"
+         x="56.645359"
+         y="135.20284"
+         id="tspan7">Microórdenes</tspan></text>
+    <path
+       style="fill:none;stroke:#000080;stroke-width:0.793753;stroke-dasharray:none;marker-end:url(#marker36)"
+       d="M 19.027442,86.923264 H 53.946665"
+       id="path7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000080;stroke-width:0.793753;stroke-dasharray:none;marker-end:url(#marker36)"
+       d="M 19.027442,95.904028 H 53.946665"
+       id="path8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000080;stroke-width:0.793753;stroke-dasharray:none;marker-end:url(#marker36)"
+       d="M 19.027442,113.86556 H 53.946665"
+       id="path10"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.793748;stroke-linecap:square"
+       id="circle10"
+       cx="31.636032"
+       cy="104.54009"
+       r="1.4574354" />
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.793748;stroke-linecap:square"
+       id="circle11"
+       cx="31.636032"
+       cy="109.27579"
+       r="1.4574354" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-linecap:square;stroke-dasharray:1.05833, 3.175;stroke-dashoffset:0"
+       id="path11"
+       cx="54.399349"
+       cy="96.170364"
+       rx="11.406716"
+       ry="27.91758" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="33.831924"
+       y="48.720078"
+       id="text11"><tspan
+         sodipodi:role="line"
+         x="33.831924"
+         y="48.720078"
+         id="tspan11">Microórden</tspan><tspan
+         sodipodi:role="line"
+         x="33.831924"
+         y="55.468521"
+         id="tspan12">de Reset</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.793753;stroke-dasharray:none;marker-end:url(#marker36)"
+       d="m 30.596407,57.417034 v 9.103448"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
