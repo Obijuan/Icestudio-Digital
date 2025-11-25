@@ -8,8 +8,8 @@
    viewBox="0 0 210 297"
    xml:space="preserve"
    id="svg30"
-   sodipodi:docname="sysdiv-2.svg"
-   inkscape:version="1.4.2 (d1939eabb2, 2025-08-14)"
+   sodipodi:docname="sysdiv2.svg"
+   inkscape:version="1.4.2 (cdb4348684, 2025-11-24)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.69753788"
-     inkscape:cx="493.87999"
-     inkscape:cy="565.56068"
+     inkscape:zoom="0.49323377"
+     inkscape:cx="540.31175"
+     inkscape:cy="402.44609"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1383,7 +1383,7 @@
        stroke="#000000"
        id="rect37"
        style="stroke-width:0.529167;stroke-linejoin:round;stroke-dasharray:none" /><text
-       x="18.901127"
+       x="20.379429"
        y="262.06894"
        fill="#000000"
        font-family="Ubuntu"
@@ -1395,12 +1395,12 @@
        id="text37"
        style="text-align:start;text-anchor:start;stroke-width:0.52917;stroke-linejoin:round"
        transform="scale(1.0027879,0.99721985)"><tspan
-         x="23.946939"
+         x="25.425241"
          y="262.06894"
          fill="#000000"
          stroke-width="0.52917"
          id="tspan37"
-         style="text-align:start;text-anchor:start">sysdiv-2</tspan></text><rect
+         style="text-align:start;text-anchor:start">sysdiv2</tspan></text><rect
        x="4.4162765"
        y="5.1711607"
        width="201.14978"
@@ -1448,7 +1448,7 @@
        transform="translate(11.37931,-14.483498)"><tspan
          x="7.5574675"
          y="194.61488"
-         id="tspan7">Resultado</tspan></text><g
+         id="tspan2">Resultado</tspan></text><g
        id="g5"
        transform="translate(-146.73106,-6.327649)"><text
          x="161.28683"
@@ -1543,7 +1543,7 @@
        transform="matrix(1.2207973,0,0,1.2140187,-109.63784,-56.752161)"><tspan
          x="136.48723"
          y="261.53326"
-         id="tspan8">Divisor del reloj del sistema entre 2 </tspan></text><rect
+         id="tspan3">Divisor del reloj del sistema entre 2 </tspan></text><rect
        x="4.3754287"
        y="103.54824"
        width="139.01611"
@@ -1616,7 +1616,7 @@
        transform="translate(14.413793,-14.483498)"><tspan
          x="78.867813"
          y="194.61488"
-         id="tspan9">Diagrama de estado</tspan></text><image
+         id="tspan5">Diagrama de estado</tspan></text><image
        width="33.691322"
        height="37.021839"
        preserveAspectRatio="none"
@@ -1717,11 +1717,11 @@
        transform="translate(-158.34727,104.63516)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan10">Efecto óptico:
+         id="tspan6">Efecto óptico:
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan12">Un LED encendido</tspan></text><text
+         id="tspan7">Un LED encendido</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.45944px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="163.29076"
@@ -1980,9 +1980,9 @@
        transform="matrix(0.93316242,0,0,0.93316242,-0.12935668,-2.0685876)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan14"><tspan
+         id="tspan9"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan13">OUT</tspan>
+   id="tspan8">OUT</tspan>
 </tspan></text><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 20.177463,133.74495 h 13.14739 v -4.67599 h 13.01039 v 4.67599 h 12.87474 v 0 -4.67599 H 72.1799 v 4.67599 h 12.96635 v -4.676 h 13.0544 v 4.67599 h 12.8783 v -4.67599 h 13.0615 v 4.67599 h 13.185"
@@ -2835,9 +2835,9 @@
          transform="translate(163.8919,40.352861)"><tspan
            x="83.95945"
            y="80.955818"
-           id="tspan16"><tspan
+           id="tspan11"><tspan
              style="-inkscape-font-specification:Ubuntu"
-             id="tspan15">Caso práctico</tspan></tspan></text><text
+             id="tspan10">Caso práctico</tspan></tspan></text><text
          x="83.95945"
          y="80.955818"
          fill="#000000"
@@ -2850,9 +2850,9 @@
          transform="translate(164.42832,46.565298)"><tspan
            x="83.95945"
            y="80.955818"
-           id="tspan18"><tspan
+           id="tspan13"><tspan
              style="-inkscape-font-specification:Ubuntu"
-             id="tspan17">Placa Alhambra-II</tspan></tspan></text><text
+             id="tspan12">Placa Alhambra-II</tspan></tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
          x="248.65208"
