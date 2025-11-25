@@ -12,7 +12,7 @@ cd Fichas/$1
 echo "Cambiando a $PWD"
 
 #-- Exportar a PDF
-echo "Generando... $PWD/$.pdf"
+echo "Generando... $PWD/$1.pdf"
 inkscape $PWD/$1.svg --export-filename=$PWD/$1.pdf
 
 #-- Exportar a PNG
