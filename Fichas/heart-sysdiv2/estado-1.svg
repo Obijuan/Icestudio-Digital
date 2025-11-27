@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="69.672127mm"
+   height="116.37598mm"
+   viewBox="0 0 69.672124 116.37598"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (1f7c406ee0, 2025-11-26)"
+   sodipodi:docname="estado-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.65166819"
+     inkscape:cx="-210.22969"
+     inkscape:cy="427.36473"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(29.139193,-0.63848621)"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.486807;stroke-linecap:round"
+       id="rect1"
+       width="69.672127"
+       height="116.37598"
+       x="-29.139193"
+       y="0.63848621" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(29.139193,-0.63848621)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-10.961167"
+       y="21.749449"
+       id="text45"><tspan
+         sodipodi:role="line"
+         id="tspan45"
+         x="-10.961167"
+         y="21.749449"
+         style="font-size:4.7625px">Ciclo 0</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect45"
+       width="9.2908726"
+       height="8.5890017"
+       x="1.0514361"
+       y="15.642814" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.2657px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396873;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-111.9171"
+       y="6.2733717"
+       id="text79"
+       transform="rotate(-90)"><tspan
+         id="tspan79"
+         style="fill:#000000;stroke-width:0.396873"
+         x="-111.9171"
+         y="6.2733717">...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.769px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.445025;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="8.1285486"
+       y="10.663514"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="8.1285486"
+         y="10.663514"
+         style="stroke-width:0.445025">Valor inicial = 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-10.961167"
+       y="32.783428"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="-10.961167"
+         y="32.783428"
+         style="font-size:4.7625px">Ciclo 1</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect2"
+       width="9.2908726"
+       height="8.5890017"
+       x="1.0514361"
+       y="26.67679" />
+    <circle
+       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle11"
+       cx="10.522223"
+       cy="29.680939"
+       r="2.6077931"
+       transform="rotate(9.0974747)"
+       inkscape:transform-center-x="1.8728061e-05"
+       inkscape:transform-center-y="1.0058903e-05" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-10.961167"
+       y="43.817406"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="-10.961167"
+         y="43.817406"
+         style="font-size:4.7625px">Ciclo 2</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3"
+       width="9.2908726"
+       height="8.5890017"
+       x="1.0514361"
+       y="37.71077" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-10.961167"
+       y="54.851387"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="-10.961167"
+         y="54.851387"
+         style="font-size:4.7625px">Ciclo 3</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4"
+       width="9.2908726"
+       height="8.5890017"
+       x="1.0514361"
+       y="48.744747" />
+    <circle
+       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle4"
+       cx="14.011489"
+       cy="51.471298"
+       r="2.6077931"
+       transform="rotate(9.0974747)"
+       inkscape:transform-center-x="1.8728061e-05"
+       inkscape:transform-center-y="1.0058903e-05" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-10.961167"
+       y="65.885368"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="-10.961167"
+         y="65.885368"
+         style="font-size:4.7625px">Ciclo 4</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5"
+       width="9.2908726"
+       height="8.5890017"
+       x="1.0514361"
+       y="59.778732" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-10.961167"
+       y="76.91935"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="-10.961167"
+         y="76.91935"
+         style="font-size:4.7625px">Ciclo 5</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6"
+       width="9.2908726"
+       height="8.5890017"
+       x="1.0514361"
+       y="70.812706" />
+    <circle
+       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle6"
+       cx="17.500753"
+       cy="73.261665"
+       r="2.6077931"
+       transform="rotate(9.0974747)"
+       inkscape:transform-center-x="1.8728061e-05"
+       inkscape:transform-center-y="1.0058903e-05" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-10.961167"
+       y="87.953323"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="-10.961167"
+         y="87.953323"
+         style="font-size:4.7625px">Ciclo 6</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7"
+       width="9.2908726"
+       height="8.5890017"
+       x="1.0514361"
+       y="81.846687" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.7625px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-10.961167"
+       y="98.987305"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="-10.961167"
+         y="98.987305"
+         style="font-size:4.7625px">Ciclo 7</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8"
+       width="9.2908726"
+       height="8.5890017"
+       x="1.0514361"
+       y="92.880669" />
+    <circle
+       style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="circle8"
+       cx="20.990019"
+       cy="95.052025"
+       r="2.6077931"
+       transform="rotate(9.0974747)"
+       inkscape:transform-center-x="1.8728061e-05"
+       inkscape:transform-center-y="1.0058903e-05" />
+  </g>
+</svg>
