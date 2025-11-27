@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="193.91791mm"
-   height="70.3685mm"
-   viewBox="0 0 193.91791 70.3685"
+   width="203.84178mm"
+   height="90.752678mm"
+   viewBox="0 0 203.84178 90.752678"
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (1f7c406ee0, 2025-11-26)"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.98646753"
-     inkscape:cx="328.95153"
-     inkscape:cy="204.2642"
+     inkscape:cx="320.84178"
+     inkscape:cy="192.09958"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -58,185 +58,189 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="back"
-     transform="translate(-7.5099702,-9.3390903)">
+     transform="translate(2.4139078,-9.3390903)">
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.529167;stroke-dasharray:none"
+       style="fill:#ffffff;stroke:none;stroke-width:0.616128;stroke-dasharray:none"
        id="rect10"
-       width="193.91791"
-       height="70.3685"
-       x="7.5099702"
+       width="203.84178"
+       height="90.752678"
+       x="-2.4139078"
        y="9.3390903" />
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:0.620408;stroke-dasharray:none"
        id="rect11"
-       width="190.69937"
-       height="67.053223"
-       x="9.1192389"
-       y="10.99673" />
+       width="200.53203"
+       height="87.650459"
+       x="-0.75902921"
+       y="11.04235" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-7.5099702,-9.3390903)">
-    <path
-       d="m 72.304628,61.826205 h 3.79824"
-       fill="none"
-       stroke="#777777"
-       stroke-width="0.491424"
-       id="path4-0"
-       style="display:inline"
-       sodipodi:nodetypes="cc" />
-    <rect
-       style="display:inline;fill:#fbfbce;fill-opacity:1;stroke:#777777;stroke-width:0.338503;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       id="rect23-5"
-       width="3.7037277"
-       height="3.75476"
-       x="68.450706"
-       y="59.948807"
-       ry="1.0605483"
-       rx="1.0605483" />
-    <rect
-       rx="1.1771951"
-       ry="1.1771951"
-       y="54.503395"
-       x="76.102867"
-       height="15.477769"
-       width="23.361807"
-       id="rect861"
-       style="display:inline;fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:0.32071;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path865"
-       d="m 87.747018,54.582495 v -2.05552"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:0.591039;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="display:inline;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.234816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 76.068518,60.001855 2.27035,1.82435 -2.27035,1.92037"
-       id="path866"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path865-3-6-6"
-       d="m 87.739768,54.625825 v -2.06748"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:0.617321;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path865-2-1"
-       d="m 99.376322,61.826205 h 3.454138"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:0.591038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="cc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path865-2-1-2"
-       d="m 87.739768,54.646855 v -2.08851"
-       style="display:inline;fill:none;stroke:#777777;stroke-width:0.591039;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     transform="translate(2.4139078,-9.3390903)">
     <g
-       id="g1"
-       transform="matrix(0.27684738,0,0,0.27684738,47.650038,84.055115)"
-       style="display:inline">
+       id="g2"
+       transform="translate(-22.798098)">
       <path
-         d="m 139.49565,-60.204155 c -0.72649,-1.249881 -1.85272,-2.473699 -3.98686,-4.331887 -1.15608,-1.006449 -1.85935,-1.565402 -5.86334,-4.6585 -3.13818,-2.424902 -4.70394,-3.770161 -6.51851,-5.601176 -1.81347,-1.831016 -2.87943,-3.289396 -3.7939,-5.190835 -0.58385,-1.214393 -0.98524,-2.384424 -1.23514,-3.599925 -0.31681,-1.54433 -0.35993,-2.06724 -0.35827,-4.341315 0.002,-2.983857 0.10062,-3.480149 1.08033,-5.470866 0.72815,-1.478342 1.28104,-2.256885 2.4327,-3.42636 1.11848,-1.135096 1.84442,-1.650799 3.41461,-2.427121 1.74436,-0.86283 3.00604,-1.08907 5.60515,-1.00534 2.01969,0.0654 2.7589,0.266169 4.36005,1.187776 2.52005,1.450063 4.4756,3.777923 5.01688,5.972148 0.0885,0.358773 0.17969,0.652667 0.20291,0.652667 0.0232,0 0.22723,-0.41977 0.45336,-0.932698 0.76962,-1.743956 1.4845,-2.808076 2.62012,-3.902692 3.4771,-3.352611 8.95895,-3.958701 13.39143,-1.481669 1.81014,1.011441 3.28303,2.484236 4.42418,4.423937 0.89844,1.526586 1.35789,3.554455 1.4364,6.339794 0.11334,4.035222 -0.62476,6.831651 -2.58916,9.811626 -0.77957,1.182786 -1.35623,1.899222 -2.43767,3.028218 -1.7449,1.822698 -3.31842,3.162412 -7.03325,5.987676 -2.34423,1.782774 -3.73363,2.928961 -5.74447,4.741122 -1.61166,1.451726 -4.10849,3.979216 -4.349,4.401757 -0.10504,0.184655 -0.20014,0.335482 -0.2112,0.335482 -0.0111,0 -0.1537,-0.230123 -0.31735,-0.511819 z"
-         id="path8-3"
-         inkscape:connector-curvature="0"
-         style="display:inline;fill:#ff0000;stroke:none;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <circle
-         r="8.1004286"
-         cy="-66.320229"
-         cx="157.84224"
-         id="path992-2-6"
-         style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.482623;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 76.908247,72.467088 h 8.144474"
+         fill="none"
+         stroke="#777777"
+         stroke-width="1.05375"
+         id="path4-0"
+         style="display:inline"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="display:inline;fill:#fbfbce;fill-opacity:1;stroke:#777777;stroke-width:0.725844;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect23-5"
+         width="7.9418135"
+         height="8.0512409"
+         x="68.644379"
+         y="68.441429"
+         ry="2.2741079"
+         rx="2.2741079" />
+      <rect
+         rx="2.5242307"
+         ry="2.5242307"
+         y="56.764965"
+         x="85.052719"
+         height="33.188602"
+         width="50.094154"
+         id="rect861"
+         style="display:inline;fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:0.687691;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
-         id="path1773-2-3-1-8-9-1"
-         d="m 161.38958,-61.687688 h -1.86519 V -72.1618 h -3.38568 v 10.392122 h -2.03198"
-         style="display:inline;fill:none;stroke:#008000;stroke-width:1.20656;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         y="-76.557991"
-         x="138.58856"
-         style="font-weight:400;font-size:28.7042px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.636742"
-         font-weight="400"
-         font-size="27.48"
-         letter-spacing="0"
-         word-spacing="0"
-         id="text917-2"
-         transform="scale(0.99852717,1.001475)"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-weight:700;font-size:16.4026px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.636742"
+         id="path865"
+         d="M 110.02099,56.934577 V 52.526975"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.26735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.50351;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 84.979065,68.555179 4.868256,3.911909 -4.868256,4.117803"
+         id="path866"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path865-3-6-6"
+         d="M 110.00544,57.027488 V 52.594241"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.32371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path865-2-1"
+         d="m 134.95742,72.467088 h 7.40663"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.26735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path865-2-1-2"
+         d="M 110.00544,57.072582 V 52.594241"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.26735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         id="g1"
+         transform="matrix(0.59363711,0,0,0.59363711,24.042009,120.132)"
+         style="display:inline">
+        <path
+           d="m 139.49565,-60.204155 c -0.72649,-1.249881 -1.85272,-2.473699 -3.98686,-4.331887 -1.15608,-1.006449 -1.85935,-1.565402 -5.86334,-4.6585 -3.13818,-2.424902 -4.70394,-3.770161 -6.51851,-5.601176 -1.81347,-1.831016 -2.87943,-3.289396 -3.7939,-5.190835 -0.58385,-1.214393 -0.98524,-2.384424 -1.23514,-3.599925 -0.31681,-1.54433 -0.35993,-2.06724 -0.35827,-4.341315 0.002,-2.983857 0.10062,-3.480149 1.08033,-5.470866 0.72815,-1.478342 1.28104,-2.256885 2.4327,-3.42636 1.11848,-1.135096 1.84442,-1.650799 3.41461,-2.427121 1.74436,-0.86283 3.00604,-1.08907 5.60515,-1.00534 2.01969,0.0654 2.7589,0.266169 4.36005,1.187776 2.52005,1.450063 4.4756,3.777923 5.01688,5.972148 0.0885,0.358773 0.17969,0.652667 0.20291,0.652667 0.0232,0 0.22723,-0.41977 0.45336,-0.932698 0.76962,-1.743956 1.4845,-2.808076 2.62012,-3.902692 3.4771,-3.352611 8.95895,-3.958701 13.39143,-1.481669 1.81014,1.011441 3.28303,2.484236 4.42418,4.423937 0.89844,1.526586 1.35789,3.554455 1.4364,6.339794 0.11334,4.035222 -0.62476,6.831651 -2.58916,9.811626 -0.77957,1.182786 -1.35623,1.899222 -2.43767,3.028218 -1.7449,1.822698 -3.31842,3.162412 -7.03325,5.987676 -2.34423,1.782774 -3.73363,2.928961 -5.74447,4.741122 -1.61166,1.451726 -4.10849,3.979216 -4.349,4.401757 -0.10504,0.184655 -0.20014,0.335482 -0.2112,0.335482 -0.0111,0 -0.1537,-0.230123 -0.31735,-0.511819 z"
+           id="path8-3"
+           inkscape:connector-curvature="0"
+           style="display:inline;fill:#ff0000;stroke:none;stroke-width:0.79375;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <circle
+           r="8.1004286"
+           cy="-66.320229"
+           cx="157.84224"
+           id="path992-2-6"
+           style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.482623;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1773-2-3-1-8-9-1"
+           d="m 161.38958,-61.687688 h -1.86519 V -72.1618 h -3.38568 v 10.392122 h -2.03198"
+           style="display:inline;fill:none;stroke:#008000;stroke-width:1.20656;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
            y="-76.557991"
            x="138.58856"
-           font-weight="700"
-           font-size="15.703"
-           id="tspan915-9">2</tspan></text>
-      <path
-         style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.79084;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 125.94959,-82.220251 h 11.88027"
-         id="path1582-3" />
-      <ellipse
-         style="display:inline;fill:#0000ff;stroke-width:1.79084;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="path3867-1"
-         cx="132.16026"
-         cy="-86.267273"
-         rx="1.2664704"
-         ry="1.1961944" />
-      <ellipse
-         style="display:inline;fill:#0000ff;stroke-width:1.79084;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-         id="ellipse3971-9"
-         cx="132.16026"
-         cy="-78.570648"
-         rx="1.2664704"
-         ry="1.1961944" />
-      <rect
-         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.684064;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect8310"
-         width="21.038651"
-         height="11.363168"
-         x="151.16698"
-         y="-96.050842"
-         ry="1.9362887"
-         rx="1.9362887" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:9.12083px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.22802"
-         x="152.8427"
-         y="-87.804352"
-         id="text2010"><tspan
-           sodipodi:role="line"
-           id="tspan2008"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.22802"
+           style="font-weight:400;font-size:28.7042px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.636742"
+           font-weight="400"
+           font-size="27.48"
+           letter-spacing="0"
+           word-spacing="0"
+           id="text917-2"
+           transform="scale(0.99852717,1.001475)"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-weight:700;font-size:16.4026px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.636742"
+             y="-76.557991"
+             x="138.58856"
+             font-weight="700"
+             font-size="15.703"
+             id="tspan915-9">2</tspan></text>
+        <path
+           style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.79084;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 125.94959,-82.220251 h 11.88027"
+           id="path1582-3" />
+        <ellipse
+           style="display:inline;fill:#0000ff;stroke-width:1.79084;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path3867-1"
+           cx="132.16026"
+           cy="-86.267273"
+           rx="1.2664704"
+           ry="1.1961944" />
+        <ellipse
+           style="display:inline;fill:#0000ff;stroke-width:1.79084;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse3971-9"
+           cx="132.16026"
+           cy="-78.570648"
+           rx="1.2664704"
+           ry="1.1961944" />
+        <rect
+           style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.684064;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect8310"
+           width="21.038651"
+           height="11.363168"
+           x="151.16698"
+           y="-96.050842"
+           ry="1.9362887"
+           rx="1.9362887" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9.12083px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.22802"
            x="152.8427"
-           y="-87.804352">Sys</tspan></text>
-      <circle
-         r="7.1079264"
-         cy="-64.819138"
-         cx="125.28606"
-         id="circle1-6"
-         style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.332279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         y="-59.059174"
-         x="120.281"
-         style="font-weight:400;font-size:26.1056px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.541635"
-         font-weight="400"
-         font-size="27.48"
-         letter-spacing="0"
-         word-spacing="0"
-         id="text1-7"
-         transform="scale(0.99852717,1.001475)"
-         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           style="font-weight:700;font-size:14.9176px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.541635"
+           y="-87.804352"
+           id="text2010"><tspan
+             sodipodi:role="line"
+             id="tspan2008"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.22802"
+             x="152.8427"
+             y="-87.804352">Sys</tspan></text>
+        <circle
+           r="7.1079264"
+           cy="-64.819138"
+           cx="125.28606"
+           id="circle1-6"
+           style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.332279;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
            y="-59.059174"
            x="120.281"
-           font-weight="700"
-           font-size="15.703"
-           id="tspan1-5">0</tspan></text>
+           style="font-weight:400;font-size:26.1056px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.541635"
+           font-weight="400"
+           font-size="27.48"
+           letter-spacing="0"
+           word-spacing="0"
+           id="text1-7"
+           transform="scale(0.99852717,1.001475)"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-weight:700;font-size:14.9176px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.541635"
+             y="-59.059174"
+             x="120.281"
+             font-weight="700"
+             font-size="15.703"
+             id="tspan1-5">0</tspan></text>
+      </g>
     </g>
     <text
        x="53.550858"
@@ -254,8 +258,8 @@
          id="tspan74"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080">Componente iceheart.sysdiv2</tspan></text>
     <text
-       x="15.732837"
-       y="47.219696"
+       x="10.368578"
+       y="44.269356"
        fill="#000000"
        font-family="Ubuntu"
        font-size="4.9389px"
@@ -264,23 +268,23 @@
        xml:space="preserve"
        id="text1"><tspan
          sodipodi:role="line"
-         x="15.732837"
-         y="47.219696"
+         x="10.368578"
+         y="44.269356"
          id="tspan1"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Entrada:</tspan><tspan
          sodipodi:role="line"
-         x="15.732837"
-         y="51.664707"
+         x="10.368578"
+         y="48.714367"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          id="tspan2">Reloj del sistema</tspan><tspan
          sodipodi:role="line"
-         x="15.732837"
-         y="56.109715"
+         x="10.368578"
+         y="53.159374"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
          id="tspan5">(sysclk)</tspan></text>
     <path
        style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
-       d="M 49.082962,53.910796 65.04558,59.321071"
+       d="m 39.427297,51.49688 8.184444,14.261301"
        id="path2"
        sodipodi:nodetypes="cc" />
     <text
@@ -305,7 +309,7 @@
          id="tspan4">Señal de frecuencia sysclk/2</tspan></text>
     <path
        style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
-       d="m 123.06504,54.447222 -15.96262,5.410275"
+       d="m 126.2836,55.251861 -6.30696,12.920236"
        id="path5"
        sodipodi:nodetypes="cc" />
     <text
