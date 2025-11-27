@@ -388,22 +388,6 @@
           }
         },
         {
-          "id": "883f6452-ea5e-4504-847a-07e71d004486",
-          "type": "basic.info",
-          "data": {
-            "info": "**rst**",
-            "readonly": true
-          },
-          "position": {
-            "x": 1240,
-            "y": 584
-          },
-          "size": {
-            "width": 104,
-            "height": 40
-          }
-        },
-        {
           "id": "4dfee1a8-cf82-417e-b067-0e215fa3fcaf",
           "type": "basic.info",
           "data": {
