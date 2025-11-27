@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="277.66928mm"
+   height="121.85848mm"
+   viewBox="0 0 277.66928 121.85848"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (1f7c406ee0, 2025-11-26)"
+   sodipodi:docname="iceheart-sysdiv2-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.67583038"
+     inkscape:cx="523.06024"
+     inkscape:cy="332.18394"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(0.87355947,-9.3390903)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.833271;stroke-dasharray:none"
+       id="rect10"
+       width="277.66928"
+       height="121.85848"
+       x="-0.87355947"
+       y="9.3390903" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.841567;stroke-dasharray:none"
+       id="rect11"
+       width="273.54568"
+       height="118.23081"
+       x="1.8370579"
+       y="11.152929" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.87355947,-9.3390903)">
+    <path
+       d="m 56.709735,43.097055 h 9.289701"
+       fill="none"
+       stroke="#777777"
+       stroke-width="1.20192"
+       id="path4-0"
+       style="display:inline"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="display:inline;fill:#fbfbce;fill-opacity:1;stroke:#777777;stroke-width:0.827908;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect23-5"
+       width="9.0585442"
+       height="9.1833582"
+       x="47.283852"
+       y="38.505333"
+       ry="2.5938795"
+       rx="2.5938795" />
+    <rect
+       rx="2.879173"
+       ry="2.879173"
+       y="25.186995"
+       x="65.999435"
+       height="37.855389"
+       width="57.138096"
+       id="rect861"
+       style="display:inline;fill:#e4e4e4;fill-opacity:1;stroke:#777777;stroke-width:0.78439;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865"
+       d="M 94.47859,25.380455 V 20.353083"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:1.44556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.574311;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.915423,38.635077 5.552802,4.461978 -5.552802,4.696824"
+       id="path866"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3-6-6"
+       d="M 94.46086,25.486431 V 20.429807"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:1.50984;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-2-1"
+       d="m 122.92144,43.097055 h 8.4481"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:1.44556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-2-1-2"
+       d="M 94.46086,25.537866 V 20.429807"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:1.44556;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 90.863774,56.699442 c -0.491914,-0.846308 -1.254496,-1.674968 -2.699546,-2.933168 -0.782794,-0.681477 -1.258986,-1.05995 -3.970131,-3.15432 -2.124895,-1.641928 -3.185088,-2.552817 -4.413753,-3.792617 -1.22792,-1.239801 -1.949693,-2.227286 -2.568891,-3.514771 -0.395331,-0.822278 -0.667117,-1.614519 -0.836327,-2.437548 -0.214515,-1.045682 -0.243712,-1.39975 -0.242588,-2.939551 0.0014,-2.020402 0.06813,-2.356447 0.731503,-3.704383 0.493038,-1.001001 0.867406,-1.528161 1.647208,-2.320025 0.757334,-0.768586 1.248876,-1.117774 2.312069,-1.64343 1.181125,-0.584231 2.035422,-0.737421 3.795308,-0.680726 1.367553,0.04428 1.868081,0.180225 2.952237,0.804255 1.706353,0.981854 3.030477,2.558073 3.396983,4.043806 0.05993,0.24293 0.12167,0.441928 0.137393,0.441928 0.01571,0 0.15386,-0.28423 0.306975,-0.63154 0.521118,-1.180851 1.005171,-1.901378 1.774111,-2.642555 2.354382,-2.270089 6.066202,-2.680479 9.067485,-1.003254 1.22566,0.684858 2.22297,1.682103 2.99566,2.995496 0.60834,1.033668 0.91944,2.40676 0.9726,4.292743 0.0767,2.732292 -0.42303,4.625785 -1.75315,6.643558 -0.52785,0.800877 -0.91832,1.285984 -1.65057,2.050439 -1.18149,1.234169 -2.24694,2.141304 -4.762291,4.05432 -1.587304,1.207136 -2.528081,1.983231 -3.889643,3.210265 -1.091272,0.98298 -2.781903,2.69437 -2.944755,2.980478 -0.07112,0.125031 -0.135517,0.227158 -0.143006,0.227158 -0.0075,0 -0.104072,-0.155819 -0.214881,-0.346558 z"
+       id="path8-3"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#ff0000;stroke:none;stroke-width:0.537457;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="5.4848876"
+       cy="52.558182"
+       cx="103.28645"
+       id="path992-2-6"
+       style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.326789;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path1773-2-3-1-8-9-1"
+       d="m 105.68839,55.694926 h -1.26294 v -7.092135 h -2.29248 v 7.036618 h -1.37588"
+       style="display:inline;fill:none;stroke:#008000;stroke-width:0.816975;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g24">
+      <text
+         y="45.482533"
+         x="90.244278"
+         style="font-weight:400;font-size:19.4359px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.431145"
+         font-weight="400"
+         font-size="27.48"
+         letter-spacing="0"
+         word-spacing="0"
+         id="text917-2"
+         transform="scale(0.99852717,1.001475)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-weight:700;font-size:11.1064px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.431145"
+           y="45.482533"
+           x="90.244278"
+           font-weight="700"
+           font-size="15.703"
+           id="tspan915-9">2</tspan></text>
+      <path
+         style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.2126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 81.691591,41.792105 H 89.73585"
+         id="path1582-3" />
+      <ellipse
+         style="display:inline;fill:#0000ff;stroke-width:1.2126;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path3867-1"
+         cx="85.896904"
+         cy="39.051823"
+         rx="0.85754085"
+         ry="0.80995619" />
+      <ellipse
+         style="display:inline;fill:#0000ff;stroke-width:1.2126;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse3971-9"
+         cx="85.896904"
+         cy="44.26329"
+         rx="0.85754085"
+         ry="0.80995619" />
+    </g>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.463187;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8310"
+       width="14.245498"
+       height="7.6941237"
+       x="98.766556"
+       y="32.427261"
+       ry="1.311082"
+       rx="1.311082" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.17581px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.154395"
+       x="99.901207"
+       y="38.011051"
+       id="text2010"><tspan
+         sodipodi:role="line"
+         id="tspan2008"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.154395"
+         x="99.901207"
+         y="38.011051">Sys</tspan></text>
+    <circle
+       r="4.8128538"
+       cy="53.574589"
+       cx="81.242302"
+       id="circle1-6"
+       style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.22499;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       y="57.331173"
+       x="77.84803"
+       style="font-weight:400;font-size:17.6764px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.366747"
+       font-weight="400"
+       font-size="27.48"
+       letter-spacing="0"
+       word-spacing="0"
+       id="text1-7"
+       transform="scale(0.99852717,1.001475)"
+       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-weight:700;font-size:10.1009px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.366747"
+         y="57.331173"
+         x="77.84803"
+         font-weight="700"
+         font-size="15.703"
+         id="tspan1-5">0</tspan></text>
+    <text
+       x="177.40701"
+       y="52.852169"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text1"><tspan
+         sodipodi:role="line"
+         x="177.40701"
+         y="52.852169"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+         id="tspan5">Corazón<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+   id="tspan14">: Icono usado para</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="177.40701"
+         y="57.29718"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan11">indicar que este componente</tspan><tspan
+         sodipodi:role="line"
+         x="177.40701"
+         y="61.742188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan12">es un generador</tspan><tspan
+         sodipodi:role="line"
+         x="177.40701"
+         y="66.187202"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan13">(Bombeo de bits)</tspan></text>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 101.92091,42.914066 50.29386,10.238108"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="175.58772"
+       y="26.644104"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text4"><tspan
+         sodipodi:role="line"
+         x="175.58772"
+         y="26.644104"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Relog del sistema:</tspan><tspan
+         sodipodi:role="line"
+         x="175.58772"
+         y="31.089113"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan4">Este componente cambia de estado</tspan><tspan
+         sodipodi:role="line"
+         x="175.58772"
+         y="35.534122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan16">interno en cada ciclo del reloj del sistema</tspan></text>
+    <path
+       d="m 163.89435,65.388304 c -0.30639,-0.527128 -0.78137,-1.043264 -1.68143,-1.826942 -0.48757,-0.424462 -0.78417,-0.660196 -2.47282,-1.964687 -1.32351,-1.022685 -1.98385,-1.590038 -2.74913,-2.362255 -0.76482,-0.772218 -1.21438,-1.387279 -1.60005,-2.189197 -0.24624,-0.512161 -0.41552,-1.005613 -0.52091,-1.518241 -0.13362,-0.65131 -0.1518,-0.871843 -0.1511,-1.830918 6.2e-4,-1.258419 0.0424,-1.467727 0.45562,-2.307297 0.30709,-0.62348 0.54027,-0.951825 1.02597,-1.445042 0.47172,-0.478719 0.77788,-0.696212 1.44009,-1.023621 0.73567,-0.363891 1.26777,-0.459307 2.36393,-0.423994 0.85179,0.02758 1.16355,0.112254 1.83882,0.500935 1.06281,0.611554 1.88755,1.593312 2.11583,2.51871 0.0373,0.15131 0.0758,0.275257 0.0856,0.275257 0.01,0 0.0958,-0.177034 0.1912,-0.393358 0.32458,-0.735501 0.62608,-1.184285 1.10502,-1.645932 1.46644,-1.413939 3.77837,-1.669553 5.64773,-0.624883 0.76341,0.426568 1.38459,1.047708 1.86587,1.865763 0.37891,0.643827 0.57268,1.499065 0.60579,2.673761 0.0478,1.701825 -0.26349,2.881199 -1.09196,4.137981 -0.32878,0.498831 -0.57198,0.800983 -1.02807,1.277129 -0.7359,0.768709 -1.39952,1.333724 -2.96622,2.525258 -0.98866,0.751872 -1.57463,1.235267 -2.42269,1.999533 -0.6797,0.612255 -1.73272,1.678205 -1.83416,1.856409 -0.0443,0.07788 -0.0844,0.141487 -0.0891,0.141487 -0.004,0 -0.0648,-0.09705 -0.13384,-0.215856 z"
+       id="path11"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#ff0000;stroke:none;stroke-width:0.334758;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.463187;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14"
+       width="14.245498"
+       height="7.6941237"
+       x="158.71214"
+       y="23.978554"
+       ry="1.311082"
+       rx="1.311082" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.17581px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.154395"
+       x="159.84679"
+       y="29.562344"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.154395"
+         x="159.84679"
+         y="29.562344">Sys</tspan></text>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 114.79513,35.404104 40.90641,-6.927519"
+       id="path15"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g16"
+       transform="translate(-7.1975241,-2.7682785)">
+      <circle
+         r="9.2974529"
+         cy="96.025185"
+         cx="146.31894"
+         id="circle16"
+         style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.553942;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path16"
+         d="m 150.39047,101.34229 h -2.14081 V 89.320389 h -3.886 v 11.927801 h -2.33225"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:1.38486;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 107.73429,56.478631 23.71839,27.401435"
+       id="path17"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="151.66202"
+       y="90.22393"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text21"><tspan
+         sodipodi:role="line"
+         x="151.66202"
+         y="90.22393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan21"><tspan
+   id="tspan22"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Salida con tics</tspan>: La salida genera pulsos</tspan><tspan
+         sodipodi:role="line"
+         x="151.66202"
+         y="94.668938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan23">de tipo 'tic': son los que tienen una</tspan><tspan
+         sodipodi:role="line"
+         x="151.66202"
+         y="99.113953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan24">duración de 1 ciclo de reloj del sistema</tspan></text>
+    <g
+       id="g26"
+       transform="translate(6.8511397,69.588005)">
+      <text
+         y="45.482533"
+         x="90.244278"
+         style="font-weight:400;font-size:19.4359px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.431145"
+         font-weight="400"
+         font-size="27.48"
+         letter-spacing="0"
+         word-spacing="0"
+         id="text25"
+         transform="scale(0.99852717,1.001475)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-weight:700;font-size:11.1064px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.431145"
+           y="45.482533"
+           x="90.244278"
+           font-weight="700"
+           font-size="15.703"
+           id="tspan25">2</tspan></text>
+      <path
+         style="display:inline;fill:#0000ff;stroke:#0000ff;stroke-width:1.2126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 81.691591,41.792105 H 89.73585"
+         id="path25" />
+      <ellipse
+         style="display:inline;fill:#0000ff;stroke-width:1.2126;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse25"
+         cx="85.896904"
+         cy="39.051823"
+         rx="0.85754085"
+         ry="0.80995619" />
+      <ellipse
+         style="display:inline;fill:#0000ff;stroke-width:1.2126;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse26"
+         cx="85.896904"
+         cy="44.26329"
+         rx="0.85754085"
+         ry="0.80995619" />
+    </g>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 91.683048,46.887035 98.567211,103.6505"
+       id="path26"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="108.7537"
+       y="110.43237"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text29"><tspan
+         sodipodi:role="line"
+         x="108.7537"
+         y="110.43237"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan27"><tspan
+   id="tspan26"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Características de la generación</tspan>:</tspan><tspan
+         sodipodi:role="line"
+         x="108.7537"
+         y="114.87738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan30">La frecuencia de la señal de salida es la mitad de</tspan><tspan
+         sodipodi:role="line"
+         x="108.7537"
+         y="119.3224"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan29">la del sistema: Fsys/2</tspan></text>
+    <circle
+       r="7.7884097"
+       cy="95.987343"
+       cx="14.942033"
+       id="circle32"
+       style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.364091;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       y="102.05276"
+       x="9.2773657"
+       style="font-weight:400;font-size:28.6049px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.593489"
+       font-weight="400"
+       font-size="27.48"
+       letter-spacing="0"
+       word-spacing="0"
+       id="text32"
+       transform="scale(0.99852717,1.001475)"
+       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-weight:700;font-size:16.3458px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.593489"
+         y="102.05276"
+         x="9.2773657"
+         font-weight="700"
+         font-size="15.703"
+         id="tspan32">0</tspan></text>
+    <text
+       x="25.566935"
+       y="95.264938"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text36"><tspan
+         sodipodi:role="line"
+         x="25.566935"
+         y="95.264938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan34"><tspan
+   id="tspan33"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Arranque de la señal</tspan>:</tspan><tspan
+         sodipodi:role="line"
+         x="25.566935"
+         y="99.709946"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan36">Comienza en el ciclo 0</tspan></text>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 78.220542,57.585942 22.390122,89.416626"
+       id="path38"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
