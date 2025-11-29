@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.49323376"
-     inkscape:cx="534.22944"
-     inkscape:cy="562.61355"
+     inkscape:cx="367.97968"
+     inkscape:cy="505.84534"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1484,7 +1484,7 @@
          fill="#000000"
          stroke-width="0.52917"
          id="tspan4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start">IO: 3</tspan></text><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start">IO: 2</tspan></text><rect
        x="45.584843"
        y="102.25261"
        width="12.578321"
@@ -1507,7 +1507,7 @@
        transform="matrix(1.0027879,0,0,0.99721985,15.556349,0)"><tspan
          x="61.329685"
          y="261.85724"
-         id="tspan3">Señal MAX. 2 ciclos transcurridos</tspan></text><rect
+         id="tspan2">Señal MAX. 2 ciclos transcurridos</tspan></text><rect
        x="4.4162765"
        y="109.87589"
        width="132.17668"
@@ -2089,7 +2089,7 @@
        transform="translate(59.009192,10.159668)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan7">LED D7 encendido a partir del ciclo 2 </tspan></text><rect
+         id="tspan3">LED D7 encendido a partir del ciclo 2 </tspan></text><rect
        x="140.87927"
        y="169.29573"
        width="61.775448"
@@ -2275,10 +2275,10 @@
        transform="translate(-120.57869,74.020148)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan8">Cuenta máxima </tspan><tspan
+         id="tspan5">Cuenta máxima </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan9">alcanzada: II</tspan></text><path
+         id="tspan6">alcanzada: II</tspan></text><path
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;marker-end:url(#TriangleOutM)"
        d="m 165.78216,162.36392 h 14.99236"
        id="path35" /><text
@@ -2294,18 +2294,18 @@
        transform="translate(83.602735,-46.042103)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan12"><tspan
+         id="tspan9"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan10">Señal MAX:</tspan><tspan
+           id="tspan7">Señal MAX:</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan11">
+           id="tspan8">
 </tspan></tspan><tspan
          x="83.95945"
          y="85.400824"
-         id="tspan13">máxima cuenta </tspan><tspan
+         id="tspan19">máxima cuenta </tspan><tspan
          x="83.95945"
          y="89.845831"
-         id="tspan14">alcanzada</tspan></text><text
+         id="tspan20">alcanzada</tspan></text><text
        x="188.6485"
        y="132.9339"
        fill="#000000"
@@ -2512,10 +2512,10 @@
        transform="translate(-170.83731,58.089114)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan16"><tspan
+         id="tspan26"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan15">MAX</tspan>
+   id="tspan25">MAX</tspan>
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan18">(D7)</tspan></text></g></svg>
+         id="tspan29">(D7)</tspan></text></g></svg>
