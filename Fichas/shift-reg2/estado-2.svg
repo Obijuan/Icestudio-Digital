@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="1.3950758"
-     inkscape:cx="191.02905"
+     inkscape:cx="190.67064"
      inkscape:cy="150.88786"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
-     inkscape:window-y="1112"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer8"
      showgrid="false" />
   <defs
      id="defs1">
@@ -61,8 +61,7 @@
      id="layer2"
      inkscape:label="back"
      transform="translate(29.139191,-17.092531)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#ffffff;stroke-width:0.469914;stroke-linecap:round"
        id="rect1"
@@ -83,8 +82,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(29.139191,-17.092531)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16"
@@ -119,7 +117,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="ciclo0"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        id="layer1-7"
        transform="translate(-25.129338,-15.147686)"
@@ -133,18 +132,19 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan7">
+           id="tspan1">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan8">a</tspan></text>
+           id="tspan2">a</tspan></text>
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="ciclo1"
-     style="display:inline">
+     style="display:none"
+     sodipodi:insensitive="true">
     <g
        id="g4"
        transform="translate(9.2433326,-15.147686)"
@@ -158,11 +158,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan9">
+           id="tspan3">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan10">a</tspan></text>
+           id="tspan4">a</tspan></text>
     </g>
     <g
        id="layer1-7-7"
@@ -177,11 +177,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan11">
+           id="tspan5">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan12">b</tspan></text>
+           id="tspan6">b</tspan></text>
     </g>
   </g>
   <g
@@ -202,11 +202,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan13">
+           id="tspan7">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan14">a</tspan></text>
+           id="tspan8">a</tspan></text>
     </g>
     <g
        id="layer1-7-7-8"
@@ -221,11 +221,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan15">
+           id="tspan9">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan16">b</tspan></text>
+           id="tspan10">b</tspan></text>
     </g>
     <g
        id="layer1-7-7-2"
@@ -240,11 +240,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan17">
+           id="tspan11">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan18">0</tspan></text>
+           id="tspan12">0</tspan></text>
     </g>
   </g>
   <g
@@ -265,11 +265,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan19">
+           id="tspan13">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan20">b</tspan></text>
+           id="tspan14">b</tspan></text>
     </g>
     <g
        id="layer1-7-7-2-2"
@@ -284,18 +284,18 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan21">
+           id="tspan15">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan22">0</tspan></text>
+           id="tspan16">0</tspan></text>
     </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="ciclo4"
-     style="display:none">
+     style="display:inline">
     <g
        id="layer1-7-7-2-2-5"
        transform="translate(-25.129338,-15.147686)"
@@ -309,11 +309,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan23">
+           id="tspan17">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan24">0</tspan></text>
+           id="tspan18">0</tspan></text>
     </g>
   </g>
   <g
@@ -334,11 +334,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan25">
+           id="tspan19">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan26">0</tspan></text>
+           id="tspan20">0</tspan></text>
     </g>
   </g>
   <g
@@ -359,11 +359,11 @@
          transform="matrix(1.7972261,0,0,1.7972261,215.94247,23.927382)"><tspan
            x="-100.22816"
            y="8.1674051"
-           id="tspan27">
+           id="tspan21">
 </tspan><tspan
            x="-100.22816"
            y="14.915848"
-           id="tspan28">0</tspan></text>
+           id="tspan22">0</tspan></text>
     </g>
   </g>
 </svg>
