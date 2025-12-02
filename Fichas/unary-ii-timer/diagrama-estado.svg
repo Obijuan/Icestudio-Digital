@@ -7,7 +7,7 @@
    viewBox="0 0 238.12178 102.1522"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (949b72c8f1, 2025-11-27)"
+   inkscape:version="1.4.2 (0a52baabad, 2025-11-29)"
    sodipodi:docname="diagrama-estado.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.98646753"
-     inkscape:cx="429.30962"
+     inkscape:cx="429.81648"
      inkscape:cy="265.08729"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
@@ -170,7 +170,7 @@
          style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
          x="36.057896"
          y="26.712412"
-         id="tspan13">unary-ii-max</tspan></text>
+         id="tspan13">unary-ii-timer</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#marker17)"
        id="path16"
