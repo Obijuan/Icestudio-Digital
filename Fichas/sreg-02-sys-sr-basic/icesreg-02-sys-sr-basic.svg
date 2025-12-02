@@ -7,7 +7,7 @@
    viewBox="0 0 203.84178 90.752678"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (949b72c8f1, 2025-11-27)"
+   inkscape:version="1.4.2 (0a52baabad, 2025-11-29)"
    sodipodi:docname="icesreg-02-sys-sr-basic.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.69753788"
-     inkscape:cx="362.70432"
-     inkscape:cy="449.43796"
+     inkscape:zoom="2.7901515"
+     inkscape:cx="570.93674"
+     inkscape:cy="298.01249"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -140,7 +140,7 @@
          x="148.76643"
          y="78.868828"
          id="tspan3"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Salida:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Salida serie:</tspan><tspan
          sodipodi:role="line"
          x="148.76643"
          y="83.313835"
@@ -389,7 +389,7 @@
          x="7.4182363"
          y="80.966339"
          id="tspan7"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Entrada:</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Entrada serie:</tspan><tspan
          sodipodi:role="line"
          x="7.4182363"
          y="85.411346"
