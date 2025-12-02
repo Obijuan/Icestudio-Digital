@@ -12,6 +12,45 @@
     "graph": {
       "blocks": [
         {
+          "id": "33baa295-e84a-4821-9e0b-d27809277355",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "clk",
+            "blockColor": "yellow",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 416,
+            "y": -72
+          }
+        },
+        {
+          "id": "40f5dbb8-6f8d-4c93-8582-c1eecd48877c",
+          "type": "basic.output",
+          "data": {
+            "name": "LED",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "D8",
+                "value": "20"
+              }
+            ]
+          },
+          "position": {
+            "x": 544,
+            "y": -72
+          }
+        },
+        {
           "id": "ef80ed8e-10b6-407a-bb86-3d02671234df",
           "type": "basic.outputLabel",
           "data": {
@@ -40,72 +79,14 @@
             "pins": [
               {
                 "index": "0",
-                "name": "LED2",
-                "value": "43"
+                "name": "D7",
+                "value": "9"
               }
             ]
           },
           "position": {
             "x": 880,
             "y": -56
-          }
-        },
-        {
-          "id": "45840b3b-ed71-4b80-9917-a830c182c65b",
-          "type": "basic.output",
-          "data": {
-            "name": "TIME0",
-            "virtual": false,
-            "pins": [
-              {
-                "index": "0",
-                "name": "D0",
-                "value": "2"
-              }
-            ]
-          },
-          "position": {
-            "x": 544,
-            "y": -48
-          }
-        },
-        {
-          "id": "33baa295-e84a-4821-9e0b-d27809277355",
-          "type": "basic.outputLabel",
-          "data": {
-            "name": "clk",
-            "blockColor": "yellow",
-            "virtual": true,
-            "pins": [
-              {
-                "index": "0",
-                "name": "NULL",
-                "value": "NULL"
-              }
-            ]
-          },
-          "position": {
-            "x": 400,
-            "y": 48
-          }
-        },
-        {
-          "id": "40f5dbb8-6f8d-4c93-8582-c1eecd48877c",
-          "type": "basic.output",
-          "data": {
-            "name": "LED",
-            "virtual": false,
-            "pins": [
-              {
-                "index": "0",
-                "name": "D1",
-                "value": "1"
-              }
-            ]
-          },
-          "position": {
-            "x": 544,
-            "y": 48
           }
         },
         {
@@ -125,7 +106,7 @@
           },
           "position": {
             "x": 416,
-            "y": 128
+            "y": 8
           }
         },
         {
@@ -137,14 +118,33 @@
             "pins": [
               {
                 "index": "0",
-                "name": "D4",
-                "value": "8"
+                "name": "D9",
+                "value": "19"
               }
             ]
           },
           "position": {
             "x": 544,
-            "y": 128
+            "y": 8
+          }
+        },
+        {
+          "id": "45840b3b-ed71-4b80-9917-a830c182c65b",
+          "type": "basic.output",
+          "data": {
+            "name": "TIME0",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "D10",
+                "value": "22"
+              }
+            ]
+          },
+          "position": {
+            "x": 544,
+            "y": 88
           }
         },
         {
@@ -312,7 +312,7 @@
           "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
           "position": {
             "x": 408,
-            "y": -48
+            "y": 88
           },
           "size": {
             "width": 96,
