@@ -9,7 +9,7 @@
    xml:space="preserve"
    id="svg30"
    sodipodi:docname="unary-iii.svg"
-   inkscape:version="1.4.2 (ae4ad5c273, 2025-06-21)"
+   inkscape:version="1.4.2 (0a52baabad, 2025-11-29)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.49323376"
-     inkscape:cx="234.16888"
-     inkscape:cy="546.39406"
+     inkscape:zoom="0.69753787"
+     inkscape:cx="322.56313"
+     inkscape:cy="632.94054"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1140,8 +1140,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="back"
-     style="display:inline"
-     sodipodi:insensitive="true"><rect
+     style="display:inline"><rect
        width="210"
        height="297"
        fill="#ffffff"
@@ -1357,7 +1356,7 @@
          y="263.08191"
          fill="#000000"
          stroke-width="0.52917"
-         id="tspan35">040</tspan></text><rect
+         id="tspan35">044</tspan></text><rect
        x="22.673515"
        y="253.97215"
        width="35.282185"
@@ -1582,15 +1581,15 @@
        transform="translate(10.423888,0.29599168)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan7"><tspan
+         id="tspan16"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan5">Señal MAX:</tspan><tspan
+           id="tspan9">Señal MAX:</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan6">
+           id="tspan10">
 </tspan></tspan><tspan
          x="83.95945"
          y="85.400824"
-         id="tspan8">máxima cuenta alcanzada</tspan></text><path
+         id="tspan18">máxima cuenta alcanzada</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396874;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 170.64194,58.790615 -10.25267,27.732014 -66.156862,-1.1e-5"
        id="path15-0"
@@ -1625,25 +1624,6 @@
        height="58.754829"
        x="137.14757"
        y="121.74953" /><text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:9.64492;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="14.405865"
-       y="154.06622"
-       id="text60"
-       transform="translate(-5.6753836,-8.0056132)"><tspan
-         x="14.405865"
-         y="154.06622"
-         id="tspan16"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle"
-           id="tspan9">B1</tspan><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan10">
-</tspan></tspan><tspan
-         x="14.405865"
-         y="157.89393"
-         id="tspan20"><tspan
-   style="text-align:center;text-anchor:middle"
-   id="tspan18">(D6</tspan>)</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="5.7620168"
@@ -2130,9 +2110,9 @@
        transform="translate(17.603876,11.542539)"><tspan
          x="149.42525"
          y="188.34544"
-         id="tspan29">Circuito: <tspan
+         id="tspan52">Circuito: <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan26">UCONT3</tspan></tspan></text><text
+   id="tspan20">UCONT3</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:75.0713;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="26.247385"
@@ -2141,10 +2121,10 @@
        transform="translate(73.285488,16.249887)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan33">LEDS D7, D6 y D5 encendidos a </tspan><tspan
+         id="tspan55">LEDS D7, D6 y D5 encendidos a </tspan><tspan
          x="26.247385"
          y="204.23125"
-         id="tspan34">partir del ciclo 3 </tspan></text><rect
+         id="tspan56">partir del ciclo 3 </tspan></text><rect
        x="140.87927"
        y="169.29573"
        width="61.775448"
@@ -2330,10 +2310,10 @@
        transform="translate(-103.2765,80.713906)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan38">Cuenta máxima </tspan><tspan
+         id="tspan57">Cuenta máxima </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan40">alcanzada: III</tspan></text><text
+         id="tspan58">alcanzada: III</tspan></text><text
        x="182.69012"
        y="128.19838"
        fill="#000000"
@@ -2357,13 +2337,13 @@
        transform="translate(-0.86370193,-8.0056132)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan49"><tspan
+         id="tspan62"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan44">B2
+           id="tspan61">B2
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan51">(D7)
+         id="tspan65">(D7)
 </tspan></text><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 130.68869,132.52462 H 33.115297 v 5.01092 h -13.94225"
@@ -2970,25 +2950,6 @@
        d="m 19.173047,160.82882 -0.90016,0.51971"
        id="path111" /><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:9.64492;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="14.405865"
-       y="154.06622"
-       id="text115"
-       transform="translate(-5.6753836,2.7814742)"><tspan
-         x="14.405865"
-         y="154.06622"
-         id="tspan56"><tspan
-           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold';text-align:center;text-anchor:middle"
-           id="tspan52">B0</tspan><tspan
-           style="text-align:center;text-anchor:middle"
-           id="tspan55">
-</tspan></tspan><tspan
-         x="14.405865"
-         y="157.89393"
-         id="tspan58"><tspan
-   style="text-align:center;text-anchor:middle"
-   id="tspan57">(D5</tspan>)</tspan></text><text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="131.3719"
        y="157.0909"
@@ -3119,4 +3080,36 @@
          id="tspan125"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#000000;stroke-width:0.396875"
          x="186.7245"
-         y="150.7318">0</tspan></text></g></svg>
+         y="150.7318">0</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:18.2822;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="15.00554"
+       y="144.51361"
+       id="text14"
+       transform="translate(-0.86370193,1.5406719)"><tspan
+         x="15.00554"
+         y="144.51361"
+         id="tspan68"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan66">B1
+</tspan></tspan><tspan
+         x="15.00554"
+         y="148.34132"
+         id="tspan69">(D6)
+</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:18.2822;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="15.00554"
+       y="144.51361"
+       id="text61"
+       transform="translate(-0.86370193,11.120979)"><tspan
+         x="15.00554"
+         y="144.51361"
+         id="tspan76"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
+           id="tspan74">B0
+</tspan></tspan><tspan
+         x="15.00554"
+         y="148.34132"
+         id="tspan81">(D5)
+</tspan></text></g></svg>
