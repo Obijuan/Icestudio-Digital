@@ -9,7 +9,7 @@
    xml:space="preserve"
    id="svg30"
    sodipodi:docname="unary-ii.svg"
-   inkscape:version="1.4.2 (949b72c8f1, 2025-11-27)"
+   inkscape:version="1.4.2 (0a52baabad, 2025-11-29)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.9729351"
-     inkscape:cx="173.59923"
-     inkscape:cy="547.15435"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="396.39424"
+     inkscape:cy="561.25984"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1356,7 +1356,7 @@
          y="263.08191"
          fill="#000000"
          stroke-width="0.52917"
-         id="tspan35">038</tspan></text><rect
+         id="tspan35">040</tspan></text><rect
        x="22.673515"
        y="253.97215"
        width="32.84919"
@@ -2102,9 +2102,9 @@
        transform="translate(17.603876,11.542539)"><tspan
          x="149.42525"
          y="188.34544"
-         id="tspan12">Circuito: <tspan
+         id="tspan13">Circuito: <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan3">UCONT2</tspan></tspan></text><text
+   id="tspan11">UCONT2</tspan></tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:75.0713;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="26.247385"
@@ -2113,10 +2113,10 @@
        transform="translate(63.983818,24.169386)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan14">LEDS D7 y D6 encendidos a partir </tspan><tspan
+         id="tspan15">LEDS D7 y D6 encendidos a partir </tspan><tspan
          x="26.247385"
          y="204.23125"
-         id="tspan16">del ciclo 2 </tspan></text><rect
+         id="tspan33">del ciclo 2 </tspan></text><rect
        x="140.87927"
        y="169.29573"
        width="61.775448"
@@ -2301,13 +2301,13 @@
        transform="translate(-0.86370193)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan19"><tspan
+         id="tspan38"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan18">B1
+           id="tspan34">B1
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan20">(D7)
+         id="tspan40">(D7)
 </tspan></text><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 130.68869,140.53023 H 33.115297 v 5.01092 h -13.94225"
@@ -2726,11 +2726,11 @@
        transform="translate(-0.86370193,10.212566)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan26"><tspan
+         id="tspan42"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan25">B0
+           id="tspan41">B0
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan29">(D6)
+         id="tspan49">(D6)
 </tspan></text></g></svg>
