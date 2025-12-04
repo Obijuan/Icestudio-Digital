@@ -41,8 +41,7 @@
      id="layer2"
      inkscape:label="back"
      transform="translate(29.139189,-17.092531)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="display:inline;fill:#ffffff;stroke-width:0.469914;stroke-linecap:round"
        id="rect1"
@@ -63,8 +62,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(29.139189,-17.092531)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16"
