@@ -7,7 +7,7 @@
    viewBox="0 0 227.41532 88.601628"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (50105f485e, 2025-07-05)"
+   inkscape:version="1.4.2 (c804630668, 2025-12-03)"
    sodipodi:docname="cuenta-2.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="0.98646754"
-     inkscape:cx="408.52839"
-     inkscape:cy="140.39996"
+     inkscape:zoom="0.69753789"
+     inkscape:cx="429.36736"
+     inkscape:cy="86.73364"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
-     inkscape:window-y="1112"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer13"
      showgrid="false" />
@@ -41,7 +41,8 @@
      id="layer2"
      inkscape:label="back"
      transform="translate(29.139189,-17.092531)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;fill:#ffffff;stroke-width:0.469914;stroke-linecap:round"
        id="rect1"
@@ -62,7 +63,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(29.139189,-17.092531)"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect16"
@@ -120,21 +122,6 @@
          ry="0.20100668"
          inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551159;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="-100.22816"
-       y="8.1674051"
-       id="text46"
-       transform="matrix(1.269522,0,0,1.269522,288.6274,15.455669)"><tspan
-         x="-100.22816"
-         y="8.1674051"
-         id="tspan5">
-</tspan><tspan
-         x="-100.22816"
-         y="14.915848"
-         id="tspan6">D0
-</tspan></text>
     <rect
        style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529168;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect2"
@@ -185,12 +172,412 @@
          cy="133.96938"
          r="0.77111208" />
     </g>
+    <g
+       id="g3"
+       transform="translate(4.3798208,-74.666859)">
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="121.53887"
+         cx="138.53174"
+         id="ellipse1"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#510002;fill-opacity:1;stroke:#510002;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse2"
+         cx="138.5378"
+         cy="121.53896"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#740300;fill-opacity:1;stroke:#740300;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 137.80948,118.57274 c -0.94225,0.24011 -2.10775,1.14969 -2.19053,2.64897 -0.0828,1.49928 0.74458,2.53391 1.72051,3.13396 0.97593,0.60005 3.02938,0.10527 3.69253,-0.98682 0.77251,-1.27223 0.69708,-2.68972 -0.20784,-3.74337 -0.90493,-1.05365 -2.0724,-1.29284 -3.01466,-1.05274 z"
+         id="path2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse3"
+         cx="138.59003"
+         cy="122.27235"
+         rx="0.29875386"
+         ry="0.20100668"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <g
+       id="g6"
+       transform="translate(-21.188274,-74.666859)">
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="121.53887"
+         cx="138.53174"
+         id="ellipse4"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#510002;fill-opacity:1;stroke:#510002;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse5"
+         cx="138.5378"
+         cy="121.53896"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#740300;fill-opacity:1;stroke:#740300;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 137.80948,118.57274 c -0.94225,0.24011 -2.10775,1.14969 -2.19053,2.64897 -0.0828,1.49928 0.74458,2.53391 1.72051,3.13396 0.97593,0.60005 3.02938,0.10527 3.69253,-0.98682 0.77251,-1.27223 0.69708,-2.68972 -0.20784,-3.74337 -0.90493,-1.05365 -2.0724,-1.29284 -3.01466,-1.05274 z"
+         id="path5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse6"
+         cx="138.59003"
+         cy="122.27235"
+         rx="0.29875386"
+         ry="0.20100668"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <g
+       id="g32"
+       transform="translate(-76.946548,-74.666859)">
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="121.53887"
+         cx="138.53174"
+         id="ellipse30"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#510002;fill-opacity:1;stroke:#510002;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse31"
+         cx="138.5378"
+         cy="121.53896"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#740300;fill-opacity:1;stroke:#740300;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 137.80948,118.57274 c -0.94225,0.24011 -2.10775,1.14969 -2.19053,2.64897 -0.0828,1.49928 0.74458,2.53391 1.72051,3.13396 0.97593,0.60005 3.02938,0.10527 3.69253,-0.98682 0.77251,-1.27223 0.69708,-2.68972 -0.20784,-3.74337 -0.90493,-1.05365 -2.0724,-1.29284 -3.01466,-1.05274 z"
+         id="path31"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse32"
+         cx="138.59003"
+         cy="122.27235"
+         rx="0.29875386"
+         ry="0.20100668"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <g
+       id="g38"
+       transform="translate(-101.46479,-74.666859)">
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="121.53887"
+         cx="138.53174"
+         id="ellipse36"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#510002;fill-opacity:1;stroke:#510002;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse37"
+         cx="138.5378"
+         cy="121.53896"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#740300;fill-opacity:1;stroke:#740300;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 137.80948,118.57274 c -0.94225,0.24011 -2.10775,1.14969 -2.19053,2.64897 -0.0828,1.49928 0.74458,2.53391 1.72051,3.13396 0.97593,0.60005 3.02938,0.10527 3.69253,-0.98682 0.77251,-1.27223 0.69708,-2.68972 -0.20784,-3.74337 -0.90493,-1.05365 -2.0724,-1.29284 -3.01466,-1.05274 z"
+         id="path37"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse38"
+         cx="138.59003"
+         cy="122.27235"
+         rx="0.29875386"
+         ry="0.20100668"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <g
+       id="g41"
+       transform="translate(-127.03288,-74.666859)">
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         cy="121.53887"
+         cx="138.53174"
+         id="ellipse39"
+         style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="4.8625574"
+         ry="4.8581538" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#510002;fill-opacity:1;stroke:#510002;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse40"
+         cx="138.5378"
+         cy="121.53896"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+         rx="3.9124236"
+         ry="3.9088802" />
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#740300;fill-opacity:1;stroke:#740300;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 137.80948,118.57274 c -0.94225,0.24011 -2.10775,1.14969 -2.19053,2.64897 -0.0828,1.49928 0.74458,2.53391 1.72051,3.13396 0.97593,0.60005 3.02938,0.10527 3.69253,-0.98682 0.77251,-1.27223 0.69708,-2.68972 -0.20784,-3.74337 -0.90493,-1.05365 -2.0724,-1.29284 -3.01466,-1.05274 z"
+         id="path40"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cszszzc"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      <ellipse
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         style="display:inline;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="ellipse41"
+         cx="138.59003"
+         cy="122.27235"
+         rx="0.29875386"
+         ry="0.20100668"
+         inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+    </g>
+    <g
+       id="g47"
+       transform="translate(0,48.697405)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551159;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         x="-100.22816"
+         y="8.1674051"
+         id="text45"
+         transform="matrix(1.269522,0,0,1.269522,132.69646,-33.627294)"><tspan
+           x="-100.22816"
+           y="8.1674051"
+           id="tspan1">
+</tspan><tspan
+           x="-100.22816"
+           y="14.915848"
+           id="tspan2">B
+</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00515;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         x="-100.22816"
+         y="8.1674051"
+         id="text47"
+         transform="matrix(0.69612608,0,0,0.69612608,81.270526,-24.631929)"><tspan
+           x="-100.22816"
+           y="8.1674051"
+           id="tspan3">
+</tspan><tspan
+           x="-100.22816"
+           y="14.915848"
+           id="tspan4">N-1
+</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551159;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text48"
+       transform="matrix(1.269522,0,0,1.269522,157.19725,15.070111)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan5">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan6">B
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00515;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text49"
+       transform="matrix(0.69612608,0,0,0.69612608,105.77132,24.065476)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan29">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan30">N-2
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551159;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text50"
+       transform="matrix(1.269522,0,0,1.269522,181.71549,15.070111)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan31">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan32">B
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00515;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text51"
+       transform="matrix(0.69612608,0,0,0.69612608,130.28956,24.065476)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan33">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan34">N-3
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551159;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text52"
+       transform="matrix(1.269522,0,0,1.269522,238.54108,15.070111)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan35">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan36">B
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00515;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text53"
+       transform="matrix(0.69612608,0,0,0.69612608,187.11515,24.065476)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan37">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan38">2
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551159;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text54"
+       transform="matrix(1.269522,0,0,1.269522,264.59851,15.070111)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan39">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan40">B
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00515;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text55"
+       transform="matrix(0.69612608,0,0,0.69612608,213.17258,24.065476)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan41">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan42">1
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551159;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text56"
+       transform="matrix(1.269522,0,0,1.269522,290.65594,15.070111)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan43">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan44">B
+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00515;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="-100.22816"
+       y="8.1674051"
+       id="text57"
+       transform="matrix(0.69612608,0,0,0.69612608,239.23001,24.065476)"><tspan
+         x="-100.22816"
+         y="8.1674051"
+         id="tspan45">
+</tspan><tspan
+         x="-100.22816"
+         y="14.915848"
+         id="tspan46">0
+</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Ciclo0"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -200,18 +587,19 @@
        transform="matrix(1.7972261,0,0,1.7972261,190.85495,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan7">
+         id="tspan47">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan8">0
+         id="tspan48">0
 </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Ciclo1"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -221,11 +609,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,190.85495,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan9">
+         id="tspan49">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan10">1
+         id="tspan50">1
 </tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -236,12 +624,94 @@
        transform="rotate(9.0974746)"
        inkscape:transform-center-x="3.0589274e-05"
        inkscape:transform-center-y="2.340116e-05" />
+    <g
+       id="g46-5-6-8"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Ciclo2"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -251,11 +721,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,190.85495,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan11">
+         id="tspan51">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan12">2
+         id="tspan52">2
 </tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -275,12 +745,175 @@
        transform="rotate(9.0974746)"
        inkscape:transform-center-x="3.0589274e-05"
        inkscape:transform-center-y="2.340116e-05" />
+    <g
+       id="g46-5-6-8-9"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1" />
+    </g>
+    <g
+       id="g66"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Ciclo3"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -290,11 +923,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,190.85495,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan13">
+         id="tspan53">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan14">3
+         id="tspan54">3
 </tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -323,12 +956,256 @@
        transform="rotate(9.0974746)"
        inkscape:transform-center-x="3.0589274e-05"
        inkscape:transform-center-y="2.340116e-05" />
+    <g
+       id="g46-5-6-8-9-9"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5-4"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0-9"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4-0"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7-1"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1-7" />
+    </g>
+    <g
+       id="g66-6"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59-7"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57-3"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58-6"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59-6"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66-3" />
+    </g>
+    <g
+       id="g75"
+       style="display:inline"
+       transform="translate(49.466771)">
+      <g
+         id="g68"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse66"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse67"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path67"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse68"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path68" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path69" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path70" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path71" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path72" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path73" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path74" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path75" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Ciclo4"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -338,11 +1215,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,190.85495,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan15">
+         id="tspan55">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan16">4
+         id="tspan56">4
 </tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -371,12 +1248,256 @@
        transform="rotate(9.0974746)"
        inkscape:transform-center-x="3.0589274e-05"
        inkscape:transform-center-y="2.340116e-05" />
+    <g
+       id="g46-5-6-8-9-9-5"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5-4-0"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0-9-9"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4-0-6"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8-9-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7-1-8"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1-7-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7-7-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2-1-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7-1-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2-5-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2-9-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6-7-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1-7-4" />
+    </g>
+    <g
+       id="g66-6-8"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59-7-1"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57-3-0"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58-6-3"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58-5-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59-6-4"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59-3-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60-9-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61-4-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62-8-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63-1-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64-2-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65-9-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66-3-7" />
+    </g>
+    <g
+       id="g75-5"
+       style="display:inline"
+       transform="translate(49.466771)">
+      <g
+         id="g68-9"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse66-6"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse67-2"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path67-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse68-7"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path68-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path69-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path70-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path71-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path72-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path73-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path74-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path75-9" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Ciclo5"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="circle47-3-1-8"
@@ -413,18 +1534,262 @@
        transform="matrix(1.7972261,0,0,1.7972261,190.85495,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan17">
+         id="tspan57">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan18">5
+         id="tspan58">5
 </tspan></text>
+    <g
+       id="g46-5-6-8-9-9-8"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5-4-3"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0-9-1"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4-0-8"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8-9-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7-1-6"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1-7-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7-7-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2-1-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7-1-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2-5-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2-9-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6-7-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1-7-48" />
+    </g>
+    <g
+       id="g66-6-88"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59-7-9"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57-3-7"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58-6-7"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58-5-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59-6-43"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59-3-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60-9-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61-4-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62-8-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63-1-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64-2-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65-9-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66-3-0" />
+    </g>
+    <g
+       id="g75-59"
+       style="display:inline"
+       transform="translate(49.466771)">
+      <g
+         id="g68-4"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse66-69"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse67-22"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path67-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse68-77"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path68-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path69-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path70-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path71-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path72-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path73-89" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path74-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path75-6" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Ciclo6"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -434,11 +1799,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,190.85495,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan19">
+         id="tspan59">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan20">...
+         id="tspan60">...
 </tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -467,12 +1832,256 @@
        transform="rotate(9.0974746)"
        inkscape:transform-center-x="3.0589274e-05"
        inkscape:transform-center-y="2.340116e-05" />
+    <g
+       id="g46-5-6-8-9-9-0"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5-4-5"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0-9-11"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4-0-0"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8-9-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7-1-5"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1-7-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7-7-64" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2-1-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7-1-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2-5-58" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2-9-62" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6-7-84" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1-7-7" />
+    </g>
+    <g
+       id="g66-6-2"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59-7-4"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57-3-06"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58-6-2"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58-5-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59-6-9"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59-3-08" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60-9-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61-4-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62-8-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63-1-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64-2-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65-9-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66-3-4" />
+    </g>
+    <g
+       id="g75-0"
+       style="display:inline"
+       transform="translate(49.466771)">
+      <g
+         id="g68-3"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse66-9"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse67-1"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path67-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse68-6"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path68-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path69-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path70-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path71-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path72-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path73-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path74-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path75-64" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Ciclo7"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="circle47-3-1-8-5"
@@ -509,11 +2118,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,186.51535,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan21">
+         id="tspan61">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan22">N-2</tspan></text>
+         id="tspan62">N-2</tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="circle5"
@@ -523,12 +2132,337 @@
        transform="rotate(9.0974746)"
        inkscape:transform-center-x="3.0589274e-05"
        inkscape:transform-center-y="2.340116e-05" />
+    <g
+       id="g46-5-6-8-9-9-2"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5-4-6"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0-9-7"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4-0-5"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8-9-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7-1-9"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1-7-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7-7-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2-1-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7-1-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2-5-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2-9-99" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6-7-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1-7-0" />
+    </g>
+    <g
+       id="g66-6-27"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59-7-6"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57-3-1"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58-6-32"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58-5-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59-6-5"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59-3-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60-9-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61-4-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62-8-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63-1-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64-2-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65-9-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66-3-75" />
+    </g>
+    <g
+       id="g75-8"
+       style="display:inline"
+       transform="translate(49.466771)">
+      <g
+         id="g68-7"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse66-0"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse67-4"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path67-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse68-0"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path68-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path69-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path70-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path71-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path72-10" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path73-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path74-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path75-2" />
+    </g>
+    <g
+       id="g84"
+       style="display:inline"
+       transform="translate(105.27846)">
+      <g
+         id="g77"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse75"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse76"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path76"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse77"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path77" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path78" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path79" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path80" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path81" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path82" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path83" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path84" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Ciclo8"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="circle47-3-1-8-5-2"
@@ -565,11 +2499,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,186.51535,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan23">
+         id="tspan63">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan24">N-1</tspan></text>
+         id="tspan64">N-1</tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="circle5-3"
@@ -588,12 +2522,418 @@
        transform="rotate(9.0974746)"
        inkscape:transform-center-x="3.0589274e-05"
        inkscape:transform-center-y="2.340116e-05" />
+    <g
+       id="g46-5-6-8-9-9-2-2"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5-4-6-9"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0-9-7-0"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4-0-5-2"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8-9-6-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7-1-9-3"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1-7-8-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7-7-7-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2-1-2-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7-1-8-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2-5-2-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2-9-99-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6-7-6-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1-7-0-6" />
+    </g>
+    <g
+       id="g66-6-27-2"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59-7-6-5"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57-3-1-4"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58-6-32-4"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58-5-1-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59-6-5-9"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59-3-9-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60-9-9-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61-4-1-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62-8-4-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63-1-9-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64-2-1-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65-9-0-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66-3-75-4" />
+    </g>
+    <g
+       id="g75-8-3"
+       style="display:inline"
+       transform="translate(49.466771)">
+      <g
+         id="g68-7-5"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse66-0-1"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse67-4-7"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path67-8-4"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse68-0-3"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path68-4-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path69-2-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path70-9-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path71-6-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path72-10-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path73-4-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path74-2-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path75-2-6" />
+    </g>
+    <g
+       id="g84-4"
+       style="display:inline"
+       transform="translate(105.27846)">
+      <g
+         id="g77-1"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse75-2"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse76-8"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path76-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse77-9"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path77-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path78-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path79-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path80-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path81-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path82-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path83-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path84-8" />
+    </g>
+    <g
+       id="g93"
+       style="display:inline"
+       transform="translate(130.79216)">
+      <g
+         id="g86"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse84"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse85"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path85"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse86"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path86" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path87" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path88" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path89" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path90" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path91" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path92" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path93" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Ciclo9"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="circle47-3-1-8-5-2-8"
@@ -630,11 +2970,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,195.09816,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan25">
+         id="tspan65">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan26">N</tspan></text>
+         id="tspan66">N</tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
        id="circle5-3-2"
@@ -743,6 +3083,411 @@
          d="m 32.12109,29.911773 h 2.94766"
          id="path2-0" />
     </g>
+    <g
+       id="g46-5-6-8-9-9-2-2-0"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5-4-6-9-4"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0-9-7-0-7"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4-0-5-2-6"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8-9-6-8-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7-1-9-3-9"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1-7-8-8-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7-7-7-0-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2-1-2-4-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7-1-8-0-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2-5-2-9-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2-9-99-1-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6-7-6-9-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1-7-0-6-3" />
+    </g>
+    <g
+       id="g66-6-27-2-3"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59-7-6-5-7"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57-3-1-4-3"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58-6-32-4-2"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58-5-1-9-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59-6-5-9-5"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59-3-9-3-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60-9-9-6-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61-4-1-0-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62-8-4-5-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63-1-9-0-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64-2-1-2-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65-9-0-9-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66-3-75-4-0" />
+    </g>
+    <g
+       id="g75-8-3-4"
+       style="display:inline"
+       transform="translate(49.466771)">
+      <g
+         id="g68-7-5-1"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse66-0-1-0"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse67-4-7-4"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path67-8-4-8"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse68-0-3-7"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path68-4-1-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path69-2-4-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path70-9-6-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path71-6-9-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path72-10-4-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path73-4-2-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path74-2-2-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path75-2-6-3" />
+    </g>
+    <g
+       id="g84-4-9"
+       style="display:inline"
+       transform="translate(105.27846)">
+      <g
+         id="g77-1-2"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse75-2-8"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse76-8-3"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path76-8-0"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse77-9-1"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path77-2-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path78-8-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path79-8-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path80-8-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path81-6-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path82-8-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path83-3-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path84-8-2" />
+    </g>
+    <g
+       id="g93-5"
+       style="display:inline"
+       transform="translate(130.79216)">
+      <g
+         id="g86-7"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse84-4"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse85-9"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path85-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse86-4"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path86-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path87-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path88-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path89-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path90-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path91-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path92-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path93-1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -758,11 +3503,11 @@
        transform="matrix(1.7972261,0,0,1.7972261,190.85495,33.118315)"><tspan
          x="-100.22816"
          y="8.1674051"
-         id="tspan27">
+         id="tspan67">
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan28">...
+         id="tspan68">...
 </tspan></text>
     <circle
        style="display:inline;fill:#008000;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
@@ -898,6 +3643,411 @@
          style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
          d="m 32.12109,29.911773 h 2.94766"
          id="path2-0-7" />
+    </g>
+    <g
+       id="g46-5-6-8-9-9-2-2-2"
+       style="display:inline"
+       transform="translate(-0.56615019)">
+      <g
+         id="g6-0-1-6-5-4-6-9-5"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="path878-3-4-0-8-0-9-7-0-3"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path878-8-6-8-4-0-5-2-4"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path895-7-1-4-8-9-6-8-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="path897-1-5-3-7-1-9-3-0"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path11-7-9-1-1-7-8-8-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path16-2-4-4-7-7-7-0-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path17-8-7-9-9-2-1-2-4-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path18-2-0-2-7-1-8-0-9" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path19-2-9-0-2-5-2-9-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path26-6-1-6-2-9-99-1-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path27-1-7-8-6-7-6-9-1" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path2-0-7-9-1-7-0-6-2" />
+    </g>
+    <g
+       id="g66-6-27-2-0"
+       style="display:inline"
+       transform="translate(25.00194)">
+      <g
+         id="g59-7-6-5-73"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse57-3-1-4-1"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse58-6-32-4-1"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path58-5-1-9-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse59-6-5-9-0"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path59-3-9-3-5" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path60-9-9-6-67" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path61-4-1-0-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path62-8-4-5-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path63-1-9-0-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path64-2-1-2-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path65-9-0-9-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path66-3-75-4-7" />
+    </g>
+    <g
+       id="g75-8-3-48"
+       style="display:inline"
+       transform="translate(49.466771)">
+      <g
+         id="g68-7-5-5"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse66-0-1-8"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse67-4-7-2"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path67-8-4-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse68-0-3-0"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path68-4-1-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path69-2-4-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path70-9-6-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path71-6-9-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path72-10-4-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path73-4-2-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path74-2-2-96" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path75-2-6-0" />
+    </g>
+    <g
+       id="g84-4-7"
+       style="display:inline"
+       transform="translate(105.27846)">
+      <g
+         id="g77-1-0"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse75-2-1"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse76-8-0"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path76-8-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse77-9-3"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path77-2-77" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path78-8-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path79-8-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path80-8-4" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path81-6-52" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path82-8-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path83-3-2" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path84-8-9" />
+    </g>
+    <g
+       id="g93-0"
+       style="display:inline"
+       transform="translate(130.79216)">
+      <g
+         id="g86-9"
+         transform="translate(-136.24459,-127.21408)"
+         style="display:inline">
+        <ellipse
+           cy="157.12585"
+           cx="177.50317"
+           id="ellipse84-9"
+           style="display:inline;fill:#524647;fill-opacity:1;stroke:#524647;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="4.8625574"
+           ry="4.8581538" />
+        <ellipse
+           style="display:inline;fill:#a70000;fill-opacity:1;stroke:#a70000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse85-4"
+           cx="177.5092"
+           cy="157.12595"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png"
+           rx="3.9124236"
+           ry="3.9088802" />
+        <path
+           style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.264582px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 176.78096,154.15973 c -0.94228,0.24011 -2.10783,1.14968 -2.19058,2.64896 -0.0829,1.49929 0.74455,2.53391 1.72048,3.13397 0.97593,0.60004 3.02938,0.10526 3.6926,-0.98683 0.77245,-1.27223 0.69705,-2.68972 -0.20791,-3.74337 -0.90487,-1.05364 -2.0724,-1.29284 -3.01459,-1.05273 z"
+           id="path85-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cszszzc"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+        <ellipse
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           id="ellipse86-1"
+           cx="177.51335"
+           cy="157.82269"
+           rx="0.34726125"
+           ry="0.27584738"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/obijuan/develop/Cuadernos-tecnicos-FPGAs-libres/wiki/CT8-componentes-virtuales/comp-virt-01.png" />
+      </g>
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,23.492903 v -2.94766"
+         id="path86-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 41.258581,39.049273 v -2.94766"
+         id="path87-3" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 47.448421,29.911773 h 2.94766"
+         id="path88-7" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635461,25.534903 2.08432,-2.08432"
+         id="path89-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 45.635451,34.288653 2.08432,2.08432"
+         id="path90-8" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 34.700271,23.450583 2.084319,2.08432"
+         id="path91-6" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="M 34.797381,36.372983 36.8817,34.288663"
+         id="path92-0" />
+      <path
+         style="display:inline;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:round;stroke-dasharray:none"
+         d="m 32.12109,29.911773 h 2.94766"
+         id="path93-4" />
     </g>
   </g>
 </svg>
