@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="669.82275mm"
+   height="102.1522mm"
+   viewBox="0 0 669.82276 102.1522"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (03c3f33db0, 2025-12-06)"
+   sodipodi:docname="diagrama-estados-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.34876894"
+     inkscape:cx="1191.3331"
+     inkscape:cy="660.896"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 54.548753 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="166.51724 : 54.548753 : 1"
+       inkscape:persp3d-origin="83.258621 : 38.680937 : 1"
+       id="perspective21" />
+    <marker
+       style="overflow:visible"
+       id="marker17"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path17" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="back"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.33196652,-3.982758)">
+    <rect
+       style="fill:#f9f9f9;stroke:none;stroke-width:0.264583;stroke-dasharray:none"
+       id="rect12"
+       width="669.82275"
+       height="102.1522"
+       x="-0.33196652"
+       y="3.982758" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264584;stroke-dasharray:none"
+       id="rect11"
+       width="664.89172"
+       height="97.310844"
+       x="2.1335521"
+       y="6.2586203" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     transform="translate(0.33196652,-3.982758)">
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle4"
+       cx="117.1888"
+       cy="56.381496"
+       r="17.258619" />
+    <circle
+       style="fill:#ececec;stroke:#000000;stroke-width:0.768215"
+       id="path3"
+       cx="43.810352"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="44.302475"
+       y="56.571156"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="44.302475"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="44.302475"
+         y="62.921154"
+         id="tspan2">0000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="118.01915"
+       y="56.571156"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="118.01915"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="118.01915"
+         y="62.921154"
+         id="tspan4">a000</tspan></text>
+    <path
+       id="path5"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 57.817368,42.747111 c 0,0 7.819571,-7.51174 22.645439,-7.51174 14.82587,0 22.426233,6.424664 22.426233,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="36.057896"
+       y="20.362411"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="36.057896"
+         y="20.362411">Circuito</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="36.057896"
+         y="26.712412"
+         id="tspan13">sreg-concat-left</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="41.646652"
+       y="82.251648"
+       id="text22"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="41.646652"
+         y="82.251648"
+         id="tspan22">Estado inicial</tspan></text>
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.768215"
+       id="circle22"
+       cx="43.810352"
+       cy="56.381496"
+       r="19.270216" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="79.876488"
+       y="43.421139"
+       id="text23"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="79.876488"
+         y="43.421139"
+         id="tspan23">ciclo 1</tspan></text>
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle1"
+       cx="187.99701"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="188.82736"
+       y="56.571156"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="188.82736"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="188.82736"
+         y="62.921154"
+         id="tspan7">ba00</tspan></text>
+    <path
+       id="path7"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 128.62558,42.747111 c 0,0 7.81957,-7.51174 22.64544,-7.51174 14.82587,0 22.42623,6.424664 22.42623,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="150.68469"
+       y="43.344944"
+       id="text8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="150.68469"
+         y="43.344944"
+         id="tspan8">ciclo 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="79.876488"
+       y="32.833817"
+       id="text9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="79.876488"
+         y="32.833817"
+         id="tspan9">a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="150.9334"
+       y="32.833817"
+       id="text10"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="150.9334"
+         y="32.833817"
+         id="tspan10">b</tspan></text>
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle15"
+       cx="331.64282"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="332.47318"
+       y="56.571156"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="332.47318"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="332.47318"
+         y="62.921154"
+         id="tspan17">dcba</tspan></text>
+    <path
+       id="path18"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 199.43379,42.747111 c 0,0 7.81957,-7.51174 22.64544,-7.51174 14.82587,0 22.42623,6.424664 22.42623,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="221.4929"
+       y="43.344944"
+       id="text18"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="221.4929"
+         y="43.344944"
+         id="tspan18">ciclo 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="221.74161"
+       y="32.833817"
+       id="text19"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="221.74161"
+         y="32.833817"
+         id="tspan19">c</tspan></text>
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle19"
+       cx="259.48169"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="260.31204"
+       y="56.571156"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="260.31204"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="260.31204"
+         y="62.921154"
+         id="tspan21">cba0</tspan></text>
+    <path
+       id="path21"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 270.91847,42.747111 c 0,0 7.81957,-7.51174 22.64544,-7.51174 14.82587,0 22.42623,6.424664 22.42623,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="292.97757"
+       y="43.344944"
+       id="text24"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="292.97757"
+         y="43.344944"
+         id="tspan24">ciclo 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="293.22629"
+       y="32.833817"
+       id="text25"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="293.22629"
+         y="32.833817"
+         id="tspan25">d</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#marker17)"
+       id="path1"
+       sodipodi:type="arc"
+       sodipodi:cx="-631.76093"
+       sodipodi:cy="111.12691"
+       sodipodi:rx="11.264942"
+       sodipodi:ry="11.264942"
+       sodipodi:start="0.42285395"
+       sodipodi:end="5.1172807"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m -621.48818,115.74964 a 11.264942,11.264942 0 0 1 -14.83389,5.6775 11.264942,11.264942 0 0 1 -5.76622,-14.79962 11.264942,11.264942 0 0 1 14.76484,-5.85473"
+       transform="rotate(-165)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="640.09247"
+       y="35.314388"
+       id="text26"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="640.09247"
+         y="35.314388"
+         id="tspan5">Resto</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="640.09247"
+         y="41.664387"
+         id="tspan26">de ciclos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="615.84601"
+       y="82.251648"
+       id="text27"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="615.84601"
+         y="82.251648"
+         id="tspan27">Estado final</tspan></text>
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle27"
+       cx="614.63177"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="615.46216"
+       y="56.571156"
+       id="text29"><tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="615.46216"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="615.46216"
+         y="62.921154"
+         id="tspan29">0000</tspan></text>
+    <path
+       id="path29"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 553.9074,42.747111 c 0,0 7.81957,-7.51174 22.64544,-7.51174 14.82587,0 22.42623,6.424664 22.42623,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="575.96655"
+       y="43.344944"
+       id="text30"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="575.96655"
+         y="43.344944"
+         id="tspan30">ciclo 8</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="576.21527"
+       y="32.833817"
+       id="text31"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="576.21527"
+         y="32.833817"
+         id="tspan31">0</tspan></text>
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle31"
+       cx="403.1275"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="403.95786"
+       y="56.571156"
+       id="text33"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="403.95786"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="403.95786"
+         y="62.921154"
+         id="tspan33">0dcb</tspan></text>
+    <path
+       id="path33"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 342.40315,42.747111 c 0,0 7.81957,-7.51174 22.64544,-7.51174 14.82587,0 22.42623,6.424664 22.42623,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="364.46225"
+       y="43.344944"
+       id="text34"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="364.46225"
+         y="43.344944"
+         id="tspan34">ciclo 5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="364.71097"
+       y="32.833817"
+       id="text35"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="364.71097"
+         y="32.833817"
+         id="tspan35">0</tspan></text>
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle2"
+       cx="474.61218"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="475.44254"
+       y="56.571156"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="475.44254"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="475.44254"
+         y="62.921154"
+         id="tspan14">00dc</tspan></text>
+    <path
+       id="path14"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 413.88783,42.747111 c 0,0 7.81957,-7.51174 22.64544,-7.51174 14.82587,0 22.42623,6.424664 22.42623,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="435.94693"
+       y="43.344944"
+       id="text15"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="435.94693"
+         y="43.344944"
+         id="tspan15">ciclo 6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="436.19565"
+       y="32.833817"
+       id="text36"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="436.19565"
+         y="32.833817"
+         id="tspan36">0</tspan></text>
+    <circle
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.768215"
+       id="circle36"
+       cx="546.09686"
+       cy="56.381496"
+       r="17.258619" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="546.92719"
+       y="56.571156"
+       id="text38"><tspan
+         sodipodi:role="line"
+         id="tspan37"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="546.92719"
+         y="56.571156">Estado </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="546.92719"
+         y="62.921154"
+         id="tspan38">000d</tspan></text>
+    <path
+       id="path38"
+       style="fill:none;stroke:#000000;stroke-width:0.768217;marker-end:url(#Triangle)"
+       d="m 485.37251,42.747111 c 0,0 7.81957,-7.51174 22.64544,-7.51174 14.82587,0 22.42623,6.424664 22.42623,6.424664"
+       sodipodi:nodetypes="czc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768215"
+       x="507.43161"
+       y="43.344944"
+       id="text39"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.768216"
+         x="507.43161"
+         y="43.344944"
+         id="tspan39">ciclo 7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
+       x="507.68033"
+       y="32.833817"
+       id="text40"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
+         x="507.68033"
+         y="32.833817"
+         id="tspan40">0</tspan></text>
+  </g>
+</svg>
