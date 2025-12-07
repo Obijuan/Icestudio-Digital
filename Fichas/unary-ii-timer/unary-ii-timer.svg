@@ -9,7 +9,7 @@
    xml:space="preserve"
    id="svg30"
    sodipodi:docname="unary-ii-timer.svg"
-   inkscape:version="1.4.2 (0a52baabad, 2025-11-29)"
+   inkscape:version="1.4.2 (03c3f33db0, 2025-12-06)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,13 +26,13 @@
      inkscape:document-units="mm"
      inkscape:zoom="0.98646752"
      inkscape:cx="382.17173"
-     inkscape:cy="1085.1852"
+     inkscape:cy="841.8929"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1356,7 +1356,7 @@
          y="263.08191"
          fill="#000000"
          stroke-width="0.52917"
-         id="tspan35">041</tspan></text><rect
+         id="tspan35">050</tspan></text><rect
        x="22.673517"
        y="253.97215"
        width="52.319107"
@@ -1507,7 +1507,7 @@
        transform="matrix(1.0027879,0,0,0.99721985,18.627031,0)"><tspan
          x="61.329685"
          y="261.85724"
-         id="tspan10">Temporizador unario de 2 ciclos</tspan></text><rect
+         id="tspan2">Temporizador unario de 2 ciclos</tspan></text><rect
        x="4.4162765"
        y="109.87589"
        width="132.17668"
@@ -2089,7 +2089,7 @@
        transform="translate(59.009192,10.159668)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan11">LED D7 encendido a partir del ciclo 2 </tspan></text><rect
+         id="tspan3">LED D7 encendido a partir del ciclo 2 </tspan></text><rect
        x="140.87927"
        y="169.29573"
        width="61.775448"
@@ -2275,10 +2275,10 @@
        transform="translate(-120.57869,74.020148)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan12">Cuenta máxima </tspan><tspan
+         id="tspan5">Cuenta máxima </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan13">alcanzada: II</tspan></text><path
+         id="tspan6">alcanzada: II</tspan></text><path
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;marker-end:url(#TriangleOutM)"
        d="m 165.78216,162.36392 h 14.99236"
        id="path35" /><text
@@ -2294,18 +2294,18 @@
        transform="translate(83.602735,-46.042103)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan16"><tspan
+         id="tspan9"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan14">Señal MAX:</tspan><tspan
+           id="tspan7">Señal MAX:</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan15">
+           id="tspan8">
 </tspan></tspan><tspan
          x="83.95945"
          y="85.400824"
-         id="tspan18">máxima cuenta </tspan><tspan
+         id="tspan10">máxima cuenta </tspan><tspan
          x="83.95945"
          y="89.845831"
-         id="tspan33">alcanzada</tspan></text><text
+         id="tspan11">alcanzada</tspan></text><text
        x="188.6485"
        y="132.9339"
        fill="#000000"
@@ -2504,13 +2504,13 @@
        transform="translate(-170.83731,58.089114)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan36"><tspan
+         id="tspan13"><tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan34">MAX</tspan>
+   id="tspan12">MAX</tspan>
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan38">(D7)</tspan></text><image
+         id="tspan14">(D7)</tspan></text><image
        width="34.087215"
        height="36.234879"
        preserveAspectRatio="none"
