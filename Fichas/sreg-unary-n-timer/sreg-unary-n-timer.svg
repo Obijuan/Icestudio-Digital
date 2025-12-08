@@ -1378,7 +1378,7 @@
          y="263.08191"
          fill="#000000"
          stroke-width="0.52917"
-         id="tspan35">055</tspan></text><rect
+         id="tspan35">056</tspan></text><rect
        x="22.673515"
        y="253.97215"
        width="64.057388"
@@ -1469,13 +1469,13 @@
        transform="matrix(1.0027879,0,0,0.99721985,18.417333,-10.722942)"><tspan
          x="72.528488"
          y="261.85724"
-         id="tspan3">Temporizador unario de N ciclos </tspan><tspan
+         id="tspan2">Temporizador unario de N ciclos </tspan><tspan
          x="72.528488"
          y="267.82234"
-         id="tspan5">implementado con registro de </tspan><tspan
+         id="tspan56">implementado con registro de </tspan><tspan
          x="72.528488"
          y="273.78743"
-         id="tspan7">desplazamiento encapsulado</tspan></text><rect
+         id="tspan57">desplazamiento encapsulado</tspan></text><rect
        x="4.4162765"
        y="109.87589"
        width="132.17668"
@@ -1538,9 +1538,9 @@
        transform="translate(12.238138,13.967751)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan9"><tspan
+         id="tspan59"><tspan
            style="-inkscape-font-specification:Ubuntu"
-           id="tspan8">Caso práctico</tspan></tspan></text><text
+           id="tspan58">Caso práctico</tspan></tspan></text><text
        x="83.95945"
        y="80.955818"
        fill="#000000"
@@ -1553,9 +1553,9 @@
        transform="translate(29.403765,25.098587)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan11"><tspan
+         id="tspan61"><tspan
            style="-inkscape-font-specification:Ubuntu"
-           id="tspan10">Placa Alhambra-II</tspan></tspan></text><g
+           id="tspan60">Placa Alhambra-II</tspan></tspan></text><g
        id="g42"
        transform="matrix(0.88717402,0,0,0.88677404,-235.50384,-96.970942)"
        style="display:inline;stroke-width:1.12743"><rect
@@ -1650,9 +1650,9 @@
        transform="translate(28.495209,-27.076909)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan13"><tspan
+         id="tspan65"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan12">MAX</tspan></tspan></text><rect
+           id="tspan62">MAX</tspan></tspan></text><rect
        x="11.655463"
        y="44.741833"
        width="35.352024"
@@ -1872,7 +1872,7 @@
        transform="translate(-98.571587,0.54104271)"><tspan
          x="106.59087"
          y="28.512897"
-         id="tspan14">Registro de desplazamiento de N bits</tspan></text><text
+         id="tspan66">Registro de desplazamiento de N bits</tspan></text><text
        x="106.59087"
        y="28.512897"
        fill="#000000"
@@ -1885,7 +1885,7 @@
        transform="translate(-2.8377951,1.6178419)"><tspan
          x="106.59087"
          y="28.512897"
-         id="tspan15">META-Componente</tspan></text><path
+         id="tspan68">META-Componente</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.31219;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 97.36653,39.494331 4.95154,-7.882311 44.60249,0.02026"
        id="path90"
@@ -1920,7 +1920,7 @@
        transform="translate(-17.346416,45.902324)"><tspan
          x="106.59087"
          y="28.512897"
-         id="tspan16">N Biestables en serie</tspan></text><g
+         id="tspan79">N Biestables en serie</tspan></text><g
        id="g6"
        transform="translate(-65.859762,-44.623676)"
        style="display:inline"><rect
@@ -1940,13 +1940,13 @@
          transform="translate(56.6588,-36.319916)"><tspan
            x="176.86212"
            y="103.86885"
-           id="tspan17">Equivalente
+           id="tspan80">Equivalente
 </tspan><tspan
            x="176.86212"
            y="108.31386"
-           id="tspan19">a <tspan
+           id="tspan85">a <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan18">unary-n-timer</tspan></tspan></text></g><image
+   id="tspan84">unary-n-timer</tspan></tspan></text></g><image
        width="33.974281"
        height="36.169716"
        preserveAspectRatio="none"
@@ -2180,9 +2180,9 @@
        transform="translate(17.603876,14.512307)"><tspan
          x="149.42525"
          y="188.34544"
-         id="tspan23">Circuito: <tspan
+         id="tspan89">Circuito: <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan20">STEPN</tspan></tspan></text><rect
+   id="tspan86">STEPN</tspan></tspan></text><rect
        x="89.775993"
        y="196.75052"
        width="73.002571"
@@ -2199,11 +2199,11 @@
        transform="translate(65.579431,2.6426572)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan25">Caso de estudio
+         id="tspan90">Caso de estudio
 </tspan><tspan
          x="26.247385"
          y="204.23125"
-         id="tspan29">Temporizador de 12 Biestables </tspan></text><rect
+         id="tspan91">Temporizador de 12 Biestables </tspan></text><rect
        x="4.416276"
        y="174.57866"
        width="61.775448"
@@ -2288,11 +2288,11 @@
        transform="translate(-80.227481,67.607774)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan34">Ha pasado un
+         id="tspan92">Ha pasado un
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan36">tiempo D</tspan></text><text
+         id="tspan93">tiempo D</tspan></text><text
        x="192.4799"
        y="128.19838"
        fill="#000000"
@@ -2316,13 +2316,13 @@
        transform="translate(-3.4460693,-5.98005)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan40"><tspan
+         id="tspan115"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan39">B0
+           id="tspan94">B0
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan42">(D0)
+         id="tspan116">(D0)
 </tspan></text><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 61.001265,139.5611 H 19.173047"
@@ -2726,7 +2726,7 @@
        transform="translate(-125.46413,58.587843)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan52">D</tspan></text><text
+         id="tspan120">D</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="-157.99174"
@@ -3011,13 +3011,13 @@
        transform="translate(-95.715364,140.90493)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan53">LED0 se enciende al
+         id="tspan124">LED0 se enciende al
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan55">cabo de <tspan
+         id="tspan129">cabo de <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan54">1µs</tspan></tspan></text><circle
+   id="tspan128">1µs</tspan></tspan></text><circle
        style="fill:#666666;stroke:none;stroke-width:0.793749;stroke-linecap:square;stroke-dasharray:none"
        id="circle166"
        cx="64.736511"
