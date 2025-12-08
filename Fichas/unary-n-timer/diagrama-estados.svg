@@ -7,7 +7,7 @@
    viewBox="0 0 524.17974 102.1522"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4.2 (50105f485e, 2025-07-05)"
+   inkscape:version="1.4.2 (03c3f33db0, 2025-12-06)"
    sodipodi:docname="diagrama-estados.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.34876894"
-     inkscape:cx="794.2221"
-     inkscape:cy="-47.309259"
+     inkscape:zoom="0.50004073"
+     inkscape:cx="1104.91"
+     inkscape:cy="446.96359"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
-     inkscape:window-y="1112"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showguides="true" />
   <defs
      id="defs1">
@@ -380,17 +380,17 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768215"
        x="467.61972"
-       y="56.571156"
+       y="52.573105"
        id="text29"><tspan
          sodipodi:role="line"
          id="tspan28"
          style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
          x="467.61972"
-         y="56.571156">Estado </tspan><tspan
+         y="52.573105">Estado </tspan><tspan
          sodipodi:role="line"
          style="text-align:center;text-anchor:middle;fill:#000080;stroke:none;stroke-width:0.768216"
          x="467.61972"
-         y="62.921154"
+         y="58.923103"
          id="tspan29">111...11</tspan></text>
     <path
        id="path29"
@@ -431,5 +431,16 @@
          cy="133.96938"
          r="0.77111208" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.35px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.768215"
+       x="466.63379"
+       y="66.713226"
+       id="text9"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;fill:#ff0000;stroke:none;stroke-width:0.768216"
+         x="466.63379"
+         y="66.713226"
+         id="tspan9">MAX</tspan></text>
   </g>
 </svg>
