@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.69753788"
-     inkscape:cx="398.54466"
-     inkscape:cy="531.15395"
+     inkscape:cx="399.26147"
+     inkscape:cy="760.53217"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer4"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1348,7 +1348,7 @@
          y="263.08191"
          fill="#000000"
          stroke-width="0.52917"
-         id="tspan35">053</tspan></text><rect
+         id="tspan35">054</tspan></text><rect
        x="22.673517"
        y="253.97215"
        width="59.927551"
@@ -1557,14 +1557,14 @@
        transform="matrix(0.85302571,0,0,0.84828923,33.41624,35.973135)"><tspan
          x="61.329685"
          y="261.85724"
-         id="tspan7"><tspan
+         id="tspan3"><tspan
            style="-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan6">Temporizador unario-iii implementado </tspan></tspan><tspan
+           id="tspan2">Temporizador unario-iii implementado </tspan></tspan><tspan
          x="61.329685"
          y="267.82234"
-         id="tspan12"><tspan
+         id="tspan11"><tspan
            style="-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan8">con registro de desplazamiento</tspan></tspan></text><image
+           id="tspan5">con registro de desplazamiento</tspan></tspan></text><image
        width="34.087219"
        height="36.227962"
        preserveAspectRatio="none"
@@ -1946,10 +1946,10 @@
        transform="translate(-103.2765,57.128745)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan13">Cuenta máxima </tspan><tspan
+         id="tspan12">Cuenta máxima </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan14">alcanzada: III</tspan></text><text
+         id="tspan29">alcanzada: III</tspan></text><text
        x="182.69012"
        y="114.00288"
        fill="#000000"
@@ -2188,13 +2188,13 @@
        transform="translate(-2.5400327,-11.136596)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan16"><tspan
+         id="tspan34"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan15">MAX
+           id="tspan33">MAX
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan17">(D7)
+         id="tspan36">(D7)
 </tspan></text><image
        width="72.009216"
        height="48.678238"
@@ -2212,7 +2212,7 @@
        transform="translate(59.914025,0.06372627)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan18">LED D7 encendido a partir del ciclo 3 </tspan></text><circle
+         id="tspan38">LED D7 encendido a partir del ciclo 3 </tspan></text><circle
        cx="-54.572948"
        cy="192.63644"
        r="1.0127"
@@ -2341,9 +2341,9 @@
        transform="translate(30.094333,-15.170209)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan20"><tspan
+         id="tspan42"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan19">MAX</tspan></tspan></text><rect
+           id="tspan40">MAX</tspan></tspan></text><rect
        x="13.254584"
        y="56.648529"
        width="35.352024"
@@ -2394,13 +2394,13 @@
          transform="translate(56.6588,-36.319916)"><tspan
            x="176.86212"
            y="103.86885"
-           id="tspan23">Equivalente
+           id="tspan44">Equivalente
 </tspan><tspan
            x="176.86212"
            y="108.31386"
-           id="tspan26">a <tspan
+           id="tspan51">a <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan25">unary-iii-timer</tspan></tspan></text></g><rect
+   id="tspan49">unary-iii-timer</tspan></tspan></text></g><rect
        ry="1.9545958"
        y="49.715225"
        x="66.724403"
