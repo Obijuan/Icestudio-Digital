@@ -9,7 +9,7 @@
    xml:space="preserve"
    id="svg30"
    sodipodi:docname="unary-n.svg"
-   inkscape:version="1.4.2 (03c3f33db0, 2025-12-06)"
+   inkscape:version="1.4.2 (7348d72944, 2025-12-08)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.69753788"
-     inkscape:cx="404.27912"
+     inkscape:cx="513.95058"
      inkscape:cy="562.69346"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1527,15 +1527,15 @@
        transform="translate(61.710351,-9.4921128)"><tspan
          x="83.95945"
          y="80.955818"
-         id="tspan140"><tspan
+         id="tspan40"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan8">Señal MAX:</tspan><tspan
+           id="tspan5">Señal MAX:</tspan><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan139">
+           id="tspan39">
 </tspan></tspan><tspan
          x="83.95945"
          y="85.400824"
-         id="tspan141">máxima cuenta alcanzada</tspan></text><path
+         id="tspan79">máxima cuenta alcanzada</tspan></text><path
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.396874;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 179.60734,60.681926 -2.45436,4.865751 -32.24448,-8e-6"
        id="path15-0"
@@ -1875,11 +1875,11 @@
        transform="translate(141.19436,2.576524)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan142">Caso de estudio
+         id="tspan116">Caso de estudio
 </tspan><tspan
          x="26.247385"
          y="204.23125"
-         id="tspan143">N=12</tspan></text><image
+         id="tspan124">N=12</tspan></text><image
        width="54.825809"
        height="37.829807"
        preserveAspectRatio="none"
@@ -2068,11 +2068,11 @@
        transform="translate(-80.227481,86.340036)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan144">Ha pasado un
+         id="tspan130">Ha pasado un
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan145">tiempo D</tspan></text><text
+         id="tspan131">tiempo D</tspan></text><text
        x="192.4799"
        y="128.19838"
        fill="#000000"
@@ -2096,13 +2096,13 @@
        transform="translate(-3.4460693,12.752212)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan147"><tspan
+         id="tspan133"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan146">B0
+           id="tspan132">B0
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan148">(D0)
+         id="tspan134">(D0)
 </tspan></text><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 61.001265,158.29336 H 19.173047"
@@ -2651,10 +2651,10 @@
          fill="#000000"
          stroke-width="0.52917"
          id="tspan4"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start">IO: 1</tspan></text><rect
-       x="51.43454"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start">IO: N+1</tspan></text><rect
+       x="51.434536"
        y="102.25261"
-       width="12.578321"
+       width="18.430813"
        height="6.3828273"
        fill="none"
        stroke="#000000"
@@ -2922,7 +2922,7 @@
        transform="translate(-125.46413,77.320105)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan149">D</tspan></text><text
+         id="tspan135">D</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="-157.99174"
@@ -3203,13 +3203,13 @@
        transform="translate(-86.051627,131.65146)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan150">LED D0 se enciende al
+         id="tspan136">LED D0 se enciende al
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan152">cabo de <tspan
+         id="tspan138">cabo de <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan151">1µs</tspan></tspan></text><path
+   id="tspan137">1µs</tspan></tspan></text><path
        style="display:inline;fill:none;stroke:#777777;stroke-width:0.793746;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 86.389974,60.636106 h -7.08122 v -11.85177"
        id="path865-3-6"
