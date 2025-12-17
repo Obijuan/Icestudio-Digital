@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="122.80173mm"
+   height="147.63786mm"
+   viewBox="0 0 122.80173 147.63786"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3rc (9500139e98, 2025-12-13)"
+   sodipodi:docname="arbol-relojes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3950758"
+     inkscape:cx="274.89546"
+     inkscape:cy="335.10724"
+     inkscape:window-width="1866"
+     inkscape:window-height="1011"
+     inkscape:window-x="54"
+     inkscape:window-y="1112"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Block"
+     transform="translate(-15.456897,10.153466)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.273285;stroke-dasharray:none"
+       id="rect8"
+       width="122.80173"
+       height="147.63786"
+       x="15.456897"
+       y="-10.153466" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264582;stroke-dasharray:none"
+       id="rect7"
+       width="120.24138"
+       height="144.29836"
+       x="16.5"
+       y="-8.4837141" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-15.456897,10.153466)">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="63.975903"
+       y="-0.91477847"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke:none;stroke-width:0.529167"
+         x="63.975903"
+         y="-0.91477847">Árbol de relojes</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.501681;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8310"
+       width="15.429406"
+       height="8.3335638"
+       x="30.912586"
+       y="18.763908"
+       ry="1.4200429"
+       rx="1.4200429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.68907px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.167226"
+       x="32.141537"
+       y="24.811752"
+       id="text2010"><tspan
+         sodipodi:role="line"
+         id="tspan2008"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.167226"
+         x="32.141537"
+         y="24.811752">Sys</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="23.327585"
+       y="10.085221"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.529167"
+         x="23.327585"
+         y="10.085221">Reloj del sistema</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.529167"
+       x="31.262085"
+       y="32.998646"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#008000;stroke:none;stroke-width:0.529167"
+         x="31.262085"
+         y="32.998646">12Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="31.482758"
+       y="15.205913"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.529167"
+         x="31.482758"
+         y="15.205913">(sysclk)</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.501681;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="15.429406"
+       height="8.3335638"
+       x="74.533279"
+       y="38.075237"
+       ry="1.4200429"
+       rx="1.4200429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.68907px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.167226"
+       x="76.752686"
+       y="44.676933"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.167226"
+         x="76.752686"
+         y="44.676933">%2</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 46.341992,22.93069 H 124.36905"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 90.14823,42.242018 h 34.17762"
+       id="path6" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.529167"
+       x="104.83731"
+       y="40.036987"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#008000;stroke:none;stroke-width:0.529167"
+         x="104.83731"
+         y="40.036987">6Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="68.572495"
+       y="34.982273"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.529167"
+         x="68.572495"
+         y="34.982273">Prescaler 1:2</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.501681;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="15.429406"
+       height="8.3335638"
+       x="74.533279"
+       y="59.49868"
+       ry="1.4200429"
+       rx="1.4200429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.68907px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.167226"
+       x="76.752686"
+       y="66.10038"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.167226"
+         x="76.752686"
+         y="66.10038">%3</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.509926;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 90.14823,63.665462 h 34.17762"
+       id="path9" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.529167"
+       x="104.83731"
+       y="61.388985"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#008000;stroke:none;stroke-width:0.529167"
+         x="104.83731"
+         y="61.388985">4Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="68.80027"
+       y="56.319992"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.529167"
+         x="68.80027"
+         y="56.319992">Prescaler 1:3</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 59.439469,42.24202 V 63.665462 H 72.636727"
+       id="path13"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none"
+       id="path14"
+       cx="59.439468"
+       cy="42.24202"
+       r="0.8785848" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.501681;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="15.429406"
+       height="8.3335638"
+       x="74.533279"
+       y="80.850677"
+       ry="1.4200429"
+       rx="1.4200429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.68907px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.167226"
+       x="76.752686"
+       y="87.452377"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.167226"
+         x="76.752686"
+         y="87.452377">%4</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.509926;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 90.14823,85.017458 h 34.17762"
+       id="path15" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.529167"
+       x="104.83731"
+       y="82.674309"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#008000;stroke:none;stroke-width:0.529167"
+         x="104.83731"
+         y="82.674309">3Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="68.80027"
+       y="77.671989"
+       id="text17"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.529167"
+         x="68.80027"
+         y="77.671989">Prescaler 1:4</tspan></text>
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none"
+       id="circle17"
+       cx="59.439468"
+       cy="63.665459"
+       r="0.8785848" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 59.439469,63.116105 V 84.539547 H 72.636727"
+       id="path1"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none"
+       id="circle1"
+       cx="59.439468"
+       cy="84.539551"
+       r="0.8785848" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 59.439469,83.990196 V 105.41364 H 72.636727"
+       id="path2"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.501681;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="15.429406"
+       height="8.3335638"
+       x="74.533279"
+       y="102.27411"
+       ry="1.4200429"
+       rx="1.4200429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.68907px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.167226"
+       x="76.752686"
+       y="108.87581"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.167226"
+         x="76.752686"
+         y="108.87581">%6</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.509926;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 90.14823,106.44089 h 34.17762"
+       id="path16" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.529167"
+       x="104.83731"
+       y="104.03107"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan19"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#008000;stroke:none;stroke-width:0.529167"
+         x="104.83731"
+         y="104.03107">2Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="68.80027"
+       y="99.095421"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.529167"
+         x="68.80027"
+         y="99.095421">Prescaler 1:6</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 59.439469,105.1315 v 21.42344 h 13.197258"
+       id="path20"
+       sodipodi:nodetypes="ccc" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.501681;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20"
+       width="19.791473"
+       height="8.3335571"
+       x="74.533279"
+       y="121.80574"
+       ry="1.4200429"
+       rx="1.4200429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.68907px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.167226"
+       x="76.752686"
+       y="128.40744"
+       id="text21"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.167226"
+         x="76.752686"
+         y="128.40744">%12</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.509926;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 94.324753,125.97252 H 124.32585"
+       id="path21"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.529167"
+       x="104.83731"
+       y="123.5627"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#008000;stroke:none;stroke-width:0.529167"
+         x="104.83731"
+         y="123.5627">1Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="68.80027"
+       y="118.62705"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.529167"
+         x="68.80027"
+         y="118.62705">Prescaler 1:12</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 59.439469,22.93069 V 42.24202 H 72.636727"
+       id="path23"
+       sodipodi:nodetypes="ccc" />
+    <circle
+       style="fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none"
+       id="circle23"
+       cx="59.439468"
+       cy="22.930691"
+       r="0.8785848" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#008000;stroke:#000000;stroke-width:0.529167"
+       x="104.83731"
+       y="21.244923"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan24"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#008000;stroke:none;stroke-width:0.529167"
+         x="104.83731"
+         y="21.244923">12Mhz</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:4.7625px;line-height:1;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.529167"
+       x="68.572495"
+       y="21.244923"
+       id="text25"><tspan
+         sodipodi:role="line"
+         id="tspan25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke:none;stroke-width:0.529167"
+         x="68.572495"
+         y="21.244923">Sin prescaler</tspan></text>
+  </g>
+</svg>
