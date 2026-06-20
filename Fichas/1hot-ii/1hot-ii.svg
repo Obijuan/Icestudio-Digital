@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.98646756"
-     inkscape:cx="312.73203"
-     inkscape:cy="691.86259"
+     inkscape:cx="312.22517"
+     inkscape:cy="529.6677"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g5"
      showguides="true"
      showgrid="false" /><defs
      id="defs2"><linearGradient
@@ -1445,7 +1445,7 @@
        transform="translate(11.37931,-24.412197)"><tspan
          x="7.5574675"
          y="194.61488"
-         id="tspan2">Resultado</tspan></text><text
+         id="tspan29">Resultado</tspan></text><text
        x="136.48723"
        y="261.53326"
        fill="#000000"
@@ -1460,7 +1460,7 @@
        transform="matrix(1.0467615,0,0,1.0409493,-93.937293,-11.480219)"><tspan
          x="136.48723"
          y="261.53326"
-         id="tspan5">Contador 1-hot de 2 marcas</tspan></text><rect
+         id="tspan39">Contador 1-hot de 2 marcas</tspan></text><rect
        x="4.3754287"
        y="89.893066"
        width="139.01611"
@@ -1533,7 +1533,7 @@
        transform="translate(14.413793,-24.412197)"><tspan
          x="78.867813"
          y="194.61488"
-         id="tspan6">Diagrama de estado</tspan></text><image
+         id="tspan40">Diagrama de estado</tspan></text><image
        width="33.821167"
        height="35.781815"
        preserveAspectRatio="none"
@@ -2258,7 +2258,7 @@
            fill="#000000"
            stroke-width="0.52917"
            id="tspan4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start">IO: 2</tspan></text><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;text-anchor:start">IO: 3</tspan></text><rect
          x="192.3159"
          y="102.22585"
          width="12.578321"
@@ -2283,9 +2283,9 @@
        transform="matrix(0.87556646,0,0,0.87556646,12.622664,-68.641944)"><tspan
          x="176.86212"
          y="103.86885"
-         id="tspan8">Equivalente a <tspan
+         id="tspan42">Equivalente a <tspan
    style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-   id="tspan7">shift</tspan></tspan></text><rect
+   id="tspan41">shift</tspan></tspan></text><rect
        style="fill:#f9f9f9;stroke:#000000;stroke-width:0.264582;stroke-dasharray:none"
        id="rect27"
        width="9.8517952"
@@ -2666,10 +2666,10 @@
        transform="translate(-123.16734,64.232567)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan9">Cuenta máxima </tspan><tspan
+         id="tspan47">Cuenta máxima </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan10">alcanzada: 1</tspan></text><text
+         id="tspan49">alcanzada: 1</tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.25302px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;white-space:pre;inline-size:18.2822;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="15.00554"
@@ -2678,13 +2678,13 @@
        transform="translate(-0.60138164,-26.023566)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan12"><tspan
+         id="tspan51"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan11">B1
+           id="tspan50">B1
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan13">(D1)
+         id="tspan52">(D1)
 </tspan></text><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.451847;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 131.09783,119.51759 H 33.524433 v -5.01092 l -14.089065,0"
@@ -2773,13 +2773,13 @@
        transform="translate(-0.60138164,-16.477281)"><tspan
          x="15.00554"
          y="144.51361"
-         id="tspan15"><tspan
+         id="tspan55"><tspan
            style="font-weight:bold;-inkscape-font-specification:'Ubuntu Bold'"
-           id="tspan14">B0
+           id="tspan53">B0
 </tspan></tspan><tspan
          x="15.00554"
          y="148.34132"
-         id="tspan16">(D0)
+         id="tspan56">(D0)
 </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:54.8684;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -2789,7 +2789,7 @@
        transform="translate(-169.13765,57.63791)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan18">Cuenta: 0 </tspan></text><text
+         id="tspan57">Cuenta: 0 </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:54.8684;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="176.86212"
@@ -2798,7 +2798,7 @@
        transform="translate(-169.13765,68.662764)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan19">Cuenta: 1 </tspan></text><path
+         id="tspan58">Cuenta: 1 </tspan></text><path
        style="display:inline;fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;marker-end:url(#TriangleOutM-2)"
        d="m 30.358036,152.58804 9.494583,-24.48299"
        id="path114"
@@ -2883,10 +2883,10 @@
        transform="translate(-14.931672,-13.627321)"><tspan
          x="26.247385"
          y="199.78624"
-         id="tspan20">LEDs apagados indefinidamente a </tspan><tspan
+         id="tspan59">LEDs apagados indefinidamente a </tspan><tspan
          x="26.247385"
          y="204.23125"
-         id="tspan22">partir del ciclo 2</tspan></text><ellipse
+         id="tspan60">partir del ciclo 2</tspan></text><ellipse
        style="fill:#e6e6e6;stroke:#000000;stroke-width:0.484864"
        id="ellipse121"
        cx="191.75082"
@@ -2915,7 +2915,7 @@
        transform="translate(-76.872409,125.22756)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan23">Cuenta: 0 </tspan></text><text
+         id="tspan61">Cuenta: 0 </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:54.8684;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="176.86212"
@@ -2924,11 +2924,11 @@
        transform="translate(-34.226556,125.22756)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan24">Cuenta: 1
+         id="tspan62">Cuenta: 1
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan25">(Max) </tspan></text><text
+         id="tspan63">(Max) </tspan></text><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:54.8684;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        x="176.86212"
@@ -2937,11 +2937,11 @@
        transform="translate(7.6146578,124.42292)"><tspan
          x="176.86212"
          y="87.282143"
-         id="tspan26">Valor
+         id="tspan64">Valor
 </tspan><tspan
          x="176.86212"
          y="91.727148"
-         id="tspan28">inválido</tspan></text><ellipse
+         id="tspan65">inválido</tspan></text><ellipse
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.253879;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        id="ellipse1"
        cx="140.15323"
