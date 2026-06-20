@@ -15,7 +15,7 @@
           "id": "45840b3b-ed71-4b80-9917-a830c182c65b",
           "type": "basic.output",
           "data": {
-            "name": "TIME0",
+            "name": "Time0",
             "virtual": false,
             "pins": [
               {
@@ -26,8 +26,8 @@
             ]
           },
           "position": {
-            "x": 1064,
-            "y": 56
+            "x": 1080,
+            "y": -24
           }
         },
         {
@@ -46,15 +46,15 @@
             ]
           },
           "position": {
-            "x": 912,
-            "y": 144
+            "x": 928,
+            "y": 64
           }
         },
         {
           "id": "08e5904d-b89b-4ffc-9a6a-3aa2b46130a2",
           "type": "basic.output",
           "data": {
-            "name": "LED",
+            "name": "B1",
             "virtual": false,
             "pins": [
               {
@@ -65,15 +65,15 @@
             ]
           },
           "position": {
-            "x": 1064,
-            "y": 144
+            "x": 1080,
+            "y": 64
           }
         },
         {
           "id": "fdc00ac2-6ac5-48c6-b973-ea0f6204aa62",
           "type": "basic.output",
           "data": {
-            "name": "LED",
+            "name": "B0",
             "virtual": false,
             "pins": [
               {
@@ -84,8 +84,8 @@
             ]
           },
           "position": {
-            "x": 1064,
-            "y": 232
+            "x": 1080,
+            "y": 152
           }
         },
         {
@@ -104,8 +104,8 @@
             ]
           },
           "position": {
-            "x": 912,
-            "y": 232
+            "x": 928,
+            "y": 152
           }
         },
         {
@@ -145,6 +145,45 @@
           },
           "position": {
             "x": 440,
+            "y": 240
+          }
+        },
+        {
+          "id": "094cef0d-747b-49d5-b24f-8dec5475dfff",
+          "type": "basic.outputLabel",
+          "data": {
+            "name": "clk",
+            "blockColor": "yellow",
+            "virtual": true,
+            "pins": [
+              {
+                "index": "0",
+                "name": "NULL",
+                "value": "NULL"
+              }
+            ]
+          },
+          "position": {
+            "x": 936,
+            "y": 240
+          }
+        },
+        {
+          "id": "ab9805a1-d427-4f6d-8378-04a0e3196fb2",
+          "type": "basic.output",
+          "data": {
+            "name": "CLK",
+            "virtual": false,
+            "pins": [
+              {
+                "index": "0",
+                "name": "D11",
+                "value": "21"
+              }
+            ]
+          },
+          "position": {
+            "x": 1080,
             "y": 240
           }
         },
@@ -304,8 +343,8 @@
             "readonly": true
           },
           "position": {
-            "x": 904,
-            "y": -24
+            "x": 920,
+            "y": -104
           },
           "size": {
             "width": 288,
@@ -316,8 +355,8 @@
           "id": "63ee505c-5828-4749-a96c-0df9bae24387",
           "type": "d30ca9ee4f35f6cb76d5e5701447fc2b739bc640",
           "position": {
-            "x": 920,
-            "y": 56
+            "x": 936,
+            "y": -24
           },
           "size": {
             "width": 96,
@@ -443,6 +482,16 @@
           },
           "target": {
             "block": "b4b467a0-77f5-4423-93f8-80655566cfc4",
+            "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "094cef0d-747b-49d5-b24f-8dec5475dfff",
+            "port": "outlabel"
+          },
+          "target": {
+            "block": "ab9805a1-d427-4f6d-8378-04a0e3196fb2",
             "port": "in"
           }
         }
