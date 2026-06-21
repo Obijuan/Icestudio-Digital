@@ -32,7 +32,7 @@
      inkscape:window-x="54"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer9"
      showgrid="false" />
   <defs
      id="defs1" />
@@ -530,7 +530,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Ciclo2"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -655,14 +655,14 @@
 </tspan><tspan
          x="-100.22816"
          y="14.915848"
-         id="tspan23">4
+         id="tspan23">3
 </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Ciclo4"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:90.1174;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389327;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
