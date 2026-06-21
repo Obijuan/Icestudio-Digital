@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="0.49323377"
-     inkscape:cx="530.17456"
-     inkscape:cy="485.57097"
+     inkscape:cx="554.5038"
+     inkscape:cy="451.10455"
      inkscape:window-width="1866"
      inkscape:window-height="1011"
      inkscape:window-x="54"
@@ -395,47 +395,106 @@
          sodipodi:role="line"
          id="tspan37"
          x="72.793907"
-         y="39.75008">0</tspan></text>
+         y="39.75008">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.9247px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.366238;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="78.206619"
+       y="39.871758"
+       id="text47"><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         x="78.206619"
+         y="39.871758"
+         style="stroke-width:0.366238">N-1</tspan></text>
+    <path
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none"
+       d="m 94.652468,28.696348 v 3.816504"
+       id="path50" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="107.0176"
+       x="104.06851"
        y="39.75008"
-       id="text39"><tspan
+       id="text50"><tspan
          sodipodi:role="line"
-         id="tspan38"
-         x="107.0176"
-         y="39.75008">1</tspan></text>
+         id="tspan50"
+         x="104.06851"
+         y="39.75008">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.9247px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.366238;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="109.48122"
+       y="39.871758"
+       id="text52"><tspan
+         sodipodi:role="line"
+         id="tspan51"
+         x="109.48122"
+         y="39.871758"
+         style="stroke-width:0.366238">N-2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="143.52792"
+       x="141.23883"
        y="39.75008"
-       id="text43"><tspan
+       id="text53"><tspan
          sodipodi:role="line"
-         id="tspan39"
-         x="143.52792"
-         y="39.75008">2</tspan></text>
+         id="tspan52"
+         x="141.23883"
+         y="39.75008">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.9247px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.366238;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="146.65154"
+       y="39.871758"
+       id="text55"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         x="146.65154"
+         y="39.871758"
+         style="stroke-width:0.366238">N-3</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="214.37357"
+       x="214.1861"
        y="39.75008"
-       id="text44"><tspan
+       id="text57"><tspan
          sodipodi:role="line"
-         id="tspan43"
-         x="214.37357"
-         y="39.75008">N-2</tspan></text>
+         id="tspan55"
+         x="214.1861"
+         y="39.75008">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.9247px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.366238;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="218.22382"
+       y="39.871758"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan57"
+         x="218.22382"
+         y="39.871758"
+         style="stroke-width:0.366238">1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.49827px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.699709;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
-       x="248.68672"
+       x="247.84682"
        y="39.75008"
-       id="text46"><tspan
+       id="text59"><tspan
          sodipodi:role="line"
-         id="tspan44"
-         x="248.68672"
-         y="39.75008">N-1</tspan></text>
+         id="tspan58"
+         x="247.84682"
+         y="39.75008">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.9247px;line-height:0.9;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.366238;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       x="251.88454"
+       y="39.871758"
+       id="text61"><tspan
+         sodipodi:role="line"
+         id="tspan59"
+         x="251.88454"
+         y="39.871758"
+         style="stroke-width:0.366238">0</tspan></text>
   </g>
   <g
      inkscape:label="Layer 1"
