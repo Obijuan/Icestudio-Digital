@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="203.84178mm"
+   height="90.752678mm"
+   viewBox="0 0 203.84178 90.752678"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (3454cb1dab, 2026-07-01)"
+   sodipodi:docname="icesignals-tic0-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69753788"
+     inkscape:cx="308.9438"
+     inkscape:cy="303.20934"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(2.4139078,-9.3390903)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.616128;stroke-dasharray:none"
+       id="rect10"
+       width="203.84178"
+       height="90.752678"
+       x="-2.4139078"
+       y="9.3390903" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.620408;stroke-dasharray:none"
+       id="rect11"
+       width="200.53203"
+       height="87.650459"
+       x="-0.75902921"
+       y="11.04235" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.4139078,-9.3390903)">
+    <text
+       x="53.550858"
+       y="20.398403"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#000080"
+       xml:space="preserve"
+       id="text74"><tspan
+         sodipodi:role="line"
+         x="53.550858"
+         y="20.398403"
+         id="tspan74"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#000080">Componente icesignals.tic0</tspan></text>
+    <text
+       x="10.368578"
+       y="44.269356"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text1"><tspan
+         sodipodi:role="line"
+         x="10.368578"
+         y="44.269356"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Entrada:</tspan><tspan
+         sodipodi:role="line"
+         x="10.368578"
+         y="48.714367"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan2">Reloj del sistema</tspan><tspan
+         sodipodi:role="line"
+         x="10.368578"
+         y="53.159374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan5">(sysclk)</tspan></text>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 39.427297,51.49688 8.184444,14.261301"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="126.50477"
+       y="48.292549"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text4"><tspan
+         sodipodi:role="line"
+         x="126.50477"
+         y="48.292549"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Salida:</tspan><tspan
+         sodipodi:role="line"
+         x="126.50477"
+         y="52.73756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan4">Tic en ciclo 0</tspan></text>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 126.2836,55.251861 -6.30696,12.920236"
+       id="path5"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12143"
+       d="m 112.34878,72.993817 h 7.5462"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:1.10659;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       rx="2.7217174"
+       ry="2.7217174"
+       y="56.200661"
+       x="62.1698"
+       height="33.705387"
+       width="50.178993"
+       id="rect861-2"
+       style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.301615;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path865-3"
+       d="M 51.524299,72.643537 H 62.124188"
+       style="display:inline;fill:none;stroke:#777777;stroke-width:0.738928;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="display:inline;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:0.369463;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect948"
+       width="7.0259118"
+       height="7.3040576"
+       x="45.243279"
+       y="68.868111"
+       ry="1.7262198"
+       rx="1.7262198" />
+    <path
+       style="display:inline;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.422153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 62.080379,68.861267 4.081623,3.27981 -4.081623,3.45244"
+       id="path866-3"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g992-7"
+       transform="matrix(0.82422687,0,0,0.82422687,4.0707398,12.446151)"
+       style="display:inline">
+      <circle
+         r="14.559162"
+         cy="73.815468"
+         cx="100.60208"
+         id="path992-2-6-3"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.608443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1773-2-3-1-8-9-5"
+         d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+         style="fill:none;stroke:#008000;stroke-width:1.52111;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g992-6"
+       transform="matrix(0.38635117,0,0,0.38635117,62.44123,51.276467)"
+       style="display:inline">
+      <circle
+         r="14.559162"
+         cy="73.815468"
+         cx="100.60208"
+         id="path992-2-0"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.608443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path1773-2-3-1-8-9-6"
+         d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+         style="fill:none;stroke:#008000;stroke-width:1.52111;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g45958-2"
+       transform="matrix(0.44969256,0,0,0.44969256,96.512392,-21.603909)"
+       style="display:inline;stroke-width:1.11861">
+      <circle
+         r="12.620646"
+         cy="225.33946"
+         cx="-51.400829"
+         id="path992-2-6-6"
+         style="fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.589986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         y="232.14616"
+         x="-58.632561"
+         style="font-weight:400;font-size:35.2825px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.732036"
+         font-weight="400"
+         font-size="27.48"
+         letter-spacing="0"
+         word-spacing="0"
+         id="text4204-6"
+         transform="scale(0.99852717,1.001475)"
+         inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           style="font-weight:700;font-size:20.1616px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.732036"
+           y="232.14616"
+           x="-58.632561"
+           font-weight="700"
+           font-size="15.703"
+           id="tspan4206-1">0</tspan></text>
+    </g>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.453816;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8310-8"
+       width="13.957326"
+       height="7.5384789"
+       x="92.86721"
+       y="60.530418"
+       ry="1.28456"
+       rx="1.28456" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.05089px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.151272"
+       x="93.978928"
+       y="66.001251"
+       id="text2010-7"><tspan
+         sodipodi:role="line"
+         id="tspan2008-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.151272"
+         x="93.978928"
+         y="66.001251">Sys</tspan></text>
+  </g>
+</svg>
