@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="277.66928mm"
+   height="121.85848mm"
+   viewBox="0 0 277.66928 121.85848"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (3454cb1dab, 2026-07-01)"
+   sodipodi:docname="icesignals-tic0-2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.67583038"
+     inkscape:cx="551.1738"
+     inkscape:cy="82.121197"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(0.87355947,-9.3390903)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.833271;stroke-dasharray:none"
+       id="rect10"
+       width="277.66928"
+       height="121.85848"
+       x="-0.87355947"
+       y="9.3390903" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.841567;stroke-dasharray:none"
+       id="rect11"
+       width="273.54568"
+       height="118.23081"
+       x="1.8370579"
+       y="11.152929" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.87355947,-9.3390903)">
+    <g
+       id="g3"
+       transform="translate(0,69.61425)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path12143"
+         d="m 123.13752,-25.160114 h 8.58085"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:1.25832;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         rx="3.0948901"
+         ry="3.0948901"
+         y="-44.255768"
+         x="66.078529"
+         height="38.32671"
+         width="57.058998"
+         id="rect861-2"
+         style="display:inline;fill:#e3e3e3;fill-opacity:1;stroke:#777777;stroke-width:0.342969;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path865-3"
+         d="M 53.973437,-25.55842 H 66.026668"
+         style="display:inline;fill:none;stroke:#777777;stroke-width:0.840242;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="display:inline;fill:#fbfbc9;fill-opacity:1;stroke:#777777;stroke-width:0.420119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect948"
+         width="7.9892292"
+         height="8.3055115"
+         x="46.83123"
+         y="-29.851488"
+         ry="1.9629005"
+         rx="1.9629005" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#58595a;stroke-width:0.480035;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 65.976852,-29.859273 4.641248,3.729501 -4.641248,3.925802"
+         id="path866-3"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g992-7"
+         transform="matrix(0.937236,0,0,0.937236,0.01355646,-94.009429)"
+         style="display:inline">
+        <circle
+           r="14.559162"
+           cy="73.815468"
+           cx="100.60208"
+           id="path992-2-6-3"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.608443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1773-2-3-1-8-9-5"
+           d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+           style="fill:none;stroke:#008000;stroke-width:1.52111;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g992-6"
+         transform="matrix(0.43932349,0,0,0.43932349,66.387178,-49.855112)"
+         style="display:inline">
+        <circle
+           r="14.559162"
+           cy="73.815468"
+           cx="100.60208"
+           id="path992-2-0"
+           style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.608443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           sodipodi:nodetypes="cccc"
+           inkscape:connector-curvature="0"
+           id="path1773-2-3-1-8-9-6"
+           d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+           style="fill:none;stroke:#008000;stroke-width:1.52111;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g45958-2"
+         transform="matrix(0.51134957,0,0,0.51134957,105.12981,-132.72807)"
+         style="display:inline;stroke-width:1.11861">
+        <circle
+           r="12.620646"
+           cy="225.33946"
+           cx="-51.400829"
+           id="path992-2-6-6"
+           style="fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.589986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <text
+           y="232.14616"
+           x="-58.632561"
+           style="font-weight:400;font-size:35.2825px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#0000ff;stroke-width:0.732036"
+           font-weight="400"
+           font-size="27.48"
+           letter-spacing="0"
+           word-spacing="0"
+           id="text4204-6"
+           transform="scale(0.99852717,1.001475)"
+           inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90"><tspan
+             style="font-weight:700;font-size:20.1616px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.732036"
+             y="232.14616"
+             x="-58.632561"
+             font-weight="700"
+             font-size="15.703"
+             id="tspan4206-1">0</tspan></text>
+      </g>
+      <rect
+         style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.516039;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect8310-8"
+         width="15.871004"
+         height="8.5720739"
+         x="100.98484"
+         y="-39.332355"
+         ry="1.460685"
+         rx="1.460685" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.88052px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.172013"
+         x="102.24899"
+         y="-33.111435"
+         id="text2010-7"><tspan
+           sodipodi:role="line"
+           id="tspan2008-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.172013"
+           x="102.24899"
+           y="-33.111435">Sys</tspan></text>
+    </g>
+    <text
+       x="186.99861"
+       y="52.852169"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text1"><tspan
+         sodipodi:role="line"
+         x="186.99861"
+         y="52.852169"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'"
+         id="tspan5">Pulso<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+   id="tspan14">: Icono usado para</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="186.99861"
+         y="57.29718"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan11">indicar que este componente</tspan><tspan
+         sodipodi:role="line"
+         x="186.99861"
+         y="61.742188"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan13">genera un pulso</tspan></text>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 101.92091,42.914066 50.29386,10.238108"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="175.58772"
+       y="26.644104"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text4"><tspan
+         sodipodi:role="line"
+         x="175.58772"
+         y="26.644104"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Relog del sistema:</tspan><tspan
+         sodipodi:role="line"
+         x="175.58772"
+         y="31.089113"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan4">Este componente cambia de estado</tspan><tspan
+         sodipodi:role="line"
+         x="175.58772"
+         y="35.534122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan16">interno en cada ciclo del reloj del sistema</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.463187;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect14"
+       width="14.245498"
+       height="7.6941237"
+       x="158.71214"
+       y="23.978554"
+       ry="1.311082"
+       rx="1.311082" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.17581px;line-height:1.25;font-family:sans-serif;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.154395"
+       x="159.84679"
+       y="29.562344"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.154395"
+         x="159.84679"
+         y="29.562344">Sys</tspan></text>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 116.85584,34.567932 38.8457,-6.091347"
+       id="path15"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 115.45905,55.915316 15.99363,27.96475"
+       id="path17"
+       sodipodi:nodetypes="cc" />
+    <text
+       x="151.66202"
+       y="90.22393"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text21"><tspan
+         sodipodi:role="line"
+         x="151.66202"
+         y="90.22393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan21"><tspan
+   id="tspan22"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Salida con tics</tspan>: La salida genera pulsos</tspan><tspan
+         sodipodi:role="line"
+         x="151.66202"
+         y="94.668938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan23">de tipo 'tic': son los que tienen una</tspan><tspan
+         sodipodi:role="line"
+         x="151.66202"
+         y="99.113953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan24">duración de 1 ciclo de reloj del sistema</tspan></text>
+    <circle
+       r="7.7884097"
+       cy="95.987343"
+       cx="14.942033"
+       id="circle32"
+       style="display:inline;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.364091;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       y="102.05276"
+       x="9.2773657"
+       style="font-weight:400;font-size:28.6049px;line-height:0%;font-family:sans-serif;letter-spacing:0;word-spacing:0;display:inline;fill:#0000ff;stroke-width:0.593489"
+       font-weight="400"
+       font-size="27.48"
+       letter-spacing="0"
+       word-spacing="0"
+       id="text32"
+       transform="scale(0.99852717,1.001475)"
+       inkscape:export-filename="/home/obijuan/develop/FPGAwars/Icestudio-block-icons/Hearts/png/Heart_1Hz.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-weight:700;font-size:16.3458px;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff;stroke-width:0.593489"
+         y="102.05276"
+         x="9.2773657"
+         font-weight="700"
+         font-size="15.703"
+         id="tspan32">0</tspan></text>
+    <text
+       x="25.566935"
+       y="95.264938"
+       fill="#000000"
+       font-family="Ubuntu"
+       font-size="4.9389px"
+       stroke-width="0.39688"
+       style="line-height:0.9;display:inline;fill:#1a1a1a"
+       xml:space="preserve"
+       id="text36"><tspan
+         sodipodi:role="line"
+         x="25.566935"
+         y="95.264938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan34"><tspan
+   id="tspan33"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold'">Arranque de la señal</tspan>:</tspan><tspan
+         sodipodi:role="line"
+         x="25.566935"
+         y="99.709946"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan36">Comienza en el ciclo 0</tspan></text>
+    <path
+       style="fill:#e5ffd5;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 73.965168,56.335474 22.390122,89.416626"
+       id="path38"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g6"
+       transform="matrix(0.937236,0,0,0.937236,73.277838,-8.1543577)"
+       style="display:inline">
+      <circle
+         r="14.559162"
+         cy="73.815468"
+         cx="100.60208"
+         id="circle5"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.608443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path6"
+         d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+         style="fill:none;stroke:#008000;stroke-width:1.52111;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g7"
+       transform="matrix(0.43932349,0,0,0.43932349,96.355805,59.003478)"
+       style="display:inline">
+      <circle
+         r="14.559162"
+         cy="73.815468"
+         cx="100.60208"
+         id="circle6"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#008000;stroke-width:0.608443;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path7"
+         d="m 106.97785,82.141683 h -3.35236 V 63.316223 H 97.540294 V 81.99432 h -3.65214"
+         style="fill:none;stroke:#008000;stroke-width:1.52111;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
